@@ -324,6 +324,7 @@ adistance.messenger.com
 admin.bytedance.com
 admin.instagram.com
 admin.intern.facebook.com
+ads-sg.tiktok.com
 ads.facebook.com
 ads.fbsbx.com
 ads.snapchat.com
@@ -2920,6 +2921,7 @@ bytedance.map.fastly.net
 bytedanceapi.com
 bytedns.net
 bytegeo.akadns.net
+bytegoofy.com
 byteicdn.com
 byteimg.com
 byteimg.com.bsgslb.com
@@ -16769,6 +16771,7 @@ pinterest.com
 pinterest.de
 pitaya-task-va.bytedance.com
 pitaya-task-va.tiktokv.com
+pitaya-task.byteintl.com
 pitaya-va.bytedance.com
 pitaya-va.tiktokv.com
 pixel-brand.fbjs.facebook.com
@@ -17768,6 +17771,7 @@ pull-l3-hs.pstatp.com
 pull-l3-hs.pstatp.com.w.alikunlun.net
 pull-l3-xg.ixigua.com.xi.zwtianshangm.com
 pull-l3.hypstarcdn.com
+pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.tiktokcdn.com
 pull-q5-va01.tiktokcdn.com
 pull-q5.tiktokcdn.com
@@ -17799,6 +17803,7 @@ pull-rtmp-l16-va01.tiktokcdn.com.atomile.com
 pull-rtmp-l6-hs.pstatp.com
 pull-rtmp-l6-xg.bytecdn.cn
 pull-source-cmaf-f5.hypstarcdn.com
+pull-w5-gcp01.tiktokcdn.com
 pull-w5-sg01.tiktokcdn.com
 pull-w5-va01.tiktokcdn.com
 pull-w5.tiktokcdn.com
@@ -20004,6 +20009,7 @@ sf16-sg-default.edgesuite.net
 sf16-sg.hypstarcdn.com
 sf16-sg.muscdn.com
 sf16-sg.tiktokcdn.com
+sf16-short-sg.bytegoofy.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
 sf16-tk.tiktokcdn.com
@@ -23922,6 +23928,7 @@ www.business.cinyour.facebook.com
 www.businesspartners.fb.com
 www.bytecdn.cn
 www.bytedanceapi.com
+www.bytegoofy.com
 www.byteicdn.com
 www.byteoversea.com
 www.byteoversea.net
