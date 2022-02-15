@@ -7,6 +7,7 @@
 0-edge-chat.facebook.com
 0-edge-chat.messenger.com
 0.beta.facebook.com
+lf16-geckocdn-sg.tiktokcdn.com
 0.facebook.com
 0.facebook.com.cgi-bin.nph-roxy.cgi.0.http.0.facebook.com
 0.fb.me
@@ -913,6 +914,7 @@ api16-core-n-alisg.tiktokv.com
 api16-core-n-alisg.tiktokv.com.edgekey.net
 api16-core-va.tiktokv.com
 api16-core-va.tiktokv.com.edgekey.net
+api16-core.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
 api16-normal-c-alisg.tiktokv.com.edgekey.net
 api16-normal-c-useast1a.musical.ly
@@ -1053,6 +1055,7 @@ api22-core-c6-alisg.tiktokv.com
 api22-core-i-alisg.sgsnssdk.com
 api22-core-n-alisg.tiktokv.com
 api22-core-va.tiktokv.com
+api22-core.tiktokv.com
 api22-normal-c-alisg.tiktokv.com
 api22-normal-c-useast1a.musical.ly
 api22-normal-c-useast1a.tiktokv.com
@@ -2925,6 +2928,7 @@ bytegoofy.com
 byteicdn.com
 byteimg.com
 byteimg.com.bsgslb.com
+byteintl.com
 bytemock-http-boe.byted.org
 byteoversea.com
 byteoversea.com.bytegeo.akadns.net
@@ -10005,6 +10009,8 @@ gtaph.fb.me
 gtf-eapi.byteoversea.com
 gtfac.byteoversea.com
 gtfstorage.byteoversea.com
+gtq-lenses.sct.sc-prod.net
+gtq.sct.sc-prod.net
 gtq6.sct.sc-prod.net
 gtraph.fb.me
 gts-ns.byteoversea.com
@@ -10827,6 +10833,7 @@ i16-tb.isnssdk.com
 i16-tb.isnssdk.com.edgekey.net
 i16-tb.sgsnssdk.com
 i18n-pglstatp.com
+i2-pinimg-com-edgesuite-net-ion.pinimg.com
 i2.pstatp.com
 i22-tb-quic.sgsnssdk.com
 i3.pstatp.com
@@ -17069,6 +17076,7 @@ prn-vsptest.fb.com
 prn1-cmdf-ra-fpvpn.corp.tfbnw.net
 prn1-cmdf-ra-fpvpn1.corp.tfbnw.net
 prn1-cmdf-ra-fpvpn2.corp.tfbnw.net
+pro-accounts.snapchat.com
 prod.facebook.com
 prod.facebookvirtualassistant.com
 prod.messenger.com
@@ -20039,6 +20047,7 @@ sf19-va.tiktokcdn.com
 sf19-webcast.hypstarcdn.com
 sf19-webcast.muscdn.com
 sf19-webcast.tiktokcdn.com
+sf19.tiktokcdn-us.com
 sf2-dycdn-tos.pstatp.com
 sf2-ttcdn-tos.pstatp.com
 sf21-tk.tiktokcdn.com
@@ -22175,6 +22184,7 @@ v.bsgslb.com
 v.hypstarcdn.com
 v.ipstatp.com
 v.musical.ly
+v.pinimg.com
 v.pstatp.com
 v.sgpstatp.com
 v.tiktok.com
@@ -23425,6 +23435,7 @@ webcast16-useast2a.musical.ly.edgekey.net
 webcast16-va.tiktokv.com
 webcast16-va.tiktokv.com.edgekey.net
 webcast16-ws-c-va.tiktokv.com
+webcast16-ws-useast1a.tiktokv.com
 webcast16.musical.ly
 webcast16.musical.ly.edgekey.net
 webcast16.tiktokv.com
@@ -23930,6 +23941,7 @@ www.bytecdn.cn
 www.bytedanceapi.com
 www.bytegoofy.com
 www.byteicdn.com
+www.byteintl.com
 www.byteoversea.com
 www.byteoversea.net
 www.c.facebook.com
