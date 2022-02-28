@@ -7,7 +7,6 @@
 0-edge-chat.facebook.com
 0-edge-chat.messenger.com
 0.beta.facebook.com
-lf16-geckocdn-sg.tiktokcdn.com
 0.facebook.com
 0.facebook.com.cgi-bin.nph-roxy.cgi.0.http.0.facebook.com
 0.fb.me
@@ -1094,6 +1093,7 @@ api30-h2.tiktokv.com
 api30.glb.byteoversea.net
 api30.tiktokv.com
 api31-core-q-useast1a.tiktokv.com
+api31-normal-c-useast1a.tiktokv.com
 api31-normal-q-useast1a.tiktokv.com
 api31.bytegeo.akadns.net
 api31.tiktokv.com
@@ -3032,6 +3032,7 @@ can.fbsbx.com
 canada.m.beta.facebook.com
 canterbury.facebook.com
 canvas.facebook.com
+canvaz.scdn.co
 capiot.m.facebook.com
 capture.byteoversea.com
 car.toutiao.com
@@ -3661,6 +3662,7 @@ da-dk.zh-tw.ro-ro.fbjs.facebook.com
 da-dk.zh-tw.upps.lite.facebook.com
 da-dk.zh.lite.facebook.com
 da-dk.zh.tw.lite.facebook.com
+dailymix-images.scdn.co
 damaskevents.facebookbrand-dev.fb.com
 damaskevents.fb.me
 danone.m.facebook.com
@@ -9791,6 +9793,7 @@ gb.lite.facebook.com
 gb.messenger.com
 gb.newsroom.fb.com
 gcp.api.snapchat.com
+gcs.sc-cdn.net
 gdaph.fb.me
 ge-0-0-1.pr01.iad3.tfbnw.net
 ge-chat.messenger.com
@@ -10815,6 +10818,7 @@ i.l.bytedns.net
 i.messenger.com
 i.pinimg.com
 i.pstatp.com
+i.scdn.co
 i.sgnssdk.com
 i.sgsnssdk.com
 i.snssdk.com
@@ -11127,6 +11131,7 @@ infeccionvaginal.messenger.com
 infection-resources-co.messenger.com
 info.internet.org
 initiatives.france.fb.com
+insgame-api-va.tiktokv.com
 inside.lite.facebook.com
 insidefeed.fb.com
 insights.fb.com
@@ -17642,6 +17647,7 @@ publicstaticvoid.dev.messenger.com
 publicstaticvoid.internmcr.facebook.com
 publicvoidlife.beta.facebook.com
 puig.facebook.com
+pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
 pull-cmaf-f16-gcp01.tiktokcdn.com
@@ -18515,6 +18521,7 @@ sc-it.zh-tw.prod.facebook.com
 sc-it.zh-tw.ro-ro.fbjs.facebook.com
 sc-prod.net
 scarolina.facebook.com
+scdn.co
 scdn.fbsbx.com
 scgraph.facebook.com
 scontent-1.2914.fna.fbcdn.net
@@ -23424,6 +23431,7 @@ webcast100-normal-c-lq.amemv.com
 webcast100-normal-c-lq.snssdk.com
 webcast100-normal-c.amemv.com
 webcast100-normal-c.snssdk.com
+webcast15-ws-useast1a.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
 webcast16-normal-c-useast1a.tiktokv.com
 webcast16-normal-c-useast1a.tiktokv.com.edgekey.net
@@ -25447,6 +25455,7 @@ www.sc-cdn.net
 www.sc-gw.com
 www.sc-it.nl-nl.prod.facebook.com
 www.sc-prod.net
+www.scdn.co
 www.scontent.fbaq2-2.fna.fbcdn.net
 www.scontent.fbog2-2.fna.fbcdn.net
 www.scontent.fbru2-1.fna.fbcdn.net
