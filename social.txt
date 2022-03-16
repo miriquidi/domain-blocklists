@@ -753,6 +753,7 @@ analytics-sg.tiktok.com
 analytics.facebook.com
 analytics.intern.facebook.com
 analytics.pinterest.com
+analytics.snapchat.com
 analytics.snssdk.com
 analytics.tiktok.com
 analytics.tiktok.com.edgekey.net
@@ -1093,8 +1094,10 @@ api30-h2.tiktokv.com
 api30.glb.byteoversea.net
 api30.tiktokv.com
 api31-core-q-useast1a.tiktokv.com
+api31-core-useast1a.tiktokv.com
 api31-normal-c-useast1a.tiktokv.com
 api31-normal-q-useast1a.tiktokv.com
+api31-normal-useast1a.tiktokv.com
 api31.bytegeo.akadns.net
 api31.tiktokv.com
 api32.tiktokv.com
@@ -1137,6 +1140,7 @@ app.fbjs.facebook.com
 app.lite.facebook.com
 app.musemuse.cn
 app.musical.ly
+app.snapchat.com
 app.snssdk.com
 app.toutiao.com
 app.toutiao.com.w.cdngslb.com
@@ -2322,12 +2326,14 @@ as-in.prod.facebook.com
 as-in.th-th.de-de.prod.facebook.com
 as-in.www.www.lite.facebook.com
 asahdigital.fb.com
+ase.adserver.snapads.com
 ash-appstore.fb.com
 ash-fsoutpost.fb.com
 ash-vpn.tfbnw.net
 ash-vsp.fb.com
 ash1.fbcdn.net
 asi4teytg.secure.beta.facebook.com
+asia-southeast1-gcp.api.snapchat.com
 asiafusiontech.facebook.com
 aside.fbsbx.com
 askimaskim.messenger.com
@@ -2455,6 +2461,8 @@ aweme.snssdk.com.xi.zwtianshangm.com
 awh1h1q7.dns.facebook.com
 aws-proxy-gcp.api.sc-gw.com
 aws-proxy-gcp.api.snapchat.com
+aws.api.snapchat.com
+aws.duplex.snapchat.com
 awssg.l.byteoversea.net
 ax7bmcgf-cay.es-la.fbjs.facebook.com
 axian993.oculusvr.com
@@ -2923,6 +2931,7 @@ bytedance.akadns.net
 bytedance.map.fastly.net
 bytedanceapi.com
 bytedns.net
+bytegecko-i18n.com
 bytegeo.akadns.net
 bytegoofy.com
 byteicdn.com
@@ -3108,6 +3117,7 @@ centrocorona.facebookbrand-release.fb.com
 centrocorona.fb.me
 centrocorona.messenger.com
 century21.facebook.com
+cf-st.sc-cdn.net
 cg.snssdk.com
 cgame-gameset1.snssdk.com
 cgame-gameset2.snssdk.com
@@ -4334,6 +4344,7 @@ dsp.toutiao.com
 dttorhs584ri4.cloudfront.net
 du.facebook.com
 dualstack-pinterest-map-fastly-net.pinimg.com
+dualstack.pinterest.map.fastly.net
 dungeonhero.oculusvr.com
 duracell.facebook.com
 dwcho3004545.oculusvr.com
@@ -6805,6 +6816,7 @@ eu-es.zh-cn.fbjs.facebook.com
 eu-es.zh-tw.ha.lite.facebook.com
 eu-preprod.fb.com
 eu-west1-aws.api.sc-gw.com
+eu-west1-aws.duplex.sc-gw.com
 eu.fb.com
 eu1-buzzfeedbf-storage-py.sso.stage.autodiscover.oculusvr.com
 eunmask.fb.me
@@ -9834,6 +9846,7 @@ genome.facebook.com
 gente.messenger.com
 geo.facebook.com
 geo.instagram.com
+geofilters-api.snapchat.com
 geoinfection.fb.me
 georgianc.facebook.com
 germany.fb.com
@@ -12639,6 +12652,7 @@ instagram.fsgn10-1.fna.fbcdn.net
 instagram.fsgn12-1.fna.fbcdn.net
 instagram.fsgn5-1.fna.fbcdn.net
 instagram.fsgn5-5.fna.fbcdn.net
+instagram.fsgn5-8.fna.fbcdn.net
 instagram.fsgn6-1.fna.fbcdn.net
 instagram.fsgn8-1.fna.fbcdn.net
 instagram.fshl1-1.fna.fbcdn.net
@@ -14514,12 +14528,14 @@ lf16-geckocdn-sg.ibytedtos.com
 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
 lf16-geckocdn-sg.tiktokcdn.com
 lf16-geckocdn-sg.tiktokcdn.com.edgesuite.net
+lf16-geckocdn.bytegecko-i18n.com
 lf16-lark-va.ibytedtos.com
 lf16-lark-va.ibytedtos.com.edgekey.net
 lf16-mt-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com.edgekey.net
 lf16-tcs.tiktokcdn.com
+lf16-tiktok-common.ibytedtos.com
 lf16-tos-files-va.tiktokcdn.com
 lf16-tos-files.tiktokcdn.com
 lf19-geckocdn-sg.ibytedtos.com
@@ -14662,6 +14678,7 @@ lntecc.m.facebook.com
 lntinfotech.facebook.com
 lntinfotech.m.facebook.com
 lo-la.facebook.com
+loc.sc-jpl.com
 loc.snssdk.com
 location-traceroute-sg.bytedance.com
 lockdown.facebookbrand-preprod.fb.com
@@ -14703,6 +14720,7 @@ log16-normal-useast1a.tiktokv.com
 log16-platform-ycru.tiktokv.com
 log16.byteoversea.com
 log16.byteoversea.com.edgekey.net
+log19-normal-alisg.tiktokv.com
 log19-normal-useast1a.tiktokv.com
 log2-useast1a.musical.ly
 log2-useast1a.musical.ly.edgekey.net
@@ -15607,6 +15625,7 @@ mvaali-wallet.byteoversea.com
 mvaali1.l.byteoversea.net
 mvaali1.ws.byteoversea.net
 mvaali2.l.byteoversea.net
+mvm.snapchat.com
 mvnu.facebook.com
 mx.instagram.fmnl5-1.fna.fbcdn.net
 mx.yearinreview.fb.com
@@ -17647,6 +17666,7 @@ publicstaticvoid.dev.messenger.com
 publicstaticvoid.internmcr.facebook.com
 publicvoidlife.beta.facebook.com
 puig.facebook.com
+pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
@@ -17668,6 +17688,8 @@ pull-cmaf-f58-sg01.tiktokcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com.rocket-cdn.com
+pull-cmaf-l16-gcp01.tiktokcdn.com
+pull-cmaf-l16-sg01.tiktokcdn.com
 pull-cmaf-l16-tt01.tiktokcdn-us.com
 pull-cmaf-l16-va01.tiktokcdn.com
 pull-cmaf-l77-va01.tiktokcdn.com
@@ -17726,6 +17748,8 @@ pull-flv-l10-sg01.tiktokcdn.com.rocket-cdn.com
 pull-flv-l11-gcp01.tiktokcdn.com
 pull-flv-l11-sg01.tiktokcdn.com
 pull-flv-l11.tiktokcdn.com
+pull-flv-l16-gcp01.tiktokcdn.com
+pull-flv-l16-sg01.tiktokcdn.com
 pull-flv-l16-tt01.tiktokcdn-us.com
 pull-flv-l16-va01.tiktokcdn.com
 pull-flv-l16-va01.tiktokcdn.com.atomile.com
@@ -17733,6 +17757,7 @@ pull-flv-l6-act.pstatp.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-xg.bytecdn.cn
 pull-flv-l7.pstatp.com
+pull-flv-l77-va01.tiktokcdn.com
 pull-hls-f1-ab.tiktokcdn.com
 pull-hls-f1-ab.tiktokcdn.com.wsdvs.com
 pull-hls-f1.tiktokcdn.com
@@ -18241,7 +18266,9 @@ rtlog.sgsnssdk.com
 rtlog.snssdk.com
 rtlog.snssdk.com.w.kunluncan.com
 rtlog.tiktokv.com
+rtlog19-normal-alisg.tiktokv.com
 rtlog19-normal-useast1a.tiktokv.com
+rtlog22-normal-alisg.tiktokv.com
 rtlog22-normal-useast1a.tiktokv.com
 rtmp-api.facebook.com
 rtmp-l11.tiktokcdn.liveplay.myqcloud.com
@@ -20004,6 +20031,7 @@ sf1-xgcdn-tos.pstatp.com.wsglb0.com
 sf16-cgfe-sg.ibytedtos.com
 sf16-cgfe-va.ibytedtos.com
 sf16-eacdn-tos.pstatp.com
+sf16-fe-tos-sg.i18n-pglstatp.com
 sf16-ies-music-sg.tiktokcdn.com
 sf16-ies-music-va.tiktokcdn.com
 sf16-lark-va.ibytedtos.com
@@ -20025,6 +20053,7 @@ sf16-sg.hypstarcdn.com
 sf16-sg.muscdn.com
 sf16-sg.tiktokcdn.com
 sf16-short-sg.bytegoofy.com
+sf16-short-va.bytegoofy.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
 sf16-tk.tiktokcdn.com
@@ -20373,6 +20402,8 @@ smtpin.vvv.facebook.com
 sn-zw.facebook.com
 sn-zw.lite.facebook.com
 snafu.tfbnw.net
+snapads.com
+snapchat-proxy.appspot.com
 snapchat.com
 snapkit.com
 snaptu-1.facebook.com
@@ -22151,10 +22182,12 @@ ur-pk.zh-tw.ro-ro.fbjs.facebook.com
 ur-pk.zh.tw.lite.facebook.com
 ursinus.facebook.com
 us-central1-gcp.api.snapchat.com
+us-east1-aws-cf.api.snapchat.com
 us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 usafa.facebook.com
 usb-shortcut-virus-remover.fr-fr.prod.facebook.com
+usc.adserver.snapads.com
 ustglobal.facebook.com
 ustglobal.m.facebook.com
 utexas.facebook.com
@@ -23947,6 +23980,7 @@ www.business.cinyour.facebook.com
 www.businesspartners.fb.com
 www.bytecdn.cn
 www.bytedanceapi.com
+www.bytegecko-i18n.com
 www.bytegoofy.com
 www.byteicdn.com
 www.byteintl.com

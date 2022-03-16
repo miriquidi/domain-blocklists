@@ -63,6 +63,7 @@ alt.com
 amazon-adsystem.com
 amplitude.com
 analytics-data.io
+analytics.google.com
 aniview.com
 apester.com
 app-measurement.com
@@ -300,7 +301,6 @@ omtrdc.net
 onesignal.com
 onet.pl
 onetag-sys.com
-onetrust.com
 onezapp.com
 onthe.io
 opecloud.com
