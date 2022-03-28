@@ -896,6 +896,7 @@ api100-quic-c-lq.snssdk.com
 api100-quic-c.snssdk.com
 api15-h2-eagle.tiktokv.com
 api15-h2.tiktokv.com
+api15-normal-probe-useast1a.tiktokv.com
 api16-core-c-alisg.tiktokv.com
 api16-core-c-alisg.tiktokv.com.edgekey.net
 api16-core-c-useast1a.musical.ly
@@ -930,6 +931,7 @@ api16-normal-i-alisg.sgsnssdk.com
 api16-normal-i-sg.sgsnssdk.com
 api16-normal-ipv4.sgsnssdk.com
 api16-normal-ipv6.sgsnssdk.com
+api16-normal-probe-useast1a.tiktokv.com
 api16-normal-v4.tiktokv.com
 api16-normal-v4.tiktokv.com.edgekey.net
 api16-normal-v6.tiktokv.com
@@ -949,6 +951,7 @@ api19-normal-c-useast1a.musical.ly
 api19-normal-c-useast1a.tiktokv.com
 api19-normal-c-useast2a.musical.ly
 api19-normal-c-useast2a.tiktokv.com
+api19-normal-probe-useast1a.tiktokv.com
 api19-va.tiktokv.com
 api19.tiktokv.com
 api19.toutiao50.com
@@ -1062,6 +1065,8 @@ api22-normal-c-useast1a.tiktokv.com
 api22-normal-c-useast2a.musical.ly
 api22-normal-c-useast2a.tiktokv.com
 api22-normal-i-alisg.sgsnssdk.com
+api22-normal-probe-useast1a.tiktokv.co
+api22-normal-probe-useast1a.tiktokv.com
 api22-quic.sgsnssdk.com
 api22-quic.tiktokv.com
 api22-va.tiktokv.com
@@ -1096,6 +1101,7 @@ api30.tiktokv.com
 api31-core-q-useast1a.tiktokv.com
 api31-core-useast1a.tiktokv.com
 api31-normal-c-useast1a.tiktokv.com
+api31-normal-probe-useast1a.tiktokv.com
 api31-normal-q-useast1a.tiktokv.com
 api31-normal-useast1a.tiktokv.com
 api31.bytegeo.akadns.net
@@ -16805,6 +16811,7 @@ pitaya-task-va.tiktokv.com
 pitaya-task.byteintl.com
 pitaya-va.bytedance.com
 pitaya-va.tiktokv.com
+pitaya.byteintl.com
 pixel-brand.fbjs.facebook.com
 pixel-demo.fbjs.facebook.com
 pixel-edge.fbjs.facebook.com
@@ -21778,6 +21785,7 @@ tos-boei18n-va.byted.org
 tos-cm-hl.snssdk.com
 tos-ct-hl.snssdk.com
 tos-cu-hl.snssdk.com
+tos-d-maliva16-up.byteoversea.net
 tos-gcpgb-va.tiktokcdn.com
 tos-gcpgb.muscdn.com
 tos-gcpin-va.tiktokcdn.com
@@ -21810,6 +21818,7 @@ tos-maliva21-up.tiktokcdn.com
 tos-nc2-slb1.bytecdn.cn
 tos-nc2-slb2.bytecdn.cn
 tos-nc2.snssdk.com
+tos-quic-gcpnl.tiktokcdn.com
 tos-quic-sg.tiktokcdn.com
 tos-useast2a.muscdn.com
 tos-useast2a.tiktokcdn.com
