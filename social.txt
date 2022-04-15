@@ -2936,6 +2936,7 @@ bytedance-tmcdn.tm.com.my
 bytedance.akadns.net
 bytedance.map.fastly.net
 bytedanceapi.com
+bytedapm.com
 bytedns.net
 bytegecko-i18n.com
 bytegeo.akadns.net
@@ -2954,6 +2955,7 @@ byteoversea.net
 bytetcdn.com
 bytewlb.akadns.net
 bytps.snssdk.com
+c-test.sc-cdn.net
 c.bytetcdn.com
 c.facebook.com
 c.fb.messenger.com
@@ -3454,6 +3456,7 @@ cs-cz.zh.lite.facebook.com
 cs-cz.zh.tw.lite.facebook.com
 cs.oculusvr.com
 cs.snssdk.com
+cs531.wpc.edgecastcdn.net
 cscc.facebook.com
 csf.facebook.com
 csg.oculusvr.com
@@ -17674,6 +17677,8 @@ publicstaticvoid.internmcr.facebook.com
 publicvoidlife.beta.facebook.com
 puig.facebook.com
 pull-a16-tt01.fcdn.us.tiktokv.com
+pull-a5-gcp01.tiktokcdn.com
+pull-a5-sg01.tiktokcdn.com
 pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
@@ -17683,6 +17688,7 @@ pull-cmaf-f16-sg01.tiktokcdn.com
 pull-cmaf-f16-sg01.ttlivecdn.com
 pull-cmaf-f16-tt01.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt01.tiktokcdn.com
+pull-cmaf-f16-tt02.tiktokcdn.com
 pull-cmaf-f16-va01.tiktokcdn.com
 pull-cmaf-f16-va01.ttlivecdn.com
 pull-cmaf-f16.tiktokcdn.com
@@ -17716,6 +17722,8 @@ pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.co
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
+pull-f5-tt02.fcdn.us.tiktokv.com
+pull-f5-tt02.tiktokcdn.com
 pull-f5-va01.tiktokcdn.com
 pull-f5-va01.ttlivecdn.com
 pull-f5-va01.ttlivecdn.com.c.worldfcdn.com
@@ -17864,6 +17872,7 @@ push-rtmp-f5-gcp01.ttlivecdn.com
 push-rtmp-f5-sg01.tiktokcdn.com
 push-rtmp-f5-sg01.ttlivecdn.com
 push-rtmp-f5-tt01.fcdn.us.tiktokv.com
+push-rtmp-f5-tt02.fcdn.us.tiktokv.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
@@ -20060,6 +20069,7 @@ sf16-sg.hypstarcdn.com
 sf16-sg.muscdn.com
 sf16-sg.tiktokcdn.com
 sf16-short-sg.bytegoofy.com
+sf16-short-va.bytedapm.com
 sf16-short-va.bytegoofy.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
@@ -21507,6 +21517,7 @@ tiktok-core-lb-maliva-useast2a.byteoversea.net
 tiktok-core-lb-maliva.byteoversea.net
 tiktok-lb-alisg.byteoversea.net
 tiktok-lb-maliva.byteoversea.net
+tiktok.bytedance.map.fastly.net
 tiktok.cdnvideo.ru
 tiktok.com
 tiktok.com.c.footprint.net
@@ -22436,6 +22447,7 @@ v36.tiktokcdn.com
 v37.tiktokcdn.com
 v38.tiktokcdn.com
 v39-ca.gts.byteoversea.net
+v39-eu-p.tiktokcdn.com
 v39-eu.gts.byteoversea.net
 v39-eu.tiktokcdn.com
 v39-eucold.tiktokcdn.com
@@ -23989,6 +24001,7 @@ www.business.cinyour.facebook.com
 www.businesspartners.fb.com
 www.bytecdn.cn
 www.bytedanceapi.com
+www.bytedapm.com
 www.bytegecko-i18n.com
 www.bytegoofy.com
 www.byteicdn.com
