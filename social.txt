@@ -9813,6 +9813,7 @@ gb.latest.instagram.com
 gb.lite.facebook.com
 gb.messenger.com
 gb.newsroom.fb.com
+gcp.api.sc-gw.com
 gcp.api.snapchat.com
 gcs.sc-cdn.net
 gdaph.fb.me

@@ -30,7 +30,6 @@ admarvel.com
 adnxs-simple.com
 adnxs.com
 adnz.co
-adobedtm.com
 adroll.com
 adrtx.net
 ads-twitter.com
@@ -420,6 +419,7 @@ taboola.com
 tagcommander.com
 tapfiliate.com
 tapjoy.com
+targetbox.de
 tawk.to
 teads.tv
 tealiumiq.com
