@@ -14546,6 +14546,7 @@ lf16-muse-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com.edgekey.net
 lf16-tcs.tiktokcdn.com
 lf16-tiktok-common.ibytedtos.com
+lf16-tiktok-common.ttwstatic.com
 lf16-tos-files-va.tiktokcdn.com
 lf16-tos-files.tiktokcdn.com
 lf19-geckocdn-sg.ibytedtos.com
@@ -15571,6 +15572,7 @@ msgin.vvv.facebook.com
 msgr-latest.c10r.facebook.com
 msn.messenger.com
 mssdk-sg.byteoversea.com
+mssdk-va.tiktok.com
 mssdk-va.tiktokv.com
 mssdk-va.tiktokv.com.edgekey.net
 mssdk.snssdk.com
@@ -16168,6 +16170,7 @@ oculusforbusiness.fb.com
 oculusvr.com
 oculusvrive.oculusvr.com
 oculusweb.fb.com
+oec16-normal-useast1a.tiktokv.com
 oedge-c2p-shv-01-sjc3.lite.facebook.com
 ohio.facebook.com
 oildex.facebook.com
@@ -22044,6 +22047,7 @@ ttopencdn.jomodns.com
 ttpush-alisg.byteoversea.com
 ttpush-maliva.byteoversea.com
 ttv5opencdn.jomodns.com
+ttwstatic.com
 tuchong.pstatp.com
 tuchong.pstatp.com.w.cdngslb.com
 turk-fb.m.beta.facebook.com
@@ -25716,6 +25720,7 @@ www.tr-tr.sv-se.fr-fr.prod.facebook.com
 www.tr-tr.vi-vn.lite.facebook.com
 www.tr.msn.messenger.com
 www.ttlivecdn.com
+www.ttwstatic.com
 www.turkcell-imbenim.0.facebook.com
 www.turkcelluygulamalar.com.0.facebook.com
 www.twimg.com
