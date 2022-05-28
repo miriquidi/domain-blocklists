@@ -2909,6 +2909,7 @@ bsdk.sgsnssdk.com
 bsdk.snssdk.com
 bsr1000ive.oculusvr.com
 bstjoeun-016.autodiscover.oculusvr.com
+bsync-va.tiktokv.com
 bt.intern.fbsbx.com
 buatmaskerwajah.lite.facebook.com
 bucknell.facebook.com
@@ -10518,6 +10519,7 @@ hotapi-va.isnssdk.com.edgekey.net
 hotapi-va.tiktokv.com
 hotapi-va.tiktokv.com.edgekey.net
 hotapi.sgsnssdk.com
+hotapi16-normal-useast1a.tiktokv.com
 hotmail.msn.messenger.com
 hotsoon-a-hl.snssdk.com
 hotsoon-a-hl.snssdk.com.w.kunluncan.com
@@ -15576,6 +15578,7 @@ mssdk-va.tiktok.com
 mssdk-va.tiktokv.com
 mssdk-va.tiktokv.com.edgekey.net
 mssdk.snssdk.com
+mssdk16-normal-useast1a.tiktokv.com
 msw1aa.01.hkg3.tfbnw.net
 msw1ac.01.sea1.tfbnw.net
 msw1af.01.dfw1.tfbnw.net
@@ -19983,6 +19986,7 @@ search16-normal-c-useast1a.tiktokv.com
 search16-normal-c-useast1a.tiktokv.com.edgekey.net
 search16-normal-c-useast2a.tiktokv.com
 search16-normal-c-useast2a.tiktokv.com.edgekey.net
+search19-normal-c-useast1a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
 searchcombinationdistance.internmc.facebook.com
 searchportal.fbjs.facebook.com
@@ -23437,6 +23441,7 @@ wcupa.facebook.com
 wd.snssdk.com
 wd3.bytecdn.cn
 wd3.pstatp.com
+weatherlive.info
 web.beta.facebook.com
 web.facebook.com
 web.fb.me
@@ -25923,6 +25928,7 @@ x.l.bytedns.net
 x22lookaside.fbsbx.com
 xd.snssdk.com
 xd.snssdk.com.w.kunluncan.com
+xdevice-api.tiktokv.com
 xe-3-1-0.pr02.sin1.tfbnw.net
 xgapi-hl.snssdk.com
 xgapi-hl.snssdk.com.w.kunluncan.com
