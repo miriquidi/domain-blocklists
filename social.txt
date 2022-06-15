@@ -88,6 +88,7 @@
 1uipkgq.mzfvozqybf.com
 1v4nxmk.dns.facebook.com
 1ynsm7483ffp2lc5j5rs4bu13mm.facebookbrand-dev.fb.com
+2-01-37d2-0018.cdx.cedexis.net
 2-channel-proxy-07-ash2.facebook.com
 2-edge-chat-latest.messenger.com
 2-edge-chat.facebook.com
@@ -324,9 +325,12 @@ adistance.messenger.com
 admin.bytedance.com
 admin.instagram.com
 admin.intern.facebook.com
+ads-dev.pinterest.com
+ads-interfaces.sc-cdn.net
 ads-sg.tiktok.com
 ads.facebook.com
 ads.fbsbx.com
+ads.pinterest.com
 ads.snapchat.com
 ads.tiktok.com
 ads.tiktok.com.edgekey.net
@@ -3097,6 +3101,7 @@ cdg2.facebook.com
 cdg2.fbcdn.com
 cdg2.fbcdn.net
 cdn-ams.fbsbx.com
+cdn-eb.syndication.twitter.com
 cdn-feature.byted.org
 cdn-sin.fbsbx.com
 cdn-t1.byteoversea.com
@@ -3107,6 +3112,7 @@ cdn.fbsbx.com
 cdn.isnssdk.com
 cdn.sgsnssdk.com
 cdn.syndication.twimg.com
+cdn.syndication.twitter.com
 cdn.tiktok.com.c.footprint.net
 cdn.tiktok.com.c.secure.footprint.net
 cdn1-effect.snssdk.com
@@ -10194,6 +10200,7 @@ headers-shv-00-rfrc0.facebook.com
 headers-shv-00-rprn0.facebook.com
 headers-shv-04-prn2.facebook.com
 headers.t.facebook.com
+heads-ak-spotify-com.akamaized.net
 healthlive.oculusvr.com
 heart-surgery-ntm-infection-lawyer.cinyour.facebook.com
 hec.facebook.com
@@ -11157,6 +11164,7 @@ infection-resources-co.messenger.com
 info.internet.org
 initiatives.france.fb.com
 insgame-api-va.tiktokv.com
+insgame-api-va.tiktokv.com.edgekey.net
 inside.lite.facebook.com
 insidefeed.fb.com
 insights.fb.com
@@ -14546,6 +14554,7 @@ lf16-lark-va.ibytedtos.com.edgekey.net
 lf16-mt-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com.edgekey.net
+lf16-pkgcdn.pitaya-clientai.com
 lf16-tcs.tiktokcdn.com
 lf16-tiktok-common.ibytedtos.com
 lf16-tiktok-common.ttwstatic.com
@@ -14553,6 +14562,7 @@ lf16-tos-files-va.tiktokcdn.com
 lf16-tos-files.tiktokcdn.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
+lf19-pkgcdn.pitaya-clientai.com
 lf2-hscdn-tos.pstatp.com
 lf3-adcdn-tos.pstatp.com
 lf3-adcdn-tos.pstatp.com.w.alikunlun.com
@@ -14602,6 +14612,7 @@ lianmengapi-lq.snssdk.com
 lianmengapi.snssdk.com
 lianmengapi.snssdk.com.w.kunluncan.com
 libra-va.tiktokv.com
+libra16-normal-useast1a.tiktokv.com
 library.musical.ly
 lifeedu-016.oculusvr.com
 lindenwood.facebook.com
@@ -16816,6 +16827,7 @@ pinimg.com
 pinterest.at
 pinterest.com
 pinterest.de
+pitaya-clientai.com
 pitaya-task-va.bytedance.com
 pitaya-task-va.tiktokv.com
 pitaya-task.byteintl.com
@@ -17118,6 +17130,7 @@ prn1-cmdf-ra-fpvpn.corp.tfbnw.net
 prn1-cmdf-ra-fpvpn1.corp.tfbnw.net
 prn1-cmdf-ra-fpvpn2.corp.tfbnw.net
 pro-accounts.snapchat.com
+probe-49624308.v39-perf.tiktokcdn.com
 prod.facebook.com
 prod.facebookvirtualassistant.com
 prod.messenger.com
@@ -17715,6 +17728,7 @@ pull-cmaf-f5.tiktokcdn.com.akamaized.net
 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 pull-cmaf-f58-sg01.tiktokcdn.com
 pull-cmaf-f77-gcp01.tiktokcdn.com
+pull-cmaf-f77-sg01.tiktokcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com.rocket-cdn.com
@@ -17770,6 +17784,9 @@ pull-flv-f11-va01.tiktokcdn.com
 pull-flv-f11.tiktokcdn.com
 pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
 pull-flv-f6-xg.bytecdn.cn
+pull-flv-f77-gcp01.tiktokcdn.com
+pull-flv-f77-sg01.tiktokcdn.com
+pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com.wsdvs.com
 pull-flv-l1-hs.pstatp.com
@@ -22472,6 +22489,8 @@ v36.tiktokcdn.com
 v37.tiktokcdn.com
 v38.tiktokcdn.com
 v39-ca.gts.byteoversea.net
+v39-dynamic-fra1.tiktokcdn.com
+v39-dynamic-fra3.tiktokcdn.com
 v39-eu-p.tiktokcdn.com
 v39-eu.gts.byteoversea.net
 v39-eu.tiktokcdn.com
@@ -23747,6 +23766,7 @@ www.aap.lite.facebook.com
 www.about.fb.com
 www.access.fb.com
 www.ad-dk.lite.facebook.com
+www.ads-interfaces.sc-cdn.net
 www.af-za.developers.prod.facebook.com
 www.af-za.ja-jp.m.lite.facebook.com
 www.af-za.lite.facebook.com
@@ -25272,6 +25292,7 @@ www.pinimg.com
 www.pinterest.at
 www.pinterest.com
 www.pinterest.de
+www.pitaya-clientai.com
 www.pixel.messenger.com
 www.pl-pl.af-za.lite.facebook.com
 www.pl-pl.ar-ar.dns.facebook.com
