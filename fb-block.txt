@@ -22,6 +22,7 @@ adjust.world
 adklick.net
 adlane.info
 adlightning.com
+admo.tv
 adnxs-simple.com
 adnxs.com
 adobetarget.com
@@ -65,7 +66,6 @@ applovin.com
 applvn.com
 appsflyer.com
 appsflyersdk.com
-appspot.com
 apptimize.com
 asadcdn.com
 asnapieu.com

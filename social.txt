@@ -4361,6 +4361,7 @@ dttorhs584ri4.cloudfront.net
 du.facebook.com
 dualstack-pinterest-map-fastly-net.pinimg.com
 dualstack.pinterest.map.fastly.net
+dualstack.twimg.twitter.map.fastly.net
 dungeonhero.oculusvr.com
 duracell.facebook.com
 dwcho3004545.oculusvr.com
@@ -4380,6 +4381,7 @@ e.l.bytedns.net
 e.oculusvr.com
 e.snssdk.com
 e.toutiao.com
+e28622.a.akamaiedge.net
 eager.oculusvr.com
 eagleye.snssdk.com
 eagleye.snssdk.com.w.kunluncan.com
@@ -9816,6 +9818,7 @@ garph.fb.me
 gas-power.facebookbrand-2018-preprod.fb.com
 gate.snssdk.com
 gateway.facebook.com
+gateway.instagram.com
 gb.latest.instagram.com
 gb.lite.facebook.com
 gb.messenger.com
@@ -9983,6 +9986,7 @@ graph.fb.me
 graph.fbpigeon.com
 graph.fbsbx.com
 graph.instagram.com
+graph.intern.facebook.com
 graph.messenger.com
 graph.oculus.com
 graph.prod.facebook.com
@@ -10201,6 +10205,7 @@ headers-shv-00-rprn0.facebook.com
 headers-shv-04-prn2.facebook.com
 headers.t.facebook.com
 heads-ak-spotify-com.akamaized.net
+heads-fa.scdn.co
 healthlive.oculusvr.com
 heart-surgery-ntm-infection-lawyer.cinyour.facebook.com
 hec.facebook.com
@@ -14560,6 +14565,7 @@ lf16-tiktok-common.ibytedtos.com
 lf16-tiktok-common.ttwstatic.com
 lf16-tos-files-va.tiktokcdn.com
 lf16-tos-files.tiktokcdn.com
+lf16-web.tiktokcdn.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
 lf19-pkgcdn.pitaya-clientai.com
@@ -15398,7 +15404,9 @@ mon.snssdk.com.xi.zwtianshangm.com
 mon.tiktokv.com
 mon.tiktokv.com.edgesuite.net
 mon.toutiao.com
+mon15-normal-useast1a.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
+mon19-normal-useast1a.tiktokv.com
 mongoosev.byted.org
 monitor.isnssdk.com
 monsetting.toutiao.com
@@ -16834,6 +16842,7 @@ pitaya-task.byteintl.com
 pitaya-va.bytedance.com
 pitaya-va.tiktokv.com
 pitaya.byteintl.com
+pitaya.tiktokv.com
 pixel-brand.fbjs.facebook.com
 pixel-demo.fbjs.facebook.com
 pixel-edge.fbjs.facebook.com
