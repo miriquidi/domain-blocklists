@@ -898,6 +898,7 @@ api100-quic-c-hl.snssdk.com
 api100-quic-c-lf.snssdk.com
 api100-quic-c-lq.snssdk.com
 api100-quic-c.snssdk.com
+api15-core-alisg.tiktokv.com
 api15-h2-eagle.tiktokv.com
 api15-h2.tiktokv.com
 api15-normal-probe-useast1a.tiktokv.com
@@ -3055,6 +3056,7 @@ canada.m.beta.facebook.com
 canterbury.facebook.com
 canvas.facebook.com
 canvaz.scdn.co
+capcut.com
 capiot.m.facebook.com
 capture.byteoversea.com
 car.toutiao.com
@@ -5564,6 +5566,7 @@ edgetee-upload-staging-hkt.xx.fbcdn.net
 edgetee-upload-staging-sin.xx.fbcdn.net
 edgetee-upload-staging-sin6-2.xx.fbcdn.net
 edgetee-upload-staging-xsp.xx.fbcdn.net
+editor-api-sg.capcut.com
 edn.fbsbx.com
 edpbr.facebook.com
 edppt.facebook.com
@@ -10532,6 +10535,7 @@ hotapi-va.tiktokv.com
 hotapi-va.tiktokv.com.edgekey.net
 hotapi.sgsnssdk.com
 hotapi16-normal-useast1a.tiktokv.com
+hotapi19-normal-useast1a.tiktokv.com
 hotmail.msn.messenger.com
 hotsoon-a-hl.snssdk.com
 hotsoon-a-hl.snssdk.com.w.kunluncan.com
@@ -14569,6 +14573,7 @@ lf16-web.tiktokcdn.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
 lf19-pkgcdn.pitaya-clientai.com
+lf19-tos-files.tiktokcdn.com
 lf2-hscdn-tos.pstatp.com
 lf3-adcdn-tos.pstatp.com
 lf3-adcdn-tos.pstatp.com.w.alikunlun.com
@@ -15385,6 +15390,7 @@ mon-alias1.snssdk.com
 mon-cold.snssdk.com
 mon-hl.snssdk.com
 mon-hl.snssdk.com.w.kunluncan.com
+mon-i18n.tiktokv.com
 mon-ipv6.snssdk.com
 mon-va-useast2a.byteoversea.com
 mon-va.byteoversea.com
@@ -17139,7 +17145,19 @@ prn1-cmdf-ra-fpvpn.corp.tfbnw.net
 prn1-cmdf-ra-fpvpn1.corp.tfbnw.net
 prn1-cmdf-ra-fpvpn2.corp.tfbnw.net
 pro-accounts.snapchat.com
+probe-395eb85c.v39-perf.tiktokcdn.com
+probe-3b51e1ad.v39-perf.tiktokcdn.com
 probe-49624308.v39-perf.tiktokcdn.com
+probe-4e09c646.v39-perf.tiktokcdn.com
+probe-68b9978f.v39-perf.tiktokcdn.com
+probe-7ca821ae.v39-perf.tiktokcdn.com
+probe-91624b6f.v39-perf.tiktokcdn.com
+probe-99b9e579.v39-perf.tiktokcdn.com
+probe-abe808a9.v39-perf.tiktokcdn.com
+probe-b1518333.v39-perf.tiktokcdn.com
+probe-d6d04f81.v39-perf.tiktokcdn.com
+probe-e6a9e4f2.v39-perf.tiktokcdn.com
+probe-f4b19398.v39-perf.tiktokcdn.com
 prod.facebook.com
 prod.facebookvirtualassistant.com
 prod.messenger.com
@@ -20059,6 +20077,7 @@ security2.snssdk.com
 security2.snssdk.com.w.kunluncan.com
 security3.snssdk.com
 security3.snssdk.com.w.kunluncan.com
+seeded-session-images.scdn.co
 seformer.fb.com
 segyeuhak1live.oculusvr.com
 seminolecc.facebook.com
@@ -20121,6 +20140,7 @@ sf16-sg.tiktokcdn.com
 sf16-short-sg.bytegoofy.com
 sf16-short-va.bytedapm.com
 sf16-short-va.bytegoofy.com
+sf16-static.i18n-pglstatp.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
 sf16-tk.tiktokcdn.com
@@ -21552,6 +21572,7 @@ thevaccinesuk.facebookbrand-release.fb.com
 thevaccinesuk.messenger.com
 third-api.amemv.com
 third-api.amemv.com.w.cdngslb.com
+thisis-images.scdn.co
 thomaskeble.facebookbrand-preprod.fb.com
 thomaskeble.fb.me
 thomaskonrad.fb.me
@@ -23545,6 +23566,7 @@ webcast16-normal-c-useast1a.tiktokv.com
 webcast16-normal-c-useast1a.tiktokv.com.edgekey.net
 webcast16-normal-c-useast2a.tiktokv.com
 webcast16-normal-c-useast2a.tiktokv.com.edgekey.net
+webcast16-normal-gquic-useast1a.tiktokv.com
 webcast16-useast1a.musical.ly
 webcast16-useast2a.musical.ly
 webcast16-useast2a.musical.ly.edgekey.net
@@ -23559,6 +23581,7 @@ webcast16.tiktokv.com.edgekey.net
 webcast19-normal-c-alisg.tiktokv.com
 webcast19-normal-c-useast1a.tiktokv.com
 webcast19-normal-c-useast2a.tiktokv.com
+webcast19-normal-iquic-useast1a.tiktokv.com
 webcast19-useast1a.musical.ly
 webcast19-useast2a.musical.ly
 webcast19-va.tiktokv.com
@@ -24070,6 +24093,7 @@ www.ca-es.pl-pl.tr-tr.prod.facebook.com
 www.ca-es.ro-ro.fbjs.facebook.com
 www.ca.msn.messenger.com
 www.calibra.com
+www.capcut.com
 www.careerconnections.fb.com
 www.cb-iq.fbjs.facebook.com
 www.cdn.fbsbx.com
