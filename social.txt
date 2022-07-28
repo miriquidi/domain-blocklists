@@ -17784,6 +17784,7 @@ pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.co
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
+pull-f5-tt02-infra.fcdn.us.tiktokv.com
 pull-f5-tt02.fcdn.us.tiktokv.com
 pull-f5-tt02.tiktokcdn.com
 pull-f5-va01.tiktokcdn.com
