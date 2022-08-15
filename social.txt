@@ -2426,6 +2426,7 @@ auxx.oculusvr.com
 avatar2.13.oculusvr.com
 avatar2.z.oculusvr.com
 avg-anti-virus-free.cinyourrc.facebook.com
+aw.sc-cdn.net
 awaji-mandai-jp.oculusvr.com
 aweme-activity-lb.t.bytedns.net
 aweme-bee-hl.snssdk.com
@@ -2951,6 +2952,7 @@ byteicdn.com
 byteimg.com
 byteimg.com.bsgslb.com
 byteintl.com
+byteintlapi.com
 bytemock-http-boe.byted.org
 byteoversea.com
 byteoversea.com.bytegeo.akadns.net
@@ -6015,6 +6017,7 @@ en.facebookbrand.com
 en.fb.me
 en.gb.messenger.com
 en.lite.facebook.com
+encore.scdn.co
 engineerfortheweek.fb.com
 engineering.fb.com
 engineering.instagram.com
@@ -6846,6 +6849,7 @@ eunmask.scgraph.facebook.com
 europe-fb.m.beta.facebook.com
 europe-west1-gcp.api.snapchat.com
 europeanunion.fb.com
+euw.adserver.snapads.com
 euwe-fb.m.beta.facebook.com
 eva.snssdk.com
 evangel.facebook.com
@@ -9863,6 +9867,7 @@ gecko16-normal-c-useast1a.tiktokv.com
 gecko16-normal-c-useast1a.tiktokv.com.edgesuite.net
 gecko16-normal-c-useast2a.tiktokv.com
 gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
+gecko16-normal-useast1a.tiktokv.com
 gedfaccdcf.temp.p23.tc.cdntip.com
 generalelectric.m.facebook.com
 genome.facebook.com
@@ -12400,6 +12405,7 @@ instagram.fmii2-1.fna.fbcdn.net
 instagram.fmji1-1.fna.fbcdn.net
 instagram.fmkz1-1.fna.fbcdn.net
 instagram.fmla1-1.fna.fbcdn.net
+instagram.fmla2-1.fna.fbcdn.net
 instagram.fmle2-1.fna.fbcdn.net
 instagram.fmlg2-1.fna.fbcdn.net
 instagram.fmmx1-1.fna.fbcdn.net
@@ -13100,6 +13106,7 @@ iowa.facebook.com
 ip.messenger.com
 ip222-autodiscover.oculusvr.com
 iphone.facebook.com
+ipolyfill-origin-us.byteintlapi.com
 ippon.m.facebook.com
 ipstatp.com
 ipstatp.com.edgekey.net
@@ -14567,6 +14574,7 @@ lf16-pkgcdn.pitaya-clientai.com
 lf16-tcs.tiktokcdn.com
 lf16-tiktok-common.ibytedtos.com
 lf16-tiktok-common.ttwstatic.com
+lf16-tiktok-web.ttwstatic.com
 lf16-tos-files-va.tiktokcdn.com
 lf16-tos-files.tiktokcdn.com
 lf16-web.tiktokcdn.com
@@ -16432,9 +16440,11 @@ p15a.tiktokcdn.com
 p16-ad-sg.ibyteimg.com
 p16-ad.byteoversea.com
 p16-amd-va.tiktokcdn.com
+p16-c-sign-va.ibyteimg.com
 p16-captcha-us.ibyteimg.com
 p16-catalog-sg.ibyteimg.com
 p16-cg-gaudit.ibyteimg.com
+p16-magic-va.ibyteimg.com
 p16-mt-sg-a.ibyteimg.com
 p16-mt-sg-b.ibyteimg.com
 p16-mt-sg.ibyteimg.com
@@ -17757,6 +17767,7 @@ pull-cmaf-f58-sg01.tiktokcdn.com
 pull-cmaf-f77-gcp01.tiktokcdn.com
 pull-cmaf-f77-sg01.tiktokcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com
+pull-cmaf-l10-gcp01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com.rocket-cdn.com
 pull-cmaf-l16-gcp01.tiktokcdn.com
@@ -17824,6 +17835,7 @@ pull-flv-l1-xg.bytecdn.cn
 pull-flv-l1.hypstarcdn.com
 pull-flv-l1.tiktokcdn.com
 pull-flv-l1.tiktokcdn.com.wsdvs.com
+pull-flv-l10-gcp01.tiktokcdn.com
 pull-flv-l10-sg01.tiktokcdn.com
 pull-flv-l10-sg01.tiktokcdn.com.rocket-cdn.com
 pull-flv-l11-gcp01.tiktokcdn.com
@@ -20130,6 +20142,7 @@ sf16-passport-va.ibytedtos.com
 sf16-passport-va.ibytedtos.com.edgekey.net
 sf16-scmcdn-sg.ibytedtos.com
 sf16-scmcdn-va.ibytedtos.com
+sf16-secsdk.ttwstatic.com
 sf16-secsvc-sg.ibytedtos.com
 sf16-security-sg.ibytedtos.com
 sf16-security-va.ibytedtos.com
@@ -21044,6 +21057,7 @@ static.ak.facebook.com.edgesuite.net
 static.ak.fbcdn.net
 static.ak.instagram.com
 static.ak.new.facebook.com
+static.cdninstagram.com
 static.facebook.com
 static.fbcdn.com
 static.fdel11-1.fna.fbcdn.net
@@ -22281,6 +22295,7 @@ us-east4-gcp.api.snapchat.com
 usafa.facebook.com
 usb-shortcut-virus-remover.fr-fr.prod.facebook.com
 usc.adserver.snapads.com
+use.adserver.snapads.com
 ustglobal.facebook.com
 ustglobal.m.facebook.com
 utexas.facebook.com
@@ -24085,6 +24100,7 @@ www.bytegecko-i18n.com
 www.bytegoofy.com
 www.byteicdn.com
 www.byteintl.com
+www.byteintlapi.com
 www.byteoversea.com
 www.byteoversea.net
 www.c.facebook.com
