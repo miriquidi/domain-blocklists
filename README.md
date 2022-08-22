@@ -7,7 +7,3 @@
 <strong>Website - Daily Updates</strong>
 
 <a href="https://fussle.de" target="_blank" title="fussle.de" alt="fussle.de">fussle.de</a>
-
-<strong>Buy me a Coffee :)</strong>
-
-Patreon: <a href="https://www.patreon.com/fussle" target="_blank" title="patreon.com/fussle" alt="patreon.com/fussle">patreon.com/fussle</a>
