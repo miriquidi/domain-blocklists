@@ -13984,6 +13984,7 @@ jsb-va.tiktokv.com
 jsb-va.tiktokv.com.edgekey.net
 jsb.snssdk.com
 jsb16-normal-c-useast1a.tiktokv.com
+jsb16-normal-useast1a.tiktokv.com
 jsrong-live.oculusvr.com
 jtjxpx.qfyf1toi.com
 juliangyinqing.com
@@ -17736,6 +17737,7 @@ puig.facebook.com
 pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
 pull-a5-sg01.tiktokcdn.com
+pull-a5-tt01.fcdn.us.tiktokv.com
 pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
@@ -17818,6 +17820,9 @@ pull-flv-f1-sg01.tiktokcdn.com
 pull-flv-f1-xg.bytecdn.cn
 pull-flv-f1.tiktokcdn.com
 pull-flv-f1.tiktokcdn.com.wsdvs.com
+pull-flv-f10-gcp01.tiktokcdn.com
+pull-flv-f10-sg01.tiktokcdn.com
+pull-flv-f10-va01.tiktokcdn.com
 pull-flv-f11-ab.tiktokcdn.com
 pull-flv-f11-va01.tiktokcdn.com
 pull-flv-f11.tiktokcdn.com
