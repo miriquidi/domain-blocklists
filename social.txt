@@ -17910,6 +17910,8 @@ pull-l3-hs.pstatp.com
 pull-l3-hs.pstatp.com.w.alikunlun.net
 pull-l3-xg.ixigua.com.xi.zwtianshangm.com
 pull-l3.hypstarcdn.com
+pull-o5-gcp01.tiktokcdn.com
+pull-o5-sg01.tiktokcdn.com
 pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.tiktokcdn.com
 pull-q5-va01.tiktokcdn.com
@@ -20050,6 +20052,7 @@ search16-normal-c-useast2a.tiktokv.com
 search16-normal-c-useast2a.tiktokv.com.edgekey.net
 search19-normal-c-useast1a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
+search31-normal-useast1a.tiktokv.com
 searchcombinationdistance.internmc.facebook.com
 searchportal.fbjs.facebook.com
 secure-edge-latest-shv-01-icn1.facebook.com
@@ -22294,6 +22297,7 @@ ur-pk.zh-tw.ro-ro.fbjs.facebook.com
 ur-pk.zh.tw.lite.facebook.com
 ursinus.facebook.com
 us-central1-gcp.api.snapchat.com
+us-east1-aws-acc.api.snapchat.com
 us-east1-aws-cf.api.snapchat.com
 us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
