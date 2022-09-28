@@ -2387,6 +2387,7 @@ attachments.facebook.com
 au.newsroom.fb.com
 au.yearinreview.fb.com
 audience.fb.com
+audio-fa.scdn.co
 aura-11-01-snc7.facebook.com
 australia.fb.com
 auth-www.fbjs.facebook.com
@@ -14561,6 +14562,7 @@ lf1-ttcdn-tos.pstatp.com
 lf1-ttcdn-tos.pstatp.com.wsglb0.com
 lf1-xgcdn-tos.pstatp.com
 lf1-xgcdn-tos.pstatp.com.wsglb0.com
+lf16-campaign.ttlstatic.com
 lf16-geckocdn-sg.ibytedtos.com
 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
 lf16-geckocdn-sg.tiktokcdn.com
@@ -16440,6 +16442,7 @@ p15.hypstarcdn.com
 p15a.tiktokcdn.com
 p16-ad-sg.ibyteimg.com
 p16-ad.byteoversea.com
+p16-adformat-sg.ibyteimg.com
 p16-amd-va.tiktokcdn.com
 p16-c-sign-va.ibyteimg.com
 p16-captcha-us.ibyteimg.com
@@ -21108,6 +21111,7 @@ streaming-graph.facebook.com
 stromectol.beta.messenger.com
 stromectol.messenger.com
 studio.facebook.com
+study.snapads.com
 stun.c10r.facebook.com
 stun.fbsbx.com
 su1-dev.fb.com
@@ -22116,6 +22120,7 @@ tt.dy1.com.xi.zwtianshangm.com
 tt2-bkk-v1.l.byteoversea.net
 ttcdn-tos.pstatp.com
 ttlivecdn.com
+ttlstatic.com
 ttopencdn.gshifen.com
 ttopencdn.jomodns.com
 ttpush-alisg.byteoversea.com
@@ -23699,6 +23704,7 @@ whatvirus.m.beta.facebook.com
 white.instagram.com
 white.ish.instagram.com
 wichita.facebook.com
+widget-va.tiktokv.com
 widgets.pinterest.com
 wifi.fb.com
 wildcard.musical.ly.edgekey.net
@@ -25668,6 +25674,7 @@ www.sl-si.fr-fr.prod.facebook.com
 www.sl-si.prod.facebook.com
 www.sl-si.ro-ro.fbjs.facebook.com
 www.snafu.tfbnw.net
+www.snapads.com
 www.snapchat.com
 www.snapkit.com
 www.snssdk.com
@@ -25805,6 +25812,7 @@ www.tr-tr.sv-se.fr-fr.prod.facebook.com
 www.tr-tr.vi-vn.lite.facebook.com
 www.tr.msn.messenger.com
 www.ttlivecdn.com
+www.ttlstatic.com
 www.ttwstatic.com
 www.turkcell-imbenim.0.facebook.com
 www.turkcelluygulamalar.com.0.facebook.com

@@ -193,6 +193,7 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 gotprofits.com
+gravatar.com
 gravito.net
 highcharts.com
 histats.com
@@ -265,7 +266,6 @@ mixpanel.com
 ml314.com
 moatads.com
 mobileapptracking.com
-modpim.com
 moengage.com
 monetate.net
 mookie1.com
