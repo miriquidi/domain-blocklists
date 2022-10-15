@@ -334,6 +334,7 @@ ads.pinterest.com
 ads.snapchat.com
 ads.tiktok.com
 ads.tiktok.com.edgekey.net
+adsapi.snapchat.com
 adshare.toutiao.com
 adtools.facebook.com
 advantio.facebook.com
@@ -2472,6 +2473,7 @@ aweme.snssdk.com
 aweme.snssdk.com.bytedns.net
 aweme.snssdk.com.xi.zwtianshangm.com
 awh1h1q7.dns.facebook.com
+aws-cf.api.snapchat.com
 aws-proxy-gcp.api.sc-gw.com
 aws-proxy-gcp.api.snapchat.com
 aws.api.snapchat.com
@@ -6849,6 +6851,7 @@ eunmask.messenger.com
 eunmask.scgraph.facebook.com
 europe-fb.m.beta.facebook.com
 europe-west1-gcp.api.snapchat.com
+europe-west1.gcp.api.snapchat.com
 europeanunion.fb.com
 euw.adserver.snapads.com
 euwe-fb.m.beta.facebook.com
@@ -17741,6 +17744,7 @@ pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
 pull-a5-sg01.tiktokcdn.com
 pull-a5-tt01.fcdn.us.tiktokv.com
+pull-a5-tt02-infra.fcdn.us.tiktokv.com
 pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
@@ -17833,6 +17837,7 @@ pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
 pull-flv-f6-xg.bytecdn.cn
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
+pull-flv-f77-tt02.fcdn.us.tiktokv.com
 pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com.wsdvs.com
@@ -20102,6 +20107,7 @@ security2.snssdk.com.w.kunluncan.com
 security3.snssdk.com
 security3.snssdk.com.w.kunluncan.com
 seeded-session-images.scdn.co
+seektables.scdn.co
 seformer.fb.com
 segyeuhak1live.oculusvr.com
 seminolecc.facebook.com
