@@ -328,6 +328,7 @@ admin.intern.facebook.com
 ads-dev.pinterest.com
 ads-interfaces.sc-cdn.net
 ads-sg.tiktok.com
+ads-twitter.com
 ads.facebook.com
 ads.fbsbx.com
 ads.pinterest.com
@@ -4212,6 +4213,7 @@ digitalstation.facebook.com
 digitaltayo.fb.com
 digitaltraining.fb.com
 direct.musical.ly
+direct.quic-core-sg-proxy-gcp.gcpsg.byteoversea.net
 dispatch.byteoversea.com
 distance-ed.msn.messenger.com
 distance-learning.facebookbrand-release.fb.com
@@ -9872,6 +9874,7 @@ gecko16-normal-c-useast1a.tiktokv.com.edgesuite.net
 gecko16-normal-c-useast2a.tiktokv.com
 gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
 gecko16-normal-useast1a.tiktokv.com
+gecko19-normal-useast1a.tiktokv.com
 gedfaccdcf.temp.p23.tc.cdntip.com
 generalelectric.m.facebook.com
 genome.facebook.com
@@ -15426,6 +15429,7 @@ mon.tiktokv.com.edgesuite.net
 mon.toutiao.com
 mon15-normal-useast1a.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
+mon16-normal-useast1a.tiktokv.com
 mon19-normal-useast1a.tiktokv.com
 mongoosev.byted.org
 monitor.isnssdk.com
@@ -15618,6 +15622,7 @@ mssdk-va.tiktokv.com
 mssdk-va.tiktokv.com.edgekey.net
 mssdk.snssdk.com
 mssdk16-normal-useast1a.tiktokv.com
+mssdk19-normal-useast1a.tiktokv.com
 msw1aa.01.hkg3.tfbnw.net
 msw1ac.01.sea1.tfbnw.net
 msw1af.01.dfw1.tfbnw.net
@@ -21068,6 +21073,7 @@ static-ber1-1.xx.fbcdn.net
 static-dfw5-1.xx.fbcdn.net
 static.0.facebook.com
 static.addtoany.com
+static.ads-twitter.com
 static.ak.connect.facebook.com
 static.ak.facebook.com
 static.ak.facebook.com.edgesuite.net
@@ -23836,6 +23842,7 @@ www.about.fb.com
 www.access.fb.com
 www.ad-dk.lite.facebook.com
 www.ads-interfaces.sc-cdn.net
+www.ads-twitter.com
 www.af-za.developers.prod.facebook.com
 www.af-za.ja-jp.m.lite.facebook.com
 www.af-za.lite.facebook.com
