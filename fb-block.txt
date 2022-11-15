@@ -6,6 +6,7 @@
 a-ads.com
 a8723.com
 aatkit.com
+abtasty.com
 acsbapp.com
 adcell.com
 adcell.de
@@ -29,7 +30,6 @@ adobetarget.com
 adpushup.com
 adrtx.net
 ads-vz.com
-ads.linkedin.com
 adsafeprotected.com
 adscale.de
 adschill.com
@@ -112,7 +112,6 @@ clickfunnels.com
 clicktale.net
 company-target.com
 condles-temark.com
-config.unityads.unity3d.com
 connatix.com
 consensu.org
 consentmanager.net
@@ -128,7 +127,6 @@ cookiefirst.com
 cookielaw.org
 cookiepro.com
 crashlytics.com
-crashlyticsreports-pa.googleapis.com
 crazyegg.com
 criteo.com
 criteo.net
@@ -150,6 +148,7 @@ driftt.com
 durationmedia.net
 dwin1.com
 dynamicyield.com
+ebayadservices.com
 econda-monitor.de
 effectivedisplayformats.com
 ekomi.de
@@ -170,9 +169,9 @@ exoclick.com
 exosrv.com
 fastcounter.de
 fera.ai
-firebaselogging.googleapis.com
 fitanalytics.com
 flashtalking.com
+footprintdns.com
 fouanalytics.com
 fullstory.com
 funnelplus.com
@@ -182,6 +181,7 @@ gbucket.at
 geistm.com
 geoedge.be
 getclicky.com
+getflowbox.com
 getjad.io
 getresponse360.pl
 gismart.xyz
@@ -205,6 +205,7 @@ hushpub.com
 iadsdk.apple.com
 icio.us
 id5-sync.com
+igodigital.com
 imasdk.googleapis.com
 img-taboola.com
 impactserving.com
@@ -356,7 +357,6 @@ rlcdn.com
 rollserver.xyz
 rtclx.com
 rubiconproject.com
-s10.histats.com
 samsungads.com
 sascdn.com
 scarabresearch.com
@@ -370,7 +370,6 @@ segment.io
 selfcampaign.com
 semasio.net
 sensic.net
-sentry-cdn.com
 sentry.io
 servedbyadbutler.com
 sexad.net
@@ -484,6 +483,7 @@ xiti.com
 xplosion.de
 xxxiijmp.com
 yadro.ru
+yagiay.com
 yandex.com
 yandex.net
 yandex.ru

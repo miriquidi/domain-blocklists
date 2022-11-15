@@ -2749,6 +2749,7 @@ bidder-shv-05-frc3.facebook.com
 bidder-shv-10-frc1.facebook.com
 bidv.m.facebook.com
 big8686-com.autodiscover.oculusvr.com
+bigo.sg
 bigzipfiles.facebook.com
 bigzipfiles.messenger.com
 billingl.fbjs.facebook.com
@@ -2919,6 +2920,7 @@ bsdk.sgsnssdk.com
 bsdk.snssdk.com
 bsr1000ive.oculusvr.com
 bstjoeun-016.autodiscover.oculusvr.com
+bstream.sgmbocast.com
 bsync-va.tiktokv.com
 bt.intern.fbsbx.com
 buatmaskerwajah.lite.facebook.com
@@ -6773,6 +6775,7 @@ espana.fb.com
 estacaohack.fb.com
 estimulos-y-respuestas.fb.messenger.com
 estimuloseconomicos.msn.messenger.com
+esx.bigo.sg
 et-ee.aap.lite.facebook.com
 et-ee.ar-ar.developers.prod.facebook.com
 et-ee.az-az.ro-ro.fbjs.facebook.com
@@ -9840,6 +9843,7 @@ gcp.api.sc-gw.com
 gcp.api.snapchat.com
 gcs.sc-cdn.net
 gdaph.fb.me
+gdpr-tcfv2.sp-prod.net
 ge-0-0-1.pr01.iad3.tfbnw.net
 ge-chat.messenger.com
 geaph.fb.me
@@ -20282,6 +20286,7 @@ sgali1.ws.byteoversea.net
 sgali3.l.byteoversea.net
 sgaup.bytedance.com
 sgee-mcs.byteoversea.com
+sgmbocast.com
 sgpstatp.com
 sgsnssdk.com
 sgx.facebook.com
@@ -22401,6 +22406,7 @@ v15-fr.tiktokcdn.com
 v15.tiktokcdn.com
 v16-ad.byteoversea.com
 v16-byteoversea.muscdn.com
+v16-cla.tiktokcdn.com
 v16-common.muscdn.com
 v16-common.tiktokcdn.com
 v16-default.byteoversea.com
@@ -22446,6 +22452,7 @@ v16m.tiktokcdn.com.akamaized.net
 v16s.byteicdn.com
 v16s.tiktokcdn.com
 v17-babe.ipstatp.com
+v19-cla.tiktokcdn.com
 v19-hwp.muscdn.com
 v19-hwp.tiktokcdn.com
 v19-web-newkey.tiktokcdn.com
@@ -23469,6 +23476,7 @@ vm.tiktok.com
 vm.tiktok.com.edgesuite.net
 vm.xzcs3zlph.com
 vm.xzcs3zlph.com.edgesuite.net
+vmweb-va.byteoversea.com
 vn.messenger.com
 vnpt-han-api.l.byteoversea.net
 vod-hl.bytedanceapi.com
@@ -24100,6 +24108,7 @@ www.bg-bg.ja-jp.m.lite.facebook.com
 www.bg-bg.pl-pl.fbjs.facebook.com
 www.bg-bg.ru-ru.es-es.prod.facebook.com
 www.bg-bg.sv-se.fr-fr.prod.facebook.com
+www.bigo.sg
 www.binario-f.fb.com
 www.binariof.fb.com
 www.block-test.developerdan.com
@@ -25666,6 +25675,7 @@ www.scontent.fyyc3-1.fna.fbcdn.net
 www.scontent.fyyc4-1.fna.fbcdn.net
 www.sd.beta.facebook.com
 www.seformer.fb.com
+www.sgmbocast.com
 www.sgsnssdk.com
 www.sh.beta.facebook.com
 www.share.oculusvr.com
@@ -27489,7 +27499,6 @@ zlink.toutiao.com
 zlink.toutiao.com.w.cdngslb.com
 zm.fbjs.facebook.com
 zona.fb.com
-zone.msn.messenger.com
 zong-isb-v1.l.byteoversea.net
 zong-khi-v1.l.byteoversea.net
 zong-lhe-v1.l.byteoversea.net
