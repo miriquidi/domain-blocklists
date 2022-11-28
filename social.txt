@@ -2393,6 +2393,7 @@ audio-fa.scdn.co
 aura-11-01-snc7.facebook.com
 australia.fb.com
 auth-www.fbjs.facebook.com
+auth.bereal.team
 auth.oculus.com
 auth2.catalogue.oculusvr.com
 autoconfig.new.facebook.com
@@ -2621,6 +2622,9 @@ be40.bb01.prn3.tfbnw.net
 be44.bb01.iad3.tfbnw.net
 be5.bb01.ams3.tfbnw.net
 belajarmenjaga.fb.com
+bereal.com
+bereal.network
+bereal.team
 berry.facebook.com
 bestlashmascara.staging.scgraph.facebook.com
 beta-chat-01-05-ash3.facebook.com
@@ -2951,6 +2955,7 @@ bytedance.map.fastly.net
 bytedanceapi.com
 bytedapm.com
 bytedns.net
+byteeffecttos-g.com
 bytegecko-i18n.com
 bytegeo.akadns.net
 bytegoofy.com
@@ -3116,6 +3121,7 @@ cdn-feature.byted.org
 cdn-sin.fbsbx.com
 cdn-t1.byteoversea.com
 cdn-t2.byteoversea.com
+cdn.bereal.network
 cdn.cms-twdigitalassets.com
 cdn.facebook.net
 cdn.fbsbx.com
@@ -14573,6 +14579,8 @@ lf1-ttcdn-tos.pstatp.com.wsglb0.com
 lf1-xgcdn-tos.pstatp.com
 lf1-xgcdn-tos.pstatp.com.wsglb0.com
 lf16-campaign.ttlstatic.com
+lf16-effectcdn.byteeffecttos-g.com
+lf16-gecko-source.tiktokcdn.com
 lf16-geckocdn-sg.ibytedtos.com
 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
 lf16-geckocdn-sg.tiktokcdn.com
@@ -15393,6 +15401,7 @@ mn-mn.sq-al.is-is.fbjs.facebook.com
 mn.fb.me
 mns.messenger.com
 mnsu.facebook.com
+mobile.bereal.com
 mobile.beta.facebook.com
 mobile.e.l.bytedns.net
 mobile.facebook.com
@@ -22322,6 +22331,7 @@ us-central1-gcp.api.snapchat.com
 us-east1-aws-acc.api.snapchat.com
 us-east1-aws-cf.api.snapchat.com
 us-east1-aws.api.snapchat.com
+us-east4-gcp-ineg.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 usafa.facebook.com
 usb-shortcut-virus-remover.fr-fr.prod.facebook.com
@@ -24091,6 +24101,9 @@ www.az-az.hu-hu.lite.facebook.com
 www.az-az.ro-ro.fbjs.facebook.com
 www.bankasya.0.facebook.com
 www.belajarmenjaga.fb.com
+www.bereal.com
+www.bereal.network
+www.bereal.team
 www.beta.beta.beta.beta.beta.beta.beta.beta.beta.beta.facebook.com
 www.beta.beta.beta.beta.beta.beta.beta.beta.beta.facebook.com
 www.beta.beta.beta.ebta.beta.ebta.beta.ebat.beta.facebook.com
@@ -24133,6 +24146,7 @@ www.businesspartners.fb.com
 www.bytecdn.cn
 www.bytedanceapi.com
 www.bytedapm.com
+www.byteeffecttos-g.com
 www.bytegecko-i18n.com
 www.bytegoofy.com
 www.byteicdn.com
@@ -26648,6 +26662,7 @@ z-p4.graph.instagram.com
 z-p4.i.instagram.com
 z-p4.upload.instagram.com
 z-p4.www.instagram.com
+z-p42-chat-e2ee-ig.facebook.com
 z-p42-instagram.c10r.facebook.com
 z-p42-instagram.fada1-1.fna.fbcdn.net
 z-p42-instagram.fada1-10.fna.fbcdn.net
