@@ -26,6 +26,7 @@ adlightning.com
 admo.tv
 adnxs-simple.com
 adnxs.com
+adobedtm.com
 adobetarget.com
 adpushup.com
 adrtx.net
@@ -72,7 +73,6 @@ asnapieu.com
 aticdn.net
 attn.tv
 atwola.com
-awstrack.me
 ayads.co
 batch.com
 bazaarvoice.com
@@ -158,6 +158,7 @@ emltrk.com
 emsservice.de
 ensighten.com
 etahub.com
+ethinking.de
 etracker.com
 etracker.de
 eum-appdynamics.com
@@ -229,10 +230,8 @@ ironsrc.mobi
 ivitrack.com
 iwanttodeliver.com
 jads.co
-jquery.com
 jsctool.com
 juicyads.com
-jwpltx.com
 k5a.io
 kameleoon.eu
 kampyle.com
@@ -300,6 +299,7 @@ onetrust.com
 onetrust.io
 online-metrix.net
 onthe.io
+opecloud.com
 opencmp.net
 openx.net
 openxcdn.net
@@ -472,7 +472,6 @@ webroutetrk.com
 webtradecenter.com
 webvisor.com
 webvisor.org
-wlct-one.de
 wpadmngr.com
 wpush.org
 wt-eu02.net

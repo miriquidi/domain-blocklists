@@ -2922,6 +2922,7 @@ bs-ba.zh-tw.upps.lite.facebook.com
 bs-ba.zh.lite.facebook.com
 bsdk.sgsnssdk.com
 bsdk.snssdk.com
+bsgslb.com
 bsr1000ive.oculusvr.com
 bstjoeun-016.autodiscover.oculusvr.com
 bstream.sgmbocast.com
@@ -9224,6 +9225,8 @@ forums.oculusvr.com
 forwardtogether.fb.com
 four.intern.facebook.com
 foxmask.beta.facebook.com
+fp2eeb.wpc.17a0e9.mucdn.net
+fp2eeb.wpc.mucdn.net
 fplm3-1.fna.fbcdn.net
 fpt.facebook.com
 fpt.m.facebook.com
@@ -14595,10 +14598,12 @@ lf16-pkgcdn.pitaya-clientai.com
 lf16-tcs.tiktokcdn.com
 lf16-tiktok-common.ibytedtos.com
 lf16-tiktok-common.ttwstatic.com
+lf16-tiktok-web.ibytedtos.com
 lf16-tiktok-web.ttwstatic.com
 lf16-tos-files-va.tiktokcdn.com
 lf16-tos-files.tiktokcdn.com
 lf16-web.tiktokcdn.com
+lf19-gecko-source.tiktokcdn.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
 lf19-pkgcdn.pitaya-clientai.com
@@ -15659,6 +15664,7 @@ mtmercy.facebook.com
 mtouch.facebook.com
 mtouch.intern.facebook.com
 mu.isnssdk.com
+mucdn.net
 mue.toutiao.com
 mue.toutiao.com.w.cdngslb.com
 muhunupothamuluthange.fb.me
@@ -22327,6 +22333,7 @@ ur-pk.th-th.de-de.prod.facebook.com
 ur-pk.zh-tw.ro-ro.fbjs.facebook.com
 ur-pk.zh.tw.lite.facebook.com
 ursinus.facebook.com
+us-central1-gcp.api.sc-gw.com
 us-central1-gcp.api.snapchat.com
 us-east1-aws-acc.api.snapchat.com
 us-east1-aws-cf.api.snapchat.com
@@ -23501,6 +23508,7 @@ vod.snssdk.com
 vod.us-east-1.bytedanceapi.com
 vodafone.facebook.com
 voffline.pstatp.com
+vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 vpn.tfbnw.net
 vpn10.error.our.intern.facebook.com
 vpn2.byted.org
@@ -24141,6 +24149,7 @@ www.bs-ba.id-id.ro-ro.fbjs.facebook.com
 www.bs-ba.ro-ro.fbjs.facebook.com
 www.bs-ba.sl-si.fbjs.facebook.com
 www.bs-ba.zh-tw.fbjs.facebook.com
+www.bsgslb.com
 www.business.cinyour.facebook.com
 www.businesspartners.fb.com
 www.bytecdn.cn
@@ -25278,6 +25287,7 @@ www.ms-my.zh-tw.fbjs.facebook.com
 www.ms-my.zh-tw.upps.lite.facebook.com
 www.msn.messenger.com
 www.msn.web.messenger.com
+www.mucdn.net
 www.muscdn.com
 www.musemuse.cn
 www.musical.ly
