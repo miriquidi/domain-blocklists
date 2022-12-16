@@ -864,6 +864,7 @@
 270839314865.br.com
 2712.api.swrve.com
 2712.content.swrve.com
+272177.vps-10.com
 2742bb4a980f0d0b1f8df9a75cdcf296.safeframe.googlesyndication.com
 27460.hittail.com
 276bf6.r.axf8.net
@@ -1499,6 +1500,7 @@
 5446.allow-to-continue.com
 5486.winxp.primosearch.com
 5490.spedads.primosearch.com
+54a8f74506b4427eb0860533fb112ca7.clo.footprintdns.com
 54bc7044986c.com
 54f51hje.lalalovish.za.com
 54fangtan.com
@@ -13770,6 +13772,7 @@ avilatransportes.com.br
 avionselect.com
 avionskekarte.co.rs
 avira-vpn.com
+avira.com
 avirtopra.com
 avishkainduwara1998.000webhostapp.com
 avisocadstro.com
@@ -14389,6 +14392,7 @@ bam.nr-data.net
 bambergerkennanchitinous.com
 bambini.ir
 bambino.iprom.net
+bamboo.act.ssa.nortonlifelock.com
 bambuuafryk.com
 bamkofamerica.000webhostapp.com
 bams1.manhatan2018.com
@@ -19499,6 +19503,7 @@ cdn-1744.privacy-mgmt.com
 cdn-1789.privacy-mgmt.com
 cdn-2.riverpush.com
 cdn-217.privacy-mgmt.com
+cdn-259.privacy-mgmt.com
 cdn-270.privacy-mgmt.com
 cdn-3.convertexperiments.com
 cdn-314.privacy-mgmt.com
@@ -22347,6 +22352,8 @@ cmp.blick.de
 cmp.bunte.de
 cmp.businessinsider.de
 cmp.bz-berlin.de
+cmp.cdn.dreamteamfc.com
+cmp.cdn.thesun.co.uk
 cmp.chip.de
 cmp.computerbild.de
 cmp.dmgmediaprivacy.co.uk
@@ -23176,6 +23183,7 @@ conferencesing.com
 confessati.altervista.org
 confesschairs.com
 conffiguration.youthempire.com
+confiant.msn.com
 config-junion.jpush.cn
 config-ltvp.inmobi.com
 config-prod.choice.faktor.io
@@ -24513,6 +24521,7 @@ creativesparkz.co.in
 creativesumo.com
 creativitygap.com
 creativos.ads.uigc.net
+creativsoftware.com.au
 creatormail.co.uk
 creatrealyttittleinfo.co
 creatrixads.com
@@ -31148,6 +31157,7 @@ etissialat.bugs3.com
 etius.jp
 etlanaberez.fun
 etnkorea.com
+eto.bl-rc-staging.creativsoftware.com.au
 etonoras.com
 etoroglobal.com
 etoroinvestmentltd.com
@@ -42132,6 +42142,7 @@ irismedia.g2afse.com
 irk38-potolki.ru
 irmhpoq.net
 irmwordlwide.com
+iron-dot-cobalt-antenna-219709.appspot.com
 ironbeast.io
 irondel.swisshost.by
 ironsrc.com
@@ -61616,6 +61627,7 @@ mohandesbook.com
 mohdhage.ga
 mohion.com
 mohsensadeghi.com
+moiafdaws.clo.footprintdns.com
 moiawsorigin.clo.footprintdns.com
 moikdujs.com
 moikrug.ru
@@ -62307,6 +62319,7 @@ mtrl.me
 mtrtb.com
 mtrx.go.sonobi.com
 mtrytj.download
+mts.norton.com
 mts.ru
 mtsnu-miftahululum.sch.id
 mtspsmjeli.sch.id
@@ -63995,6 +64008,7 @@ newsbox12.com
 newscassino.com
 newscgp.com
 newsclic.ivwbox.de
+newscorp.grapeshot.co.uk
 newscred.com
 newscurve.com
 newsday.122.2o7.net
@@ -64632,6 +64646,7 @@ norton-antivirus-trial.searchservice.info
 norton-app.quantummetric.com
 norton-scan-mobile.com
 nortonalytics.com
+nortonlifelock.com
 norvibk.co.uk
 norwichtrading.co.zm
 norwid.eu
@@ -66676,6 +66691,7 @@ opbandit.com
 opcib.com
 opec.lflink.com
 opecloud.com
+open-api.spot.im
 open-hive-server-1.pp.ua
 open-ticket-ppal.net
 open-vip.bmob.cn
@@ -68326,6 +68342,7 @@ paymentidaccepted-courts-paypal.com
 paymentree.ca
 payments-api-v1-at.greentube.com
 payments.atifsiddiqui.me
+payments.spri.ng
 paymentverified1.com
 payn.me
 payolution.com
@@ -71223,6 +71240,8 @@ procya.cf
 prod-a.applovin.com
 prod-a4.applovin.com
 prod-abc.ro
+prod-auth.eu1.apc.avira.com
+prod-authb-16scshtrf7c16-639781913.eu-central-1.elb.amazonaws.com
 prod-bid.applovin.com
 prod-bidd-bidderlb-app-lb2-700781402.us-east-1.elb.amazonaws.com
 prod-d.openx.com
@@ -72296,6 +72315,7 @@ pxl.pmsrvr.com
 pxl.tsyndicate.com
 pxlad.io
 pxlecdn.com
+pxlme.me
 pxlsrv.net
 pxltgr.com
 pxu.co
@@ -72605,6 +72625,7 @@ qs.wemfbox.ch
 qs25e-musmm.ads.tremorhub.com
 qsajuackl8yzj6i8f4qk.mbservicesyorkshire.co.uk
 qscidskqz.com
+qservers.net
 qservz.com
 qskbuxytcfu.pw
 qskbuy.com
@@ -78392,6 +78413,7 @@ sentphysically.com
 sentraco.com
 sentrix.wltechnology.com
 sentry-io.gestalt.hit.amazon.dev
+sentry-next.wixpress.com
 sentry.aboalarm.com
 sentry.coronafreepass.de
 sentry.dev
@@ -81303,6 +81325,7 @@ spm.efa-light.com
 spn.ee
 spnet5.i-mobile.co.jp
 spns.seriousads.net
+spoc.norton.com
 spoint.spox.com
 spokeninspiredtruck.com
 sponge.sk
@@ -81547,6 +81570,7 @@ sroomafp.allyes.com
 srpx.net
 srpze.saqibsiddiqui.com
 srs.targetpoint.com
+srtb.msn.com
 srtl-pushservice-as.azurewebsites.net
 srtuxxf.org
 srutebmduoh.myfw.us
@@ -84118,6 +84142,7 @@ sync.extend.tv
 sync.getpublica.com
 sync.go.sonobi.com
 sync.hariken.co
+sync.inmobi.com
 sync.ipredictive.com
 sync.jivox.com
 sync.kampagne24.de
@@ -88600,6 +88625,7 @@ tweetr.ml
 tweetsoup.us.intellitxt.com
 twelvefold.com
 twenbrmndfui.myredirect.us
+twentythree.qservers.net
 twentytwoclothing.co.uk
 twiago.com
 twilight-sea-9133.ck.page
@@ -91603,8 +91629,10 @@ vps-04584b70.vps.ovh.net
 vps-068bdf48.vps.ovh.ca
 vps-0a737103.vps.ovh.net
 vps-1.prolificdigital.com
+vps-10.com
 vps-20046.fhnet.fr
 vps-211f50dd.vps.ovh.net
+vps-22154c94.vps.ovh.net
 vps-273674.impulsadoradigitaldenegocios.org
 vps-27e1a643.vps.ovh.ca
 vps-3a2b7ca9.vps.ovh.ca
@@ -95339,6 +95367,7 @@ www.avenidadelmundo.com
 www.avenuea.com
 www.avidglobalmedia.com
 www.avira-vpn.com
+www.avira.com
 www.avnads.com
 www.avnam.net
 www.avo.app
@@ -96754,6 +96783,7 @@ www.creativecdn.com
 www.creativesnet.co.uk
 www.creativesnet.com
 www.creativesumo.com
+www.creativsoftware.com.au
 www.crediblegfj.info
 www.credit-dreams.com
 www.creditfinelor.com
@@ -101171,6 +101201,7 @@ www.newlife36.ru
 www.newonetouse.com
 www.newpoptab.com
 www.newrelic.com
+www.newrrb.bid
 www.news-cdn.site
 www.news-headlines.co
 www.news-n.de
@@ -101281,6 +101312,7 @@ www.northamptonshirecracklingcompany.co.uk
 www.northeastfinancialgroupllc.com
 www.northern-apps.com
 www.northghost.com
+www.nortonlifelock.com
 www.norvibk.co.uk
 www.nospartenaires.com
 www.nosto.com
@@ -102329,6 +102361,7 @@ www.qriapobejbpfygh.net
 www.qrlsx.com
 www.qrtaxi.ru
 www.qscidskqz.com
+www.qservers.net
 www.qsstats.com
 www.qtlcdn.com
 www.qtlglb.com
@@ -104822,6 +104855,7 @@ www.vpnblaster.com
 www.vpnclick.biz
 www.vpre7tz.com
 www.vprza.com
+www.vps-10.com
 www.vral.ru
 www.vrconsultuk.com
 www.vrewpywootyu.com
