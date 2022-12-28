@@ -197,6 +197,7 @@ googletagservices.com
 gotprofits.com
 gravatar.com
 gravito.net
+hatchasked.com
 highcharts.com
 histats.com
 hotjar.com
@@ -271,7 +272,6 @@ moengage.com
 monetate.net
 mookie1.com
 mouseflow.com
-mparticle.com
 mxpnl.com
 mycliplister.com
 myspace.com

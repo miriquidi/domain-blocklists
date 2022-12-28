@@ -2958,6 +2958,7 @@ bytecdn.cn.bsgslb.com
 byted.org
 bytedance-tmcdn.tm.com.my
 bytedance.akadns.net
+bytedance.com
 bytedance.map.fastly.net
 bytedanceapi.com
 bytedapm.com
@@ -3128,6 +3129,7 @@ cdn-feature.byted.org
 cdn-sin.fbsbx.com
 cdn-t1.byteoversea.com
 cdn-t2.byteoversea.com
+cdn.api.twitter.com
 cdn.bereal.network
 cdn.cms-twdigitalassets.com
 cdn.facebook.net
@@ -10000,6 +10002,7 @@ godobusan-009-live.oculusvr.com
 going-global.fb.com
 gojangiive.oculusvr.com
 golden-mask.fb.me
+goofy-cdn.com
 google.0.facebook.com
 google.fb.messenger.com
 google.m.facebook.com
@@ -10931,6 +10934,7 @@ i0.pstatp.com
 i0.pstatp.com.cloudcdn.net
 i0.pstatp.com.cloudglb.com
 i0.pstatp.com.w.alikunlun.com
+i1-pinimg-com-edgesuite-net.pinimg.com
 i1.isnssdk.com
 i1.isnssdk.com.edgekey.net
 i1.pstatp.com
@@ -14632,6 +14636,7 @@ lf16-lark-va.ibytedtos.com.edgekey.net
 lf16-mt-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com.edgekey.net
+lf16-oversea.goofy-cdn.com
 lf16-pkgcdn.pitaya-clientai.com
 lf16-tcs.tiktokcdn.com
 lf16-tiktok-common.ibytedtos.com
@@ -16584,6 +16589,7 @@ p16-c-sign-va.ibyteimg.com
 p16-captcha-us.ibyteimg.com
 p16-catalog-sg.ibyteimg.com
 p16-cg-gaudit.ibyteimg.com
+p16-h1-sign-va.ibyteimg.com
 p16-magic-va.ibyteimg.com
 p16-mt-sg-a.ibyteimg.com
 p16-mt-sg-b.ibyteimg.com
@@ -21930,6 +21936,7 @@ topeng.internmc.facebook.com
 topengima.cinyour.messenger.com
 topengima.m.beta.facebook.com
 topengine.beta.messenger.com
+topic-sticker-vending.snapchat.com
 torimaskepp.facebookbrand-preprod.fb.com
 torontoca.facebook.com
 tos-ag-cu-agsy.snssdk.com
@@ -22550,6 +22557,7 @@ v1-up.amemv.com.wsglb0.com
 v1-xg-p.bytecdn.cn
 v1-xg.bytecdn.cn
 v1.ipstatp.com
+v1.pinimg.com
 v1.pstatp.com
 v1.pstatp.com.wscdns.com
 v10-tt.ixigua.com
@@ -22725,6 +22733,7 @@ v36.tiktokcdn.com
 v37.tiktokcdn.com
 v38.tiktokcdn.com
 v39-ca.gts.byteoversea.net
+v39-de-quic1.tiktokcdn.com
 v39-dynamic-fra1.tiktokcdn.com
 v39-dynamic-fra3.tiktokcdn.com
 v39-eu-p.tiktokcdn.com
@@ -23989,6 +23998,7 @@ wwinternational.facebook.com
 www-client.fbjs.facebook.com
 www-distance.cinyourrc.facebook.com
 www-distance.messenger.com
+www-pinterest-com-edgekey-net.pinterest.com
 www-prod-pinterest-global-map-fastly-net.pinterest.com
 www-prod-shv-13-lla1.facebook.com
 www-test.beta.messenger.com
@@ -24295,6 +24305,7 @@ www.bsgslb.com
 www.business.cinyour.facebook.com
 www.businesspartners.fb.com
 www.bytecdn.cn
+www.bytedance.com
 www.bytedanceapi.com
 www.bytedapm.com
 www.byteeffecttos-g.com
@@ -24873,6 +24884,7 @@ www.gb.lite.facebook.com
 www.germany.fb.com
 www.goalmaximesaj.com.0.facebook.com
 www.going-global.fb.com
+www.goofy-cdn.com
 www.google.0.facebook.com
 www.google.messenger.com
 www.google.www.lite.facebook.com
