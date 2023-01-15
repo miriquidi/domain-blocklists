@@ -884,6 +884,7 @@ api.fb.com
 api.fb.messenger.com
 api.fbcdn.com
 api.fbsbx.com
+api.gateway.kik-live.com
 api.google.fb.messenger.com
 api.huoshan.com.bytedns.net
 api.instagram.com
@@ -910,6 +911,7 @@ api15-core-alisg.tiktokv.com
 api15-h2-eagle.tiktokv.com
 api15-h2.tiktokv.com
 api15-normal-probe-useast1a.tiktokv.com
+api16-core-apix-useast1a.tiktokv.com
 api16-core-c-alisg.tiktokv.com
 api16-core-c-alisg.tiktokv.com.edgekey.net
 api16-core-c-useast1a.musical.ly
@@ -929,6 +931,7 @@ api16-core-n-alisg.tiktokv.com.edgekey.net
 api16-core-va.tiktokv.com
 api16-core-va.tiktokv.com.edgekey.net
 api16-core.tiktokv.com
+api16-normal-apix-useast1a.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
 api16-normal-c-alisg.tiktokv.com.edgekey.net
 api16-normal-c-useast1a.musical.ly
@@ -2400,6 +2403,7 @@ aura-11-01-snc7.facebook.com
 australia.fb.com
 auth-www.fbjs.facebook.com
 auth.bereal.team
+auth.gateway.kik-live.com
 auth.oculus.com
 auth2.catalogue.oculusvr.com
 autoconfig.new.facebook.com
@@ -2766,6 +2770,7 @@ billingl.fbjs.facebook.com
 binario-f.fb.com
 binariof.fb.com
 bip.messenger.com
+bitmoji.com
 biz.fb.com
 bkbd-awsjp16-up-va.tiktokcdn.com
 bkbd-awsjp16-up-va.tiktokcdn.com.edgesuite.net
@@ -3722,6 +3727,7 @@ danpin.snssdk.com
 darkmoon.fb.me
 dashboard.oculus.com
 dashi.facebook.com
+data.media-lab.ai
 dataedu.snssdk.com
 dataforgood.facebook.com
 dataforgood.fb.com
@@ -9979,6 +9985,7 @@ gl-es.pt-br.register.lite.facebook.com
 gl-es.th-th.de-de.prod.facebook.com
 gl-es.www.www.lite.facebook.com
 global-h1.bytedance.map.fastly.net
+global.glbtls.t.co
 globe-telegram.messenger.com
 globe.m.facebook.com
 glos.facebook.com
@@ -10908,6 +10915,7 @@ hyperlapse.instagram.com
 hypstarcdn.com
 hypstarcdn.com.akamaized.net
 hypstarcdn.com.edgesuite.net
+i-fallback.instagram.com
 i-hl.snssdk.com
 i-hl.snssdk.com.w.kunluncan.com
 i-ipv6.snssdk.com
@@ -11173,6 +11181,7 @@ image.dev.oculusvr.com
 image.email.oculusvr.com
 image.mc.facebookmail.com
 images.ak.instagram.com
+images.bitmoji.com
 imagex-settings.bytedanceapi.com
 imagex.ap-singapore-1.bytedanceapi.com
 imagex.bytedanceapi.com
@@ -14157,6 +14166,7 @@ kering.facebook.com
 keurigdrpepper.facebook.com
 keystone.facebook.com
 kfcoronacpa.messenger.com
+kik-live.com
 kingston.facebook.com
 kirkwood.facebook.com
 kj0ao1c79914qh0i4xsy4d.ro-ro.fbjs.facebook.com
@@ -14712,6 +14722,7 @@ line.naver.jp.connect.facebook.net
 link-sg.byteoversea.com
 link-va.byteoversea.com
 link-va.byteoversea.com.edgesuite.net
+linkedin.com
 links.event.facebookmail.com
 linux.fb.com
 lists.facebook.com
@@ -15139,6 +15150,7 @@ m.toutiaocdn.net
 m.tr-tr.latest.facebook.com
 m.tr-tr.ph.fbjs.facebook.com
 m.tw.lite.facebook.com
+m.vk.com
 m.weixin.qq.comwww.operamini.new.facebook.com
 m.zh-hk.fr-fr.prod.facebook.com
 m.zjurl.cn
@@ -15297,6 +15309,7 @@ mcs.snssdk.com
 mcs.us.tiktok.com
 mcs.us.tiktokv.com
 me.lite.facebook.com
+media-lab.ai
 media.facebook.net
 media.fb.com
 media.tiktok.com
@@ -15716,6 +15729,7 @@ ms-my.zh-tw.upps.lite.facebook.com
 ms-my.zh.lite.facebook.com
 ms-my.zh.tw.lite.facebook.com
 ms-myedge-secure-shv-01-lga3.fbjs.facebook.com
+ms.sc-jpl.com
 msandbox.fbjs.facebook.com
 msgin-regional-shv-01-rash0.facebook.com
 msgin-regional-shv-01-rfrc0.facebook.com
@@ -18143,6 +18157,7 @@ put15-tb.isnssdk.com
 pv3oi8206cejo0.is-is.ro-ro.fbjs.facebook.com
 pvbmgpkp.xzcs3zlph.com
 pvcmaskkousoku.internmcr.facebook.com
+px.ads.linkedin.com
 pxmsag.qfyf1toi.com
 q019f5r1itdmz.fbjs.facebook.com
 q6w7dp9vehg3fit12xumcr85bk4noa0jylzs.fbsbx.com
@@ -18730,6 +18745,7 @@ s.ipstatp.com
 s.musemuse.cn
 s.pinimg.com
 s.pstatp.com
+s.sc-cdn.net
 s.sgpstatp.com
 s.tiktokcdn.com
 s.toutiao.com
@@ -18826,6 +18842,7 @@ sc-it.sl-si.prod.facebook.com
 sc-it.th-th.de-de.prod.facebook.com
 sc-it.zh-tw.prod.facebook.com
 sc-it.zh-tw.ro-ro.fbjs.facebook.com
+sc-jpl.com
 sc-prod.net
 scarolina.facebook.com
 scdn.co
@@ -21540,6 +21557,7 @@ sz-pl.www.register.lite.facebook.com
 sz-pl.www.www.lite.facebook.com
 sz-pl.zh-cn.zh-cn.fbjs.facebook.com
 sz-pl.zh-tw.fbjs.facebook.com
+t.co
 t.facebook.com
 t.tiktok.com
 t.tiktok.com.edgesuite.net
@@ -23640,6 +23658,7 @@ viruswall.m.internmc.facebook.com
 visolit.facebook.com
 vistra.facebook.com
 vivirusdi.beta.facebook.com
+vk.com
 vm.tiktok.com
 vm.tiktok.com.edgesuite.net
 vm.xzcs3zlph.com
@@ -24284,6 +24303,7 @@ www.bg-bg.sv-se.fr-fr.prod.facebook.com
 www.bigo.sg
 www.binario-f.fb.com
 www.binariof.fb.com
+www.bitmoji.com
 www.block-test.developerdan.com
 www.blog.it-it.fbjs.facebook.com
 www.bn-in.de-de.on.lite.facebook.com
@@ -25243,6 +25263,7 @@ www.ka-ge.fr-fr.es-es.prod.facebook.com
 www.ka-ge.fr-fr.prod.facebook.com
 www.ka-ge.lt-lt.ro-ro.fbjs.facebook.com
 www.ka-ge.ro-ro.fbjs.facebook.com
+www.kik-live.com
 www.kik.messenger.com
 www.kk-kz.it-it.prod.facebook.com
 www.km-kh.apps.prod.facebook.com
@@ -25346,6 +25367,7 @@ www.learn-us-uat.fb.com
 www.learn.fb.com
 www.learntoprotect.fb.com
 www.lernen.fb.com
+www.linkedin.com
 www.lite.beta.facebook.com
 www.lite.facebook.com
 www.lite.on.lite.facebook.com
@@ -25384,6 +25406,7 @@ www.m.prod.facebook.com
 www.madebyyou.fb.com
 www.managingbias.fb.com
 www.maximiles.co.messenger.com
+www.media-lab.ai
 www.messenger.com
 www.messenger.fb.com
 www.messengernews.fb.com
@@ -25822,6 +25845,7 @@ www.s.update.fbsbx.com
 www.sc-cdn.net
 www.sc-gw.com
 www.sc-it.nl-nl.prod.facebook.com
+www.sc-jpl.com
 www.sc-prod.net
 www.scdn.co
 www.scontent.fbaq2-2.fna.fbcdn.net
@@ -25935,6 +25959,7 @@ www.sw-ke.zh-tw.m.lite.facebook.com
 www.symsrv.vip.facebook.com
 www.sz-pl.fr-fr.da-dk.lite.facebook.com
 www.sz-pl.on.lite.facebook.com
+www.t.co
 www.t.update.fbsbx.com
 www.ta-in.fr-fr.zh-cn.fbjs.facebook.com
 www.ta-in.pl-pl.tr-tr.prod.facebook.com
@@ -26064,6 +26089,7 @@ www.video.fymy1-2.fna.fbcdn.net
 www.video.fyyc2-1.fna.fbcdn.net
 www.videoapp.fb.com
 www.viewpoints.fb.com
+www.vk.com
 www.vodafone.com.0.facebook.com
 www.vrforinclusion.fb.com
 www.w.beta.facebook.com

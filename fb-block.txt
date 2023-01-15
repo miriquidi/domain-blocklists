@@ -27,7 +27,6 @@ admo.tv
 adnxs-simple.com
 adnxs.com
 adnxs.net
-adobedtm.com
 adobetarget.com
 adpushup.com
 adrtx.net
@@ -257,6 +256,7 @@ mail-ads.google.com
 mannerstiring.com
 marketo.net
 mathtag.com
+matomo.cloud
 media.net
 mediago.io
 metricswpsh.com
