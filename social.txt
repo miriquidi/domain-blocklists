@@ -9930,6 +9930,7 @@ gecko22-normal-alisg.tiktokv.com
 gecko22-normal-useast1a.tiktokv.com
 gecko22-normal-useast2a.tiktokv.com
 gecko22-normal.tiktokv.com
+gecko31-normal-useast1a.tiktokv.com
 gedfaccdcf.temp.p23.tc.cdntip.com
 generalelectric.m.facebook.com
 genome.facebook.com
@@ -14056,6 +14057,7 @@ jsb-va.tiktokv.com.edgekey.net
 jsb.snssdk.com
 jsb16-normal-c-useast1a.tiktokv.com
 jsb16-normal-useast1a.tiktokv.com
+jsb31-normal-useast1a.tiktokv.com
 jsrong-live.oculusvr.com
 jtjxpx.qfyf1toi.com
 juliangyinqing.com
@@ -22316,6 +22318,7 @@ tt-video.hrlb.ks-cdn1.com
 tt.dy1.com.xi.zwtianshangm.com
 tt2-bkk-v1.l.byteoversea.net
 ttcdn-tos.pstatp.com
+ttlive.com
 ttlivecdn.com
 ttlstatic.com
 ttopencdn.gshifen.com
@@ -26037,6 +26040,7 @@ www.tr-tr.sv-se.fbjs.facebook.com
 www.tr-tr.sv-se.fr-fr.prod.facebook.com
 www.tr-tr.vi-vn.lite.facebook.com
 www.tr.msn.messenger.com
+www.ttlive.com
 www.ttlivecdn.com
 www.ttlstatic.com
 www.ttwstatic.com
