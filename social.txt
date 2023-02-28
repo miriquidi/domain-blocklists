@@ -14737,7 +14737,6 @@ line.naver.jp.connect.facebook.net
 link-sg.byteoversea.com
 link-va.byteoversea.com
 link-va.byteoversea.com.edgesuite.net
-linkedin.com
 links.event.facebookmail.com
 linux.fb.com
 lists.facebook.com
@@ -25407,7 +25406,6 @@ www.learn-us-uat.fb.com
 www.learn.fb.com
 www.learntoprotect.fb.com
 www.lernen.fb.com
-www.linkedin.com
 www.lite.beta.facebook.com
 www.lite.facebook.com
 www.lite.on.lite.facebook.com
