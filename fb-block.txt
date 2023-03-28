@@ -273,7 +273,6 @@ monetate.net
 mookie1.com
 mouseflow.com
 mxpnl.com
-mycliplister.com
 myspace.com
 mywot.com
 nativendo.de
@@ -399,7 +398,6 @@ startpage.com
 statserv.net
 stripchat.com
 stumbleupon.com
-subscribestar.adult
 supersonicads.com
 svonm.com
 swrve.com
@@ -456,6 +454,7 @@ userlike.com
 userreplay.com
 userreplay.net
 userreport.com
+userzoom.com
 vgwort.de
 videoplayerhub.com
 vidoomy.com
@@ -479,6 +478,7 @@ wt-eu02.net
 wt-safetag.com
 xadspoteffects.tv
 xceler8.io
+xgapromomanager-pa.googleapis.com
 xiti.com
 xplosion.de
 xxxiijmp.com
