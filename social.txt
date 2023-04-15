@@ -273,6 +273,7 @@ a9.pstatp.com.cloud.cdntip.com
 aap.lite.facebook.com
 abadmin.facebook.com
 abc.facebook.com
+abff.viber.com
 abn.snssdk.com
 about.facebook.com
 about.fb.com
@@ -713,6 +714,7 @@ allday20.messenger.com
 allo.m.facebook.com
 allth8.dns.facebook.com
 alog.umeng.com
+aloha46.viber.com
 alpha-shv-03-ash5.beta.facebook.com
 alpha-shv-03-ash5.facebook.com
 alpha-shv-03-atn1.facebook.com
@@ -786,7 +788,6 @@ any-graph.facebook.com
 anywhere.truevisions.tv.fb.me
 apache.mirror.facebook.net
 apacpolicy.fb.com
-api-2515bda8-9d3a-47cf-9325-330bc37ada13.sendbird.com
 api-bee-hl.amemv.com
 api-bee.amemv.com
 api-c.amemv.com
@@ -819,7 +820,6 @@ api-mo.snssdk.com
 api-pinterest-com-eip-akadns-net.pinterest.com
 api-prod2-pinterest-global-map-fastly-net.pinterest.com
 api-read.facebook.com
-api-reddit.sendbird.com
 api-s1-h2.musical.ly
 api-s1-h2.tiktokv.com
 api-s1-quic.musical.ly
@@ -3321,6 +3321,7 @@ connectivity.fb.com
 connectlogin.beta.facebook.com
 connnect.facebook.net
 consumo.messenger.com
+content.cdn.viber.com
 content.fb.com
 contentdistributionpolicies.fb.com
 contentdistributionpolicy.fb.com
@@ -14882,6 +14883,7 @@ log19-applog-useast2a.tiktokv.com
 log19-applog-useast5.us.tiktokv.com
 log19-normal-alisg.tiktokv.com
 log19-normal-useast1a.tiktokv.com
+log19-normal-useast2a.tiktokv.com
 log19-normal.tiktokv.com
 log2-useast1a.musical.ly
 log2-useast1a.musical.ly.edgekey.net
@@ -15208,6 +15210,7 @@ marcacorona.fb.me
 marcacorona.messenger.com
 maritime.facebook.com
 market.toutiao.com
+market.viber.com
 marketstar.facebook.com
 marubeni.facebook.com
 mascara.0.fb.me
@@ -18021,6 +18024,7 @@ pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
 pull-flv-f6-xg.bytecdn.cn
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
+pull-flv-f77-tt01.fcdn.us.tiktokv.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
 pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
@@ -20330,7 +20334,6 @@ security3.snssdk.com.w.kunluncan.com
 seformer.fb.com
 segyeuhak1live.oculusvr.com
 seminolecc.facebook.com
-sendbird.com
 senitopeng.fbsbx.com
 sequarantine.internmc.facebook.com
 sequarantine.messenger.com
@@ -23126,6 +23129,7 @@ vi-vn.zh.lite.facebook.com
 vi-vn.zh.tw.lite.facebook.com
 vi8qtl.dns.facebook.com
 viacom.m.facebook.com
+viber.com
 video-a-dfw.xx.fbcdn.net
 video-a-hkg4-2.xx.fbcdn.net
 video-a-hkt1-2.xx.fbcdn.net
@@ -24386,6 +24390,7 @@ www.capcut.com
 www.careerconnections.fb.com
 www.cb-iq.fbjs.facebook.com
 www.cdn.fbsbx.com
+www.cdn.viber.com
 www.cdninstagram.com
 www.cdp.fb.com
 www.centos.mirror.facebook.net
@@ -25915,7 +25920,6 @@ www.scontent.fyyc3-1.fna.fbcdn.net
 www.scontent.fyyc4-1.fna.fbcdn.net
 www.sd.beta.facebook.com
 www.seformer.fb.com
-www.sendbird.com
 www.sgmbocast.com
 www.sgsnssdk.com
 www.sh.beta.facebook.com
@@ -26124,6 +26128,7 @@ www.vi-vn.pt-br.it-it.fbjs.facebook.com
 www.vi-vn.pt-br.lite.facebook.com
 www.vi-vn.th-th.de-de.prod.facebook.com
 www.vi-vn.upps.lite.facebook.com
+www.viber.com
 www.video.ftpe8-3.fna.fbcdn.net
 www.video.fymy1-2.fna.fbcdn.net
 www.video.fyyc2-1.fna.fbcdn.net
@@ -26143,6 +26148,7 @@ www.wshifen.com
 www.wwww.lite.facebook.com
 www.wwww.msn.messenger.com
 www.wwwwwwww.beta.facebook.com
+www.x.com
 www.xzcs3zlph.com
 www.yocto-mirror.vip.facebook.com
 www.your.fb.com
@@ -26278,6 +26284,7 @@ wwwwindowslive.messenger.com
 wwwwww.messenger.com
 wwwwwwiorg-fba-edge-shv-01-sju1.lite.facebook.com
 wwwx.messenger.com
+x.com
 x.facebook.com
 x.l.bytedns.net
 x22lookaside.fbsbx.com

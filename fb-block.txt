@@ -133,6 +133,7 @@ criteo.net
 crwdcntrl.net
 curloc.com
 cxense.com
+datadoghq-browser-agent.com
 datadome.co
 demandbase.com
 demdex.net
@@ -276,7 +277,6 @@ mxpnl.com
 myspace.com
 mywot.com
 nativendo.de
-nelreports.net
 netpoint-media.de
 newrelic.com
 nice264.com
@@ -312,6 +312,7 @@ ownpage.fr
 pangle.io
 pardot.com
 pbpms.de
+pendo.io
 perf-serving.com
 perfectmarket.com
 performgroup.io
@@ -432,7 +433,6 @@ tremorhub.com
 trk-consulatu.com
 trmads.eu
 trustarc.com
-trustpilot.com
 tsyndicate.com
 turn.com
 tvping.com
