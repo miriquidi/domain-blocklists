@@ -139,7 +139,6 @@ demandbase.com
 demdex.net
 digg.com
 digidip.net
-dkuim.de
 dl8.me
 doubleclick.net
 doublepimp.com
@@ -195,7 +194,6 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 gotprofits.com
-gravatar.com
 gravito.net
 hatchasked.com
 highcharts.com
@@ -356,6 +354,7 @@ revive-adserver.net
 revy.io
 rlcdn.com
 rollserver.xyz
+rqmob.com
 rtclx.com
 rubiconproject.com
 samsungads.com
@@ -432,6 +431,7 @@ trbo.com
 tremorhub.com
 trk-consulatu.com
 trmads.eu
+truepush.com
 trustarc.com
 tsyndicate.com
 turn.com
