@@ -3165,6 +3165,7 @@ cdn.tiktok.com.c.secure.footprint.net
 cdn1-effect.snssdk.com
 cdn3-effect.snssdk.com
 cdn9-effect.snssdk.com
+cdngslb.com
 cdninstagram.com
 cdnlog-va-useast2a.byteoversea.com
 cdp.fb.com
@@ -4407,6 +4408,7 @@ dsa06.snssdk.com
 dsa11.snssdk.com
 dsa13.snssdk.com
 dsp.toutiao.com
+dt.beyla.site
 dttorhs584ri4.cloudfront.net
 du.facebook.com
 dualstack-pinterest-map-fastly-net.pinimg.com
@@ -24405,6 +24407,7 @@ www.careerconnections.fb.com
 www.cb-iq.fbjs.facebook.com
 www.cdn.fbsbx.com
 www.cdn.viber.com
+www.cdngslb.com
 www.cdninstagram.com
 www.cdp.fb.com
 www.centos.mirror.facebook.net
