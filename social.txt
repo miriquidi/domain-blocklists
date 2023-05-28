@@ -2024,6 +2024,7 @@ aprende-usdev.fb.com
 aprende-uspreprod.fb.com
 aprende-usuat.fb.com
 aprende.fb.com
+apresolve.spotify.com
 ar-ar.aap.lite.facebook.com
 ar-ar.ad-dk.lite.facebook.com
 ar-ar.af-za.ro-ro.fbjs.facebook.com
@@ -4172,6 +4173,7 @@ de.messenger.com
 de.newsroom.fb.com
 de.sustainability.fb.com
 de.yearinreview.fb.com
+dealer.spotify.com
 debaac4b.tt.x.bsgslb.cn
 debaac5c.tt.x.bsgslb.cn
 default-geo.instagram.com
@@ -5427,6 +5429,7 @@ edge-video-shv-02-ort2.fbcdn.net
 edge-video-shv-02-sin2.fbcdn.net
 edge-video-shv-02-sin6.fbcdn.net
 edge-video-shv-02-xsp1.fbcdn.net
+edge-web.dual-gslb.spotify.com
 edge-xwf-p3-shv-01-akl1.facebook.com
 edge-xwf-p3-shv-01-frx5.facebook.com
 edge-xwf-p3-shv-01-mad1.facebook.com
@@ -10953,6 +10956,7 @@ i.l.bytedns.net
 i.messenger.com
 i.pinimg.com
 i.pstatp.com
+i.scdn.co
 i.sgnssdk.com
 i.sgsnssdk.com
 i.snssdk.com
@@ -14655,6 +14659,7 @@ lf1-ttcdn-tos.pstatp.com.wsglb0.com
 lf1-xgcdn-tos.pstatp.com
 lf1-xgcdn-tos.pstatp.com.wsglb0.com
 lf16-campaign.ttlstatic.com
+lf16-effectcdn-va.tiktokcdn.com
 lf16-effectcdn.byteeffecttos-g.com
 lf16-gecko-source.tiktokcdn.com
 lf16-geckocdn-sg.ibytedtos.com
@@ -15521,6 +15526,7 @@ mn-mn.sq-al.is-is.fbjs.facebook.com
 mn.fb.me
 mns.messenger.com
 mnsu.facebook.com
+mobile-ap.spotify.com
 mobile.bereal.com
 mobile.beta.facebook.com
 mobile.e.l.bytedns.net
@@ -16681,6 +16687,7 @@ p16-tk-m.tiktokcdn.com
 p16-tk-m.tiktokcdn.com.edgesuite.net
 p16-tk.tiktokcdn.com
 p16-tk.tiktokcdn.com.edgesuite.net
+p16-ttam-va.ibyteimg.com
 p16-ulike-sg.ibyteimg.com
 p16-va-default.akamaized.net
 p16-va-default.edgesuite.net
@@ -18894,6 +18901,7 @@ sc-jpl.com
 sc-prod.net
 sc-static.net
 scarolina.facebook.com
+scdn.co
 scdn.fbsbx.com
 scgraph.facebook.com
 scm.sc-jpl.com
@@ -21025,6 +21033,7 @@ spain.fb.com
 sparkar-partners.fb.com
 sparkar.facebook.com
 sparkar.fb.com
+spclient.wg.spotify.com
 spe-f2-frontier-hl.snssdk.com
 spe-frontier-a.isnssdk.com
 spe-frontier-a.snssdk.com
@@ -21073,6 +21082,7 @@ sphotos-h.ak.fbcdn.net
 sphotos.ak.fbcdn.net
 sphotos.xx.fbcdn.net
 sphotosbord.xx.fbcdn.net
+spotify.com
 spotlight.tiktok.com
 spring-alinc2-api-1.bytedns.net
 sprint.messenger.com
@@ -25908,6 +25918,7 @@ www.sc-it.nl-nl.prod.facebook.com
 www.sc-jpl.com
 www.sc-prod.net
 www.sc-static.net
+www.scdn.co
 www.scontent.fbaq2-2.fna.fbcdn.net
 www.scontent.fbog2-2.fna.fbcdn.net
 www.scontent.fbru2-1.fna.fbcdn.net
@@ -25969,6 +25980,7 @@ www.soydigital.fb.com
 www.soydigitalcr.fb.com
 www.soydigitalmx.fb.com
 www.spain.fb.com
+www.spotify.com
 www.sq-al.is-is.fbjs.facebook.com
 www.sq-al.it-it.developers.prod.facebook.com
 www.sq-al.register.lite.facebook.com
