@@ -697,6 +697,7 @@ all.aweme-core-lb-lf.l.bytedns.net
 all.aweme-core-lb-lq.l.bytedns.net
 all.huodonghylivecdn.sched.ovscdns.net
 all.hylivecdn.sched.ovscdns.net
+all.quic-webcast-proxy-i18n-http.byteoversea.net
 all.quic-webcast-useast4-proxy-gcp-http.byteoversea.net
 all.snssdk.com.w.kunluncan.com
 all.toutiao-activity-lb-hl.l.bytedns.net
@@ -757,6 +758,7 @@ amorepacific.facebook.com
 amouradistance.fb.me
 ampwp.facebook.com
 amsn.messenger.com
+amsoveasea.com
 an.facebook.com
 analytics-attribution-va.tiktok.com
 analytics-attribution.tiktok.com
@@ -786,6 +788,7 @@ answers.oculus.com
 anti-virus-rants.messenger.com
 any-graph.facebook.com
 anywhere.truevisions.tv.fb.me
+ap-gue1.spotify.com
 apache.mirror.facebook.net
 apacpolicy.fb.com
 api-bee-hl.amemv.com
@@ -1139,6 +1142,7 @@ api31-normal-useast2a.tiktokv.com
 api31.bytegeo.akadns.net
 api31.tiktokv.com
 api32.tiktokv.com
+api39-i18n.gts.byteoversea.net
 api39.zong.byteoversea.net
 api4.fb.me
 api5-core-c-lq.amemv.com
@@ -4258,6 +4262,7 @@ digitaltayo.fb.com
 digitaltraining.fb.com
 direct.musical.ly
 direct.quic-core-sg-proxy-gcp.gcpsg.byteoversea.net
+discord.com
 dispatch.byteoversea.com
 distance-ed.msn.messenger.com
 distance-learning.facebookbrand-release.fb.com
@@ -9952,6 +9957,7 @@ gecko22-normal-useast1a.tiktokv.com
 gecko22-normal-useast2a.tiktokv.com
 gecko22-normal.tiktokv.com
 gecko31-normal-useast1a.tiktokv.com
+gecko31-normal-useast2a.tiktokv.com
 gedfaccdcf.temp.p23.tc.cdntip.com
 generalelectric.m.facebook.com
 genome.facebook.com
@@ -11198,6 +11204,7 @@ im5bswhcgy.mzfvozqybf.com
 image-cache-alisg.byteoversea.net
 image-cache-maliva.byteoversea.net
 image-sg.musical.ly
+image-sg.tiktok.com
 image-sg.tiktokv.com
 image-va.musical.ly
 image-va.tiktokv.com
@@ -14081,6 +14088,7 @@ jsb.snssdk.com
 jsb16-normal-c-useast1a.tiktokv.com
 jsb16-normal-useast1a.tiktokv.com
 jsb31-normal-useast1a.tiktokv.com
+jsb31-normal-useast2a.tiktokv.com
 jsrong-live.oculusvr.com
 jtjxpx.qfyf1toi.com
 juliangyinqing.com
@@ -14636,6 +14644,7 @@ lf-hs-sg.ibytedtos.com.edgekey.net
 lf-ipv6.snssdk.com
 lf-lf.snssdk.com
 lf-lq.snssdk.com
+lf-main-gecko-source.tiktokcdn.com
 lf-n.snssdk.com
 lf-tb-sg.ibytedtos.com
 lf-tb-sg.ibytedtos.com.edgekey.net
@@ -14741,6 +14750,7 @@ lianmengapi.snssdk.com
 lianmengapi.snssdk.com.w.kunluncan.com
 libra-va.tiktokv.com
 libra16-normal-useast1a.tiktokv.com
+libra16-normal-useast2a.tiktokv.com
 library.musical.ly
 lifeedu-016.oculusvr.com
 lindenwood.facebook.com
@@ -15796,6 +15806,7 @@ mssdk16-normal.tiktokv.com
 mssdk16-platform-useast5.us.tiktokv.com
 mssdk19-normal-alisg.tiktokv.com
 mssdk19-normal-useast1a.tiktokv.com
+mssdk19-normal-useast2a.tiktokv.com
 mssdk22-normal-alisg.tiktokv.com
 mssdk22-normal-useast1a.tiktokv.com
 msw1aa.01.hkg3.tfbnw.net
@@ -15893,10 +15904,12 @@ n.l.bytedns.net
 nalee14.oculusvr.com
 nameaweme.snssdk.com
 napps.fbsbx.com
+napubgm.broker.amsoveasea.com
 national.facebook.com
 nativeapp.toutiao.com
 natura.facebook.com
 nau.facebook.com
+nawzryhwatm.broker.amsoveasea.com
 nb-no.ad-dk.lite.facebook.com
 nb-no.apps.aap.lite.facebook.com
 nb-no.apps.it-it.prod.facebook.com
@@ -16660,6 +16673,7 @@ p16-sg.toutiao50.com
 p16-sg.xzcs3zlph.com
 p16-sg.xzcs3zlph.com.edgesuite.net
 p16-sign-sg.tiktokcdn.com
+p16-sign-useast2a.tiktokcdn.com
 p16-sign-va.tiktokcdn.com
 p16-sign.tiktokcdn-us.com
 p16-sign.tiktokcdn-us.com.edgesuite.net
@@ -16689,6 +16703,7 @@ p16-tk.tiktokcdn.com
 p16-tk.tiktokcdn.com.edgesuite.net
 p16-ttam-va.ibyteimg.com
 p16-ulike-sg.ibyteimg.com
+p16-useast2a.tiktokcdn.com
 p16-va-default.akamaized.net
 p16-va-default.edgesuite.net
 p16-va-tiktok.ibyteimg.com
@@ -17044,7 +17059,9 @@ pinterest.com
 pinterest.de
 pitaya-boot.tiktokv.com
 pitaya-clientai.com
+pitaya-i18n.tiktokv.com
 pitaya-sg.tiktokv.com
+pitaya-task-i18n.tiktokv.com
 pitaya-task-sg.tiktokv.com
 pitaya-task-va.bytedance.com
 pitaya-task-va.tiktokv.com
@@ -17977,6 +17994,7 @@ pull-cmaf-l16-tt01.tiktokcdn-us.com
 pull-cmaf-l16-tt01.tiktokcdn-us.com.akamaized.net
 pull-cmaf-l16-va01.tiktokcdn.com
 pull-cmaf-l16-va01.tiktokcdn.com.akamaized.net
+pull-cmaf-l77-gcp01.tiktokcdn.com
 pull-cmaf-l77-va01.tiktokcdn.com
 pull-f3-hs.pstatp.com
 pull-f3-hs.pstatp.com.w.alikunlun.net
@@ -17989,16 +18007,21 @@ pull-f5-gcp01.tiktokcdn.com
 pull-f5-gcp01.ttlivecdn.com
 pull-f5-gcp01.ttlivecdn.com.c.worldfcdn.com
 pull-f5-mus.pstatp.com
+pull-f5-sg01.fcdn.eu.tiktokcdn.com
 pull-f5-sg01.fcdn.us.tiktokv.com
 pull-f5-sg01.tiktokcdn.com
 pull-f5-sg01.ttlivecdn.com
 pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
+pull-f5-tt01.fcdn.eu.tiktokcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.co
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
 pull-f5-tt02-infra.fcdn.us.tiktokv.com
 pull-f5-tt02.fcdn.us.tiktokv.com
 pull-f5-tt02.tiktokcdn.com
+pull-f5-tt03.fcdn.eu.tiktokcdn.com
+pull-f5-tt03.tiktokcdn.com
+pull-f5-va01.fcdn.eu.tiktokcdn.com
 pull-f5-va01.fcdn.us.tiktokv.com
 pull-f5-va01.tiktokcdn.com
 pull-f5-va01.ttlivecdn.com
@@ -18016,6 +18039,7 @@ pull-fcdn-base-oversea.s.worldfcdn.com
 pull-fcdn-base1.s.bytefcdn-oversea.com
 pull-fcdn-base4.s.bytefcdn-oversea.com
 pull-fcdn-base5.s.bytefcdn-oversea.com
+pull-fcdn-base7.s.bytefcdn-oversea.com
 pull-fcdn-self-oversea.s.bytetcdn.com
 pull-fcdn-va-global3.s.bytetcdn.com
 pull-fcdn-va-global4.s.bytetcdn.com
@@ -18071,6 +18095,7 @@ pull-flv-l6-act.pstatp.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-xg.bytecdn.cn
 pull-flv-l7.pstatp.com
+pull-flv-l77-gcp01.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn.com
 pull-hls-f1-ab.tiktokcdn.com
 pull-hls-f1-ab.tiktokcdn.com.wsdvs.com
@@ -18106,6 +18131,7 @@ pull-hls-l11.tiktokcdn.com
 pull-hls-l16-tt01.tiktokcdn-us.com
 pull-hls-l16-va01.tiktokcdn.com
 pull-hls-l6-hs.pstatp.com
+pull-hls-l77-gcp01.tiktokcdn.com
 pull-hls-l77-va01.tiktokcdn.com
 pull-hls-q16-gcp01.tiktokcdn.com
 pull-hls-q16-sg01.tiktokcdn.com
@@ -18178,9 +18204,11 @@ push-rtmp-f5-sg01.tiktokcdn.com
 push-rtmp-f5-sg01.ttlivecdn.com
 push-rtmp-f5-tt01.fcdn.us.tiktokv.com
 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
+push-rtmp-f5-tt03.fcdn.eu.tiktokcdn.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
+push-rtmp-f5-vr-gcp01.tiktokcdn.com
 push-rtmp-f5-vr-va01.tiktokcdn.com
 push-rtmp-f5-xg.bytecdn.cn
 push-rtmp-f5.hypstarcdn.com
@@ -18193,17 +18221,20 @@ push-rtmp-l1-xg.bytecdn.cn
 push-rtmp-l1.hypstarcdn.com
 push-rtmp-l1.tiktokcdn.com
 push-rtmp-l1.tiktokcdn.com.wsdvs.com
+push-rtmp-l10-gcp01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com.rocket-cdn.com
 push-rtmp-l10-va01.tiktokcdn.com
 push-rtmp-l11-va01.tiktokcdn.com
 push-rtmp-l11.tiktokcdn.com
+push-rtmp-l16-gcp01.tiktokcdn.com
 push-rtmp-l16-tt01.tiktokcdn-us.com
 push-rtmp-l16-va01.tiktokcdn.com
 push-rtmp-l16-va01.tiktokcdn.com.atomile.com
 push-rtmp-l6-act.pstatp.com
 push-rtmp-l6-hs.pstatp.com
 push-rtmp-l6-xg.bytecdn.cn
+push-rtmp-l77-gcp01.tiktokcdn.com
 push-rtmp-l77-va01.tiktokcdn.com
 push.delivery.facebook.com
 puskesmaskota.messenger.com
@@ -19068,6 +19099,14 @@ scontent-fml2-1.cdninstagram.com
 scontent-fml2-1.xx.fbcdn.net
 scontent-for1-1.cdninstagram.com
 scontent-fra.xx.fbcdn.net
+scontent-fra3-1.cdninstagram.com
+scontent-fra3-1.xx.fbcdn.net
+scontent-fra3-2.cdninstagram.com
+scontent-fra3-2.xx.fbcdn.net
+scontent-fra5-1.cdninstagram.com
+scontent-fra5-1.xx.fbcdn.net
+scontent-fra5-2.cdninstagram.com
+scontent-fra5-2.xx.fbcdn.net
 scontent-frt.cdninstagram.com
 scontent-frt3-1.cdninstagram.com
 scontent-frt3-1.xx.fbcdn.net
@@ -20390,8 +20429,10 @@ sf16-cgfe-sg.ibytedtos.com
 sf16-cgfe-va.ibytedtos.com
 sf16-eacdn-tos.pstatp.com
 sf16-fe-tos-sg.i18n-pglstatp.com
+sf16-geckocdn.tiktokcdn.com
 sf16-ies-music-sg.tiktokcdn.com
 sf16-ies-music-va.tiktokcdn.com
+sf16-ies-music.tiktokcdn.com
 sf16-lark-va.ibytedtos.com
 sf16-lark-va.ibytedtos.com.edgekey.net
 sf16-muse-va.ibytedtos.com
@@ -20437,7 +20478,9 @@ sf16-webcast.muscdn.com.edgesuite.net
 sf16-webcast.tiktokcdn.com
 sf16-webcast.tiktokcdn.com.edgesuite.net
 sf16.tiktokcdn-us.com
+sf16m-geckocdn.tiktokcdn.com
 sf19-fe-tos-sg.i18n-pglstatp.com
+sf19-geckocdn.tiktokcdn.com
 sf19-scmcdn-sg.ibytedtos.com
 sf19-scmcdn-va.ibytedtos.com
 sf19-va.tiktokcdn.com
@@ -22152,6 +22195,8 @@ tos-cm-hl.snssdk.com
 tos-ct-hl.snssdk.com
 tos-cu-hl.snssdk.com
 tos-d-maliva16-up.byteoversea.net
+tos-d-useast2a16-up.tiktokcdn.com
+tos-d-useast2a19-up.tiktokcdn.com
 tos-gcpgb-va.tiktokcdn.com
 tos-gcpgb.muscdn.com
 tos-gcpin-va.tiktokcdn.com
@@ -22837,6 +22882,8 @@ v4-tt.ixigua.com
 v4-tt.ixiguavideo.com
 v4.pstatp.com
 v4.pstatp.com.wscdns.com
+v45-p.tiktokcdn.com
+v45.tiktokcdn.com
 v4help.facebook.com
 v5-dy-x.ixigua.com
 v5-dy-y.ixigua.com
@@ -23979,6 +24026,7 @@ whatvirus.m.beta.facebook.com
 white.instagram.com
 white.ish.instagram.com
 wichita.facebook.com
+widget-i18n.tiktokv.com
 widget-va.tiktokv.com
 widgets.pinterest.com
 wifi.fb.com
@@ -24119,6 +24167,7 @@ www.ak.new.facebook.com
 www.alpha.facebook.com
 www.amemv.com
 www.amemv.com.w.kunluncan.com
+www.amsoveasea.com
 www.apache.mirror.facebook.net
 www.apmms.fb.com
 www.app.beta.facebook.com
@@ -24526,6 +24575,7 @@ www.digitalskillsmichigan.fb.com
 www.digitalskillsus.fb.com
 www.digitaltayo.fb.com
 www.digitaltraining.fb.com
+www.discord.com
 www.diversity.fb.com
 www.diversityreport.fb.com
 www.dns.facebook.com

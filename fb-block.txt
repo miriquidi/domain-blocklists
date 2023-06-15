@@ -92,6 +92,7 @@ branch.io
 brandmetrics.com
 braze.com
 braze.eu
+browser-intake-datadoghq.com
 btloader.com
 bugsnag.com
 bullionyield.com
@@ -292,7 +293,6 @@ oghub.io
 olark.com
 omnatuor.com
 omtrdc.net
-onesignal.com
 onetrust.com
 onetrust.io
 online-metrix.net
