@@ -331,6 +331,7 @@ ads-frontier.tiktok.com
 ads-interfaces.sc-cdn.net
 ads-sg.tiktok.com
 ads-twitter.com
+ads-useast2a.tiktok.com
 ads.facebook.com
 ads.fbsbx.com
 ads.pinterest.com
@@ -2791,7 +2792,6 @@ billingl.fbjs.facebook.com
 binario-f.fb.com
 binariof.fb.com
 bip.messenger.com
-bitmoji.com
 biz.fb.com
 bkbd-awsjp16-up-va.tiktokcdn.com
 bkbd-awsjp16-up-va.tiktokcdn.com.edgesuite.net
@@ -4263,6 +4263,7 @@ digitaltraining.fb.com
 direct.musical.ly
 direct.quic-core-sg-proxy-gcp.gcpsg.byteoversea.net
 discord.com
+discord.gg
 dispatch.byteoversea.com
 distance-ed.msn.messenger.com
 distance-learning.facebookbrand-release.fb.com
@@ -6948,6 +6949,7 @@ external-dus1-1.xx.fbcdn.net
 external-fco1-1.xx.fbcdn.net
 external-fml1-1.xx.fbcdn.net
 external-fml2-1.xx.fbcdn.net
+external-fra5-1.xx.fbcdn.net
 external-frt3-1.xx.fbcdn.net
 external-frt3-2.xx.fbcdn.net
 external-frx5-1.xx.fbcdn.net
@@ -9894,6 +9896,7 @@ garena.messenger.com
 garph.fb.me
 gas-power.facebookbrand-2018-preprod.fb.com
 gate.snssdk.com
+gateway.discord.gg
 gateway.facebook.com
 gateway.instagram.com
 gb.latest.instagram.com
@@ -10638,6 +10641,7 @@ hotapi.sgsnssdk.com
 hotapi16-normal-useast1a.tiktokv.com
 hotapi16-normal-useast2a.tiktokv.com
 hotapi19-normal-useast1a.tiktokv.com
+hotapi19-normal-useast2a.tiktokv.com
 hotmail.msn.messenger.com
 hotsoon-a-hl.snssdk.com
 hotsoon-a-hl.snssdk.com.w.kunluncan.com
@@ -11179,6 +11183,7 @@ ide.fbsbx.com
 ie.snssdk.com
 iesdouyin.com
 iesios.byted.org
+ifdmstatic.com
 ig-telegraph-shv-06-ash2.facebook.com
 ig-telegraph-shv-08-atn2.facebook.com
 ig-telegraph-shv-22-prn1.facebook.com
@@ -11212,7 +11217,6 @@ image.dev.oculusvr.com
 image.email.oculusvr.com
 image.mc.facebookmail.com
 images.ak.instagram.com
-images.bitmoji.com
 imagex-settings.bytedanceapi.com
 imagex.ap-singapore-1.bytedanceapi.com
 imagex.bytedanceapi.com
@@ -11262,6 +11266,7 @@ in.newsroom.fb.com
 in.yearinreview.fb.com
 in1.byteoversea.com
 in2.byteoversea.com
+inapp-i18n.tiktokv.com
 index.toutiao.com
 india.fb.com
 indiaeconomy.fb.com
@@ -14668,8 +14673,10 @@ lf1-ttcdn-tos.pstatp.com.wsglb0.com
 lf1-xgcdn-tos.pstatp.com
 lf1-xgcdn-tos.pstatp.com.wsglb0.com
 lf16-campaign.ttlstatic.com
+lf16-effectcdn-sg.tiktokcdn.com
 lf16-effectcdn-va.tiktokcdn.com
 lf16-effectcdn.byteeffecttos-g.com
+lf16-fdm.ifdmstatic.com
 lf16-gecko-source.tiktokcdn.com
 lf16-geckocdn-sg.ibytedtos.com
 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
@@ -14933,6 +14940,7 @@ login.beta.facebook.com
 login.facebook.com
 login.messenger.com
 login.tiktok.com
+login5.spotify.com
 logsg.xzcs3zlph.com
 logsg.xzcs3zlph.com.edgesuite.net
 logtrace.snssdk.com
@@ -15537,6 +15545,7 @@ mn.fb.me
 mns.messenger.com
 mnsu.facebook.com
 mobile-ap.spotify.com
+mobile.adsafeprotected.com
 mobile.bereal.com
 mobile.beta.facebook.com
 mobile.e.l.bytedns.net
@@ -16349,6 +16358,7 @@ noload.fb.me
 nonmaskableinterrupt.cstools.facebook.com
 nonprofits.fb.com
 norcap.m.facebook.com
+nordkuri-relay.iocnt.net
 noroestecom.m.facebook.com
 northamerica-fb.m.beta.facebook.com
 northampton.facebook.com
@@ -16645,6 +16655,7 @@ p16-c-sign-va.ibyteimg.com
 p16-captcha-us.ibyteimg.com
 p16-catalog-sg.ibyteimg.com
 p16-cg-gaudit.ibyteimg.com
+p16-d3-sign-va.ibyteimg.com
 p16-h1-sign-va.ibyteimg.com
 p16-magic-va.ibyteimg.com
 p16-mt-sg-a.ibyteimg.com
@@ -16697,6 +16708,7 @@ p16-tiktok-va.ibyteimg.com
 p16-tiktok-va.ibyteimg.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net
 p16-tiktokcdn-com.toutiao50.com
+p16-tiktokyoyo-va.ibyteimg.com
 p16-tk-m.tiktokcdn.com
 p16-tk-m.tiktokcdn.com.edgesuite.net
 p16-tk.tiktokcdn.com
@@ -17969,6 +17981,7 @@ pull-cmaf-f16-tt01.tiktokcdn.com
 pull-cmaf-f16-tt01.tiktokcdn.com.akamaized.net
 pull-cmaf-f16-tt02.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt02.tiktokcdn.com
+pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f16-va01.tiktokcdn.com
 pull-cmaf-f16-va01.tiktokcdn.com.akamaized.net
 pull-cmaf-f16-va01.ttlivecdn.com
@@ -18066,6 +18079,7 @@ pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
+pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com.wsdvs.com
@@ -20403,6 +20417,7 @@ sf-hs-sg.ibytedtos.com
 sf-hs-sg.ibytedtos.com.edgekey.net
 sf-tb-sg.ibytedtos.com
 sf-tb-sg.ibytedtos.com.edgesuite.net
+sf-third-landing-page.tiktokcdn.com
 sf-tk-sg.ibytedtos.com
 sf-tk-sg.ibytedtos.com.edgekey.net
 sf1-cdn-b-tos.pstatp.com.wsglb0.com
@@ -20452,6 +20467,7 @@ sf16-sg-default.edgesuite.net
 sf16-sg.hypstarcdn.com
 sf16-sg.muscdn.com
 sf16-sg.tiktokcdn.com
+sf16-short-sg.bytedapm.com
 sf16-short-sg.bytegoofy.com
 sf16-short-va.bytedapm.com
 sf16-short-va.bytegoofy.com
@@ -23840,7 +23856,6 @@ wcupa.facebook.com
 wd.snssdk.com
 wd3.bytecdn.cn
 wd3.pstatp.com
-weatherlive.info
 web.beta.facebook.com
 web.facebook.com
 web.fb.me
@@ -24420,7 +24435,6 @@ www.bg-bg.sv-se.fr-fr.prod.facebook.com
 www.bigo.sg
 www.binario-f.fb.com
 www.binariof.fb.com
-www.bitmoji.com
 www.block-test.developerdan.com
 www.blog.it-it.fbjs.facebook.com
 www.bn-in.de-de.on.lite.facebook.com
@@ -24576,6 +24590,7 @@ www.digitalskillsus.fb.com
 www.digitaltayo.fb.com
 www.digitaltraining.fb.com
 www.discord.com
+www.discord.gg
 www.diversity.fb.com
 www.diversityreport.fb.com
 www.dns.facebook.com
@@ -25184,6 +25199,7 @@ www.id-id.zh-cn.fbjs.facebook.com
 www.id-id.zh-cn.ro.fbjs.facebook.com
 www.id-id.zh-hk.fbjs.facebook.com
 www.iesdouyin.com
+www.ifdmstatic.com
 www.impara-usdev.fb.com
 www.impara-uspreprod.fb.com
 www.impara-usuat.fb.com
