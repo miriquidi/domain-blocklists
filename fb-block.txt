@@ -104,7 +104,6 @@ cdntrf.com
 chartbeat.com
 chartbeat.net
 chartboost.com
-chaturbate.com
 civicscience.com
 clarity.ms
 cleverpush.com
@@ -180,6 +179,7 @@ fullstory.com
 funnelplus.com
 fyber.com
 g2afse.com
+gameanalytics.com
 gbucket.at
 geistm.com
 geoedge.be
@@ -396,7 +396,6 @@ ssacdn.com
 ssiloc.com
 startpage.com
 statserv.net
-stripchat.com
 stumbleupon.com
 supersonicads.com
 svonm.com
@@ -490,6 +489,7 @@ yandex.ru
 yieldlab.net
 yieldlove.com
 yieldscale.com
+yllaris.com
 ynamicyield.com
 youradexchange.com
 yvmads.com
