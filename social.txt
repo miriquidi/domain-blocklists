@@ -326,6 +326,8 @@ adistance.messenger.com
 admin.bytedance.com
 admin.instagram.com
 admin.intern.facebook.com
+ads-api.tiktok.com
+ads-api.twitter.com
 ads-dev.pinterest.com
 ads-frontier.tiktok.com
 ads-interfaces.sc-cdn.net
@@ -334,6 +336,7 @@ ads-twitter.com
 ads-useast2a.tiktok.com
 ads.facebook.com
 ads.fbsbx.com
+ads.linkedin.com
 ads.pinterest.com
 ads.snapchat.com
 ads.tiktok.com
@@ -770,6 +773,7 @@ analytics-test.tiktok.com
 analytics.facebook.com
 analytics.intern.facebook.com
 analytics.pinterest.com
+analytics.pointdrive.linkedin.com
 analytics.snapchat.com
 analytics.snssdk.com
 analytics.tiktok.com
@@ -3215,7 +3219,10 @@ channel.muscdn.com
 channelproxy-shv-06-ash2.facebook.com
 channelproxy-shv-07-ash2.facebook.com
 chaos-boe.byted.org
+chat-e2ee-ig-p42.c10r.facebook.com
+chat-e2ee-mini.c10r.facebook.com
 chat-e2ee-mini.facebook.com
+chat-e2ee.facebook.com
 chat.facebook.com
 chat.messenger.com
 check4.facebook.com
@@ -17039,6 +17046,7 @@ perfshield.facebook.com
 pernambucanas.m.facebook.com
 peter9961.oculusvr.com
 pf.messenger.com
+pg.cdn.viber.com
 pgc.isnssdk.com
 pgf7dbv5x8cwj1lomeyh0q3srt264zukna9i.fbsbx.com
 ph.fbjs.facebook.com
@@ -17992,6 +18000,7 @@ pull-cmaf-f16-tt01.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt01.fcdn.us.tiktokv.com.akamaized.net
 pull-cmaf-f16-tt01.tiktokcdn.com
 pull-cmaf-f16-tt01.tiktokcdn.com.akamaized.net
+pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f16-tt02.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt02.tiktokcdn.com
 pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com
@@ -18045,6 +18054,7 @@ pull-f5-tt01.fcdn.us.tiktokv.co
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
 pull-f5-tt02-infra.fcdn.us.tiktokv.com
+pull-f5-tt02.fcdn.eu.tiktokcdn.com
 pull-f5-tt02.fcdn.us.tiktokv.com
 pull-f5-tt02.tiktokcdn.com
 pull-f5-tt03.fcdn.eu.tiktokcdn.com
@@ -18093,7 +18103,9 @@ pull-flv-f6-xg.bytecdn.cn
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
+pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
+pull-flv-f77-tt02.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
 pull-flv-f77-tt03.tiktokcdn.com

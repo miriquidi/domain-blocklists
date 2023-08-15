@@ -70,7 +70,6 @@ appsflyer.com
 appsflyersdk.com
 apptimize.com
 asadcdn.com
-asnapieu.com
 aticdn.net
 attn.tv
 atwola.com
@@ -389,6 +388,7 @@ smartclip.net
 snapads.com
 snapengage.com
 snigelweb.com
+speedcurve.com
 spotxchange.com
 squarelovin.com
 srafcloud.com
