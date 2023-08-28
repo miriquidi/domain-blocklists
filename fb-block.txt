@@ -100,6 +100,7 @@ casalemedia.com
 castoola.tv
 cdn4ads.com
 cdntrf.com
+cf.iadsdk.apple.com
 chartbeat.com
 chartbeat.net
 chartboost.com
@@ -205,7 +206,6 @@ hs-data.com
 hsrvv.com
 hushpub.com
 iadsdk.apple.com
-icio.us
 id5-sync.com
 igodigital.com
 imasdk.googleapis.com
@@ -213,7 +213,6 @@ img-taboola.com
 impactserving.com
 imrworldwide.com
 indexww.com
-ink1001.com
 inmobi.com
 inmobicdn.net
 inner-active.mobi
@@ -420,6 +419,7 @@ thunderhead.com
 tinypass.com
 tiqcdn.com
 tohapp.com
+tr.iadsdk.apple.com
 trackonomics.net
 trafficfactory.biz
 traffichaus.com

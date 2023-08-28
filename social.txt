@@ -4275,11 +4275,7 @@ digitaltayo.fb.com
 digitaltraining.fb.com
 direct.musical.ly
 direct.quic-core-sg-proxy-gcp.gcpsg.byteoversea.net
-discord.com
-discord.gg
-discordapp.com
 dispatch.byteoversea.com
-disqus.com
 distance-ed.msn.messenger.com
 distance-learning.facebookbrand-release.fb.com
 distance.internmc.facebook.com
@@ -9911,7 +9907,6 @@ garena.messenger.com
 garph.fb.me
 gas-power.facebookbrand-2018-preprod.fb.com
 gate.snssdk.com
-gateway.discord.gg
 gateway.facebook.com
 gateway.instagram.com
 gb.latest.instagram.com
@@ -10096,6 +10091,7 @@ grap0h.fb.me
 grapb.fb.me
 grapbh.fb.me
 grapg.fb.me
+graph-fallback.facebook.com
 graph-fallback.instagram.com
 graph-portal.facebook.com
 graph-simple.intern.facebook.com
@@ -16489,6 +16485,7 @@ open.mp.toutiao.com
 open.sgsnssdk.com
 open.snssdk.com
 open.snssdk.com.bytedns.net
+open.spotify.com
 open.toutiao.com
 open.toutiao.com.bytedns.net
 open16-va.tiktokv.com
@@ -18100,6 +18097,7 @@ pull-flv-f11-va01.tiktokcdn.com
 pull-flv-f11.tiktokcdn.com
 pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
 pull-flv-f6-xg.bytecdn.cn
+pull-flv-f61-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
@@ -20573,6 +20571,7 @@ sf4-ttcdn-tos.pstatp.com
 sf5-ttcdn-tos.pstatp.com
 sf53-sg.tiktokcdn.com
 sf53-va.tiktokcdn.com
+sf58-ies-music-sg.tiktokcdn.com
 sf58-ies-music-va.tiktokcdn.com
 sf6-dycdn-tos.pstatp.com
 sf6-hscdn-tos.pstatp.com
@@ -24620,10 +24619,6 @@ www.digitalskillsmichigan.fb.com
 www.digitalskillsus.fb.com
 www.digitaltayo.fb.com
 www.digitaltraining.fb.com
-www.discord.com
-www.discord.gg
-www.discordapp.com
-www.disqus.com
 www.diversity.fb.com
 www.diversityreport.fb.com
 www.dns.facebook.com
