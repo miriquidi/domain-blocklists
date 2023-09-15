@@ -793,6 +793,8 @@ answers.oculus.com
 anti-virus-rants.messenger.com
 any-graph.facebook.com
 anywhere.truevisions.tv.fb.me
+ap-gae2.spotify.com
+ap-guc3.spotify.com
 ap-gue1.spotify.com
 apache.mirror.facebook.net
 apacpolicy.fb.com
@@ -2999,6 +3001,7 @@ byteeffecttos-g.com
 bytefcdn-oversea.com
 bytegecko-i18n.com
 bytegeo.akadns.net
+byteglb.com
 bytegoofy.com
 byteicdn.com
 byteimg.com
@@ -4275,6 +4278,7 @@ digitaltayo.fb.com
 digitaltraining.fb.com
 direct.musical.ly
 direct.quic-core-sg-proxy-gcp.gcpsg.byteoversea.net
+direct.quic-webcast-proxy-i18n-v3.useast2a.byteglb.com
 dispatch.byteoversea.com
 distance-ed.msn.messenger.com
 distance-learning.facebookbrand-release.fb.com
@@ -9986,6 +9990,8 @@ getavirus-com.fbjs.facebook.com
 getavirus-com.register.lite.facebook.com
 getstarted.tiktok.com
 getstarted.tiktok.com.edgekey.net
+gew4-dealer.spotify.com
+gew4-spclient.spotify.com
 gf-sg.snssdk.com
 gf.snssdk.com
 gfaph.fb.me
@@ -10980,6 +10986,7 @@ i.pstatp.com
 i.scdn.co
 i.sgnssdk.com
 i.sgsnssdk.com
+i.sng.link
 i.snssdk.com
 i.snssdk.com.w.kunluncan.com
 i0.pstatp.com
@@ -14861,7 +14868,9 @@ lntinfotech.m.facebook.com
 lo-la.facebook.com
 loc.sc-jpl.com
 loc.snssdk.com
+location-i18n.tiktokv.com
 location-traceroute-sg.bytedance.com
+location-va.tiktokv.com
 lockdown.facebookbrand-preprod.fb.com
 lockdownteam.en-gb.prod.facebook.com
 log-16.toutiao50.com
@@ -17975,6 +17984,7 @@ publicstaticvoid.dev.messenger.com
 publicstaticvoid.internmcr.facebook.com
 publicvoidlife.beta.facebook.com
 publish.twitter.com
+publyc.com
 puig.facebook.com
 pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
@@ -18101,6 +18111,7 @@ pull-flv-f61-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
+pull-flv-f77-tt01.tiktokcdn.com
 pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
 pull-flv-f77-tt02.tiktokcdn.com
@@ -18196,10 +18207,14 @@ pull-l3.hypstarcdn.com
 pull-lls-l11-sg01.tiktokcdn.com
 pull-lls-l11.tiktokcdn.com
 pull-o5-gcp01.tiktokcdn.com
+pull-o5-sg01.fcdn.eu.tiktokcdn.com
 pull-o5-sg01.tiktokcdn.com
+pull-o5-va01.fcdn.eu.tiktokcdn.com
 pull-o5-va01.tiktokcdn.com
 pull-q5-gcp01.tiktokcdn.com
+pull-q5-sg01.fcdn.eu.tiktokcdn.com
 pull-q5-sg01.tiktokcdn.com
+pull-q5-va01.fcdn.eu.tiktokcdn.com
 pull-q5-va01.tiktokcdn.com
 pull-q5.tiktokcdn.com
 pull-q5.tiktokcdn.com.c.worldfcdn.com
@@ -18231,7 +18246,9 @@ pull-rtmp-l6-hs.pstatp.com
 pull-rtmp-l6-xg.bytecdn.cn
 pull-source-cmaf-f5.hypstarcdn.com
 pull-w5-gcp01.tiktokcdn.com
+pull-w5-sg01.fcdn.eu.tiktokcdn.com
 pull-w5-sg01.tiktokcdn.com
+pull-w5-va01.fcdn.eu.tiktokcdn.com
 pull-w5-va01.tiktokcdn.com
 pull-w5.tiktokcdn.com
 pull-w5.tiktokcdn.com.c.worldfcdn.com
@@ -20869,6 +20886,7 @@ snaptu-z.facebook.com
 snaptu-z.t.facebook.com
 snaptu-za-shv-07-lla1.facebook.com
 snaptu-za-shv-08-ash2.facebook.com
+sng.link
 sniper-boe.byted.org
 snssdk.com
 snssdk.com.bdgslb.com
@@ -23765,6 +23783,7 @@ videoarch-inaws-edge-lb.byteoversea.net
 videoarch-lb-alisg.byteoversea.net
 videoarch-lb-maliva.byteoversea.net
 videoarch-useast-lb-useast2a.byteoversea.net
+videoplayer.publyc.com
 view.dev.oculusvr.com
 view.email.oculusvr.com
 view.facebook-research.facebookmail.com
@@ -24492,6 +24511,7 @@ www.bytedapm.com
 www.byteeffecttos-g.com
 www.bytefcdn-oversea.com
 www.bytegecko-i18n.com
+www.byteglb.com
 www.bytegoofy.com
 www.byteicdn.com
 www.byteintl.com
@@ -25927,6 +25947,7 @@ www.pt-pt.zh-hk.lite.facebook.com
 www.pt-pt.zh-hk.pt-br.lite.facebook.com
 www.pt-pt.zh-tw.fbjs.facebook.com
 www.pt-pt.zh-tw.prod.facebook.com
+www.publyc.com
 www.register.lite.facebook.com
 www.research.fb.com
 www.review.cstools.facebook.com
@@ -26067,6 +26088,7 @@ www.snafu.tfbnw.net
 www.snapads.com
 www.snapchat.com
 www.snapkit.com
+www.sng.link
 www.snssdk.com
 www.so-so.developers.prod.facebook.com
 www.socialgood.fb.com
