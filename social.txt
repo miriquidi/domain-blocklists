@@ -18122,6 +18122,8 @@ pull-flv-f11.tiktokcdn.com
 pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
 pull-flv-f6-xg.bytecdn.cn
 pull-flv-f61-va01.tiktokcdn.com
+pull-flv-f62-sg01.tiktokcdn.com
+pull-flv-f62-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
@@ -18161,6 +18163,7 @@ pull-flv-l6-act.pstatp.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-xg.bytecdn.cn
 pull-flv-l7.pstatp.com
+pull-flv-l77-gcp01.tiktokcdn-us.com
 pull-flv-l77-gcp01.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn.com
 pull-hls-f1-ab.tiktokcdn.com
@@ -18224,11 +18227,14 @@ pull-o5-gcp01.tiktokcdn.com
 pull-o5-sg01.fcdn.eu.tiktokcdn.com
 pull-o5-sg01.tiktokcdn.com
 pull-o5-va01.fcdn.eu.tiktokcdn.com
+pull-o5-va01.tiktokcdn-us.com
 pull-o5-va01.tiktokcdn.com
 pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.fcdn.eu.tiktokcdn.com
+pull-q5-sg01.tiktokcdn-us.com
 pull-q5-sg01.tiktokcdn.com
 pull-q5-va01.fcdn.eu.tiktokcdn.com
+pull-q5-va01.tiktokcdn-us.com
 pull-q5-va01.tiktokcdn.com
 pull-q5.tiktokcdn.com
 pull-q5.tiktokcdn.com.c.worldfcdn.com
@@ -18261,8 +18267,10 @@ pull-rtmp-l6-xg.bytecdn.cn
 pull-source-cmaf-f5.hypstarcdn.com
 pull-w5-gcp01.tiktokcdn.com
 pull-w5-sg01.fcdn.eu.tiktokcdn.com
+pull-w5-sg01.tiktokcdn-us.com
 pull-w5-sg01.tiktokcdn.com
 pull-w5-va01.fcdn.eu.tiktokcdn.com
+pull-w5-va01.tiktokcdn-us.com
 pull-w5-va01.tiktokcdn.com
 pull-w5.tiktokcdn.com
 pull-w5.tiktokcdn.com.c.worldfcdn.com
@@ -21452,7 +21460,6 @@ static.fdel11-1.fna.fbcdn.net
 static.fsea1-1.fna.fbcdn.net
 static.hootsuite.com
 static.intern.facebook.com
-static.licdn.com
 static.messenger.com
 static.muscdn.com
 static.new.facebook.com
