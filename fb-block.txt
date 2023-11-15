@@ -243,7 +243,6 @@ ksta.de
 leadinfo.com
 leadinfo.net
 lgsmartad.com
-licdn.com
 liftoff.io
 linkarena.com
 livechatinc.com
@@ -258,6 +257,7 @@ mathtag.com
 matomo.cloud
 media.net
 mediago.io
+metricool.com
 metricswpsh.com
 mgid.com
 minepi.com
@@ -378,7 +378,6 @@ showheroes.com
 siftscience.com
 simpleanalytics.com
 simplewebanalysis.com
-singular.net
 siteadvisor.com
 smaato.net
 smart-tv-data.de
@@ -399,6 +398,7 @@ stumbleupon.com
 supersonicads.com
 svonm.com
 swrve.com
+symplr.de
 syndigo.com
 taboola-cpa.com
 taboola.com

@@ -88,7 +88,6 @@
 1uipkgq.mzfvozqybf.com
 1v4nxmk.dns.facebook.com
 1ynsm7483ffp2lc5j5rs4bu13mm.facebookbrand-dev.fb.com
-2-01-37d2-0018.cdx.cedexis.net
 2-channel-proxy-07-ash2.facebook.com
 2-edge-chat-latest.messenger.com
 2-edge-chat.facebook.com
@@ -2967,6 +2966,7 @@ bstjoeun-016.autodiscover.oculusvr.com
 bstream.sgmbocast.com
 bsync-i18n.tiktokv.com
 bsync-va.tiktokv.com
+bsync31-normal-useast1a.tiktokv.com
 bt.intern.fbsbx.com
 buatmaskerwajah.lite.facebook.com
 bucknell.facebook.com
@@ -18126,6 +18126,7 @@ pull-flv-f62-sg01.tiktokcdn.com
 pull-flv-f62-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
+pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 pull-flv-f77-tt01.tiktokcdn.com
 pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
@@ -18163,6 +18164,7 @@ pull-flv-l6-act.pstatp.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-xg.bytecdn.cn
 pull-flv-l7.pstatp.com
+pull-flv-l77-gcp01.eu.tiktokcdn.com
 pull-flv-l77-gcp01.tiktokcdn-us.com
 pull-flv-l77-gcp01.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn.com
@@ -18225,6 +18227,7 @@ pull-lls-l11-sg01.tiktokcdn.com
 pull-lls-l11.tiktokcdn.com
 pull-o5-gcp01.tiktokcdn.com
 pull-o5-sg01.fcdn.eu.tiktokcdn.com
+pull-o5-sg01.tiktokcdn-us.com
 pull-o5-sg01.tiktokcdn.com
 pull-o5-va01.fcdn.eu.tiktokcdn.com
 pull-o5-va01.tiktokcdn-us.com
@@ -24214,7 +24217,6 @@ ws.byteoversea.net
 ws.l.bytedns.net
 ws.shortwave.facebook.com
 ws2.messenger.com
-wshifen.com
 wsu.facebook.com
 ww.0.facebook.com
 ww.cinyour.facebook.com
@@ -26325,7 +26327,6 @@ www.webex.messenger.com
 www.wethinkdigital.fb.com
 www.workplaceblog.fb.com
 www.worldfcdn.com
-www.wshifen.com
 www.wwww.lite.facebook.com
 www.wwww.msn.messenger.com
 www.wwwwwwww.beta.facebook.com
