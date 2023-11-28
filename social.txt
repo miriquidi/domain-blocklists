@@ -901,6 +901,7 @@ api.gateway.kik-live.com
 api.google.fb.messenger.com
 api.huoshan.com.bytedns.net
 api.instagram.com
+api.locketcamera.com
 api.musical.ly
 api.new.facebook.com
 api.pinterest.com
@@ -11236,6 +11237,7 @@ im16-normal-c-useast2a.tiktokv.com.edgesuite.net
 im5bswhcgy.mzfvozqybf.com
 image-cache-alisg.byteoversea.net
 image-cache-maliva.byteoversea.net
+image-cdn-ak.spotifycdn.com
 image-sg.musical.ly
 image-sg.tiktok.com
 image-sg.tiktokv.com
@@ -16097,6 +16099,7 @@ netprobe-bgp-01-mrs1.facebook.com
 netprobe-bgp-01-sea1.facebook.com
 netprobe-bgp-01-syd2.facebook.com
 netprobe-bgp-01-vie1.facebook.com
+netseer-ipaddr-assoc.xz.fbcdn.net
 new.facebook.com
 new1-maliva-normal-lb.byteoversea.net
 newcoronanew.messenger.com
@@ -16619,6 +16622,7 @@ p.hypstarcdn.com
 p.ipstatp.com
 p.pstatp.com
 p.pstatp.com.w.alikunlun.com
+p.scdn.co
 p.sgpstatp.com
 p.sgsnssdk.com
 p.tiktokcdn.com
@@ -22028,6 +22032,7 @@ tiktokv.com
 tiktokv.com.cdn.cloudflare.net
 tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
+tiktokv.eu
 timbrasil.m.facebook.com
 time.facebook.com
 time1.byteoversea.com
@@ -22112,6 +22117,7 @@ tms3.pstatp.com.w.kunlunle.com
 tnc16-alisg.byteoversea.com
 tnc16-alisg.isnssdk.com
 tnc16-alisg.tiktokv.com
+tnc16-normal-ie.tiktokv.eu
 tnc16-platform-alisg.tiktokv.com
 tnc16-platform-useast1a.tiktokv.com
 tnc16-platform-useast2a.tiktokv.com
@@ -22707,6 +22713,7 @@ us-east4-gcp.api.snapchat.com
 usafa.facebook.com
 usb-shortcut-virus-remover.fr-fr.prod.facebook.com
 usc.adserver.snapads.com
+usc1-gcp-v62.api.snapchat.com
 use.adserver.snapads.com
 ustglobal.facebook.com
 ustglobal.m.facebook.com
@@ -26230,6 +26237,7 @@ www.tiktokcdn-us.com
 www.tiktokcdn.com
 www.tiktokv.com
 www.tiktokv.com.edgesuite.net
+www.tiktokv.eu
 www.tl-ph.en-gb.de-de.prod.facebook.com
 www.tl-ph.en-gb.prod.facebook.com
 www.tl-ph.es-la.de-de.prod.facebook.com
