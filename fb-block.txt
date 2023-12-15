@@ -68,6 +68,7 @@ applovin.com
 applvn.com
 appsflyer.com
 appsflyersdk.com
+appspot.com
 apptimize.com
 asadcdn.com
 aticdn.net
@@ -235,7 +236,6 @@ juicyads.com
 k5a.io
 kameleoon.eu
 kampyle.com
-klaviyo.com
 kochava.com
 krishetrk.com
 krxd.net
@@ -277,6 +277,7 @@ nativendo.de
 netpoint-media.de
 newrelic.com
 nice264.com
+notification-tool.com
 nr-data.net
 ns1p.net
 nsfwadds.com
@@ -301,7 +302,6 @@ openx.net
 openxcdn.net
 opinary.com
 optnx.com
-osdata.solutions
 outbrain.com
 outbrainimg.com
 ownpage.fr
@@ -321,7 +321,6 @@ playamedia.com
 plista.com
 popcash.net
 premiumvertising.com
-prequel.app
 primis.tech
 privacy-center.org
 privacy-mgmt.com
@@ -335,6 +334,7 @@ pubmatic.com
 pubnative.net
 pushclk.com
 pushengage.com
+quantcount.com
 quantserve.com
 quantummetric.com
 quartermedia-ad-service.net
@@ -361,7 +361,6 @@ scarabresearch.com
 schneevonmorgen.com
 scorecardresearch.com
 scroll.com
-sec-trk-lnk.com
 seedtag.com
 segment.com
 segment.io
@@ -420,6 +419,7 @@ tinypass.com
 tiqcdn.com
 tohapp.com
 tr.iadsdk.apple.com
+tracify.ai
 trackonomics.net
 trafficfactory.biz
 traffichaus.com
