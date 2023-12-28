@@ -57,6 +57,7 @@ air2s.com
 alexametrics.com
 amazon-adsystem.com
 amplitude.com
+analytics-data.io
 aniview.com
 apester.com
 app-measurement.com
@@ -71,6 +72,7 @@ appsflyersdk.com
 appspot.com
 apptimize.com
 asadcdn.com
+assemblyexchange.com
 aticdn.net
 attn.tv
 atwola.com
@@ -92,6 +94,7 @@ branch.io
 brandmetrics.com
 braze.com
 braze.eu
+brightline.tv
 browser-intake-datadoghq.com
 btloader.com
 bugsnag.com
@@ -477,10 +480,8 @@ wt-eu02.net
 wt-safetag.com
 xadspoteffects.tv
 xceler8.io
-xgapromomanager-pa.googleapis.com
 xiti.com
 xplosion.de
-xxxiijmp.com
 yadro.ru
 yagiay.com
 yandex.com
@@ -490,11 +491,10 @@ yieldlab.net
 yieldlove.com
 yieldscale.com
 yllaris.com
-ynamicyield.com
 youradexchange.com
 yvmads.com
 zemanta.com
 zeotap.com
 ziffstatic.com
 zomap.de
-zopim.com
+zqtk.net

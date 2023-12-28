@@ -2998,7 +2998,6 @@ byted.org
 bytedance-tmcdn.tm.com.my
 bytedance.akadns.net
 bytedance.com
-bytedance.map.fastly.net
 bytedanceapi.com
 bytedapm.com
 bytedns.net
@@ -4442,9 +4441,6 @@ dsp.toutiao.com
 dt.beyla.site
 dttorhs584ri4.cloudfront.net
 du.facebook.com
-dualstack-pinterest-map-fastly-net.pinimg.com
-dualstack.pinterest.map.fastly.net
-dualstack.twimg.twitter.map.fastly.net
 dungeonhero.oculusvr.com
 duracell.facebook.com
 dwcho3004545.oculusvr.com
@@ -10044,7 +10040,6 @@ gl-es.nb-no.ro-ro.fbjs.facebook.com
 gl-es.pt-br.register.lite.facebook.com
 gl-es.th-th.de-de.prod.facebook.com
 gl-es.www.www.lite.facebook.com
-global-h1.bytedance.map.fastly.net
 global.glbtls.t.co
 globe-telegram.messenger.com
 globe.m.facebook.com
@@ -10217,7 +10212,6 @@ h.facebook.com
 h.fb.com
 h.fb.me
 h.l.bytedns.net
-h1.bytedance.map.fastly.net
 h5-ppx-activity-lq.snssdk.com
 h5-ppx-activity.snssdk.com
 h5.isnssdk.com
@@ -22024,7 +22018,6 @@ tiktok-core-lb-maliva-useast2a.byteoversea.net
 tiktok-core-lb-maliva.byteoversea.net
 tiktok-lb-alisg.byteoversea.net
 tiktok-lb-maliva.byteoversea.net
-tiktok.bytedance.map.fastly.net
 tiktok.cdnvideo.ru
 tiktok.com
 tiktok.com.c.footprint.net
@@ -23825,7 +23818,6 @@ video.fyvr3-1.fna.fbcdn.net
 video.fyvr4-1.fna.fbcdn.net
 video.fyyc2-1.fna.fbcdn.net
 video.fzrh1-1.fna.fbcdn.net
-video.h1.bytedance.map.fastly.net
 video.messenger.com
 video.twimg.com
 video.xx.fbcdn.net
