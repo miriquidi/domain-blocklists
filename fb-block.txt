@@ -69,13 +69,13 @@ applovin.com
 applvn.com
 appsflyer.com
 appsflyersdk.com
-appspot.com
 apptimize.com
 asadcdn.com
 assemblyexchange.com
 aticdn.net
 attn.tv
 atwola.com
+awin1.com
 ayads.co
 batch.com
 bazaarvoice.com
@@ -97,7 +97,6 @@ braze.eu
 brightline.tv
 browser-intake-datadoghq.com
 btloader.com
-bugsnag.com
 bullionyield.com
 bunchbox.co
 casalemedia.com
@@ -159,8 +158,10 @@ effectivedisplayformats.com
 ekomi.de
 ekomiapps.de
 emb-api.com
+emetriq.de
 emltrk.com
 emsservice.de
+en25.com
 ensighten.com
 etahub.com
 ethinking.de
@@ -172,11 +173,11 @@ evidon.com
 exactag.com
 exdynsrv.com
 exoclick.com
-exosrv.com
 fastcounter.de
 fera.ai
 fitanalytics.com
 flashtalking.com
+fndsda.net
 footprintdns.com
 fouanalytics.com
 fullstory.com
@@ -223,8 +224,6 @@ inner-active.mobi
 inspon-cloud.com
 intelligenceadx.com
 intellitxt.com
-intercom.io
-intercomcdn.com
 ioam.de
 iocnt.de
 iocnt.net
@@ -248,7 +247,6 @@ leadinfo.net
 lgsmartad.com
 liftoff.io
 linkarena.com
-livechatinc.com
 localytics.com
 loox.io
 lp4.io
@@ -295,8 +293,6 @@ oghub.io
 olark.com
 omnatuor.com
 omtrdc.net
-onetrust.com
-onetrust.io
 online-metrix.net
 onthe.io
 opecloud.com
@@ -337,6 +333,7 @@ pubmatic.com
 pubnative.net
 pushclk.com
 pushengage.com
+pushwoosh.com
 quantcount.com
 quantserve.com
 quantummetric.com
@@ -358,6 +355,7 @@ rollserver.xyz
 rqmob.com
 rtclx.com
 rubiconproject.com
+salesviewer.com
 samsungads.com
 sascdn.com
 scarabresearch.com
@@ -412,6 +410,7 @@ tealiumiq.com
 techlab-cdn.com
 technical-service.net
 technorati.com
+techtarget.com
 tenjin.com
 tenjin.io
 theadex.com
@@ -448,6 +447,7 @@ umengcloud.com
 unityads.unity3d.com
 upscore.com
 uptain.de
+urbanairship.com
 usabilla.com
 usefathom.com
 usercentrics.eu
@@ -465,7 +465,6 @@ voodoo-ads.io
 voodoo-tech.io
 voodoo.io
 vungle.com
-vuukle.com
 waust.at
 wct-1.com
 weborama.fr
@@ -491,6 +490,7 @@ yieldlab.net
 yieldlove.com
 yieldscale.com
 yllaris.com
+yo-digital.com
 youradexchange.com
 yvmads.com
 zemanta.com

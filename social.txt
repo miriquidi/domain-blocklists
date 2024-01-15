@@ -778,6 +778,7 @@ analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.snapchat.com
 analytics.snssdk.com
+analytics.spotify.com
 analytics.tiktok.com
 analytics.tiktok.com.edgekey.net
 analytics.twitter.com
@@ -917,7 +918,6 @@ api.tiktokv.com.edgekey.net
 api.toutiao50.com
 api.toutiao50.com.edgesuite.net
 api.twitter.com
-api.xing.com
 api100-core-c-hl.amemv.com
 api100-core-c-lf.amemv.com
 api100-core-c-lq.amemv.com
@@ -3413,6 +3413,7 @@ covid19updte.facebookbrand-preprod.fb.com
 cpan.mirror.facebook.net
 craneresorts.facebook.com
 crash.snssdk.com
+crashdump.spotify.com
 creatingwebsite-maskolis.messenger.com
 creatingwebsite-maskolis.scgraph.facebook.com
 creative.ak.facebook.com
@@ -8274,7 +8275,6 @@ facebook-amex-sign.facebook.com
 facebook-amex.facebook.com
 facebook-icd-autopay.facebook.com
 facebook-research.facebookmail.com
-facebook-web-clients.appspot.com
 facebook.com
 facebook.com.edgekey.net
 facebook.com.edgesuite.net
@@ -9930,7 +9930,6 @@ gcp.api.sc-gw.com
 gcp.api.snapchat.com
 gcs.sc-cdn.net
 gdaph.fb.me
-gdpr-tcfv2.sp-prod.net
 ge-0-0-1.pr01.iad3.tfbnw.net
 ge-chat.messenger.com
 geaph.fb.me
@@ -14911,6 +14910,7 @@ log.pinterest.com
 log.sgsnssdk.com
 log.snssdk.com
 log.snssdk.com.bytedns.net
+log.spotify.com
 log.tiktok.com
 log.tiktokv.com
 log.tiktokv.com.edgesuite.net
@@ -14950,6 +14950,7 @@ log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
 log2.musical.ly
 log2.musical.ly.edgesuite.net
+log2.spotify.com
 log22-applog-useast1a.tiktokv.com
 log22-normal-alisg.tiktokv.com
 log22-normal-useast1a.tiktokv.com
@@ -15933,6 +15934,7 @@ my.telkomsel.com.0.facebook.com
 myamya.autodiscover.oculusvr.com
 mybauli.facebook.com
 mysmrt.facebook.com
+myspace.com
 myspace.messenger.com
 mysql.messenger.com
 mysql.mirror.facebook.net
@@ -16454,6 +16456,7 @@ ohio.facebook.com
 oildex.facebook.com
 ointern-managed-client-shv-02-frt3.lite.facebook.com
 oit.facebook.com
+ok.ru
 okaside.fbsbx.com
 okcu.facebook.com
 okwu.facebook.com
@@ -16496,6 +16499,7 @@ open-heart-lung-ntm-infection-settlement.scgraph.facebook.com
 open-hl.snssdk.com
 open-hl.toutiao.com
 open-hl.toutiao.com.w.cdngslb.com
+open-local.spotify.com
 open-lq.toutiao.com
 open-maliva.byteoversea.com
 open-useast2a.bytedanceapi.com
@@ -20913,7 +20917,6 @@ sn-zw.facebook.com
 sn-zw.lite.facebook.com
 snafu.tfbnw.net
 snapads.com
-snapchat-proxy.appspot.com
 snapchat.com
 snapkit.com
 snaptu-1.facebook.com
@@ -24932,7 +24935,6 @@ www.fa-ir.ro-ro.fbjs.facebook.com
 www.fa-ir.vi-vn.lite.facebook.com
 www.fa-ir.zh-cn.zh-cn.fbjs.facebook.com
 www.face.beta.facebook.com
-www.facebook-web-clients.appspot.com
 www.facebook.beta.facebook.com
 www.facebook.com
 www.facebook.com--secure-id-12567747644457.shahed.cc
@@ -25705,6 +25707,7 @@ www.musemuse.cn
 www.musical.ly
 www.my-mm.it-it.prod.facebook.com
 www.my-mm.ja-jp.m.lite.facebook.com
+www.myspace.com
 www.myteddycasino.com.www.fb.me
 www.nb-no.ad-dk.lite.facebook.com
 www.nb-no.af-za.lite.facebook.com
@@ -25793,6 +25796,7 @@ www.o.beta.facebook.com
 www.o.facebook.com
 www.oculus.com
 www.oculusvr.com
+www.ok.ru
 www.on.lite.facebook.com
 www.oo.lite.facebook.com
 www.opensource.fb.com
@@ -26346,8 +26350,6 @@ www.wwww.lite.facebook.com
 www.wwww.msn.messenger.com
 www.wwwwwwww.beta.facebook.com
 www.x.com
-www.xing.com
-www.xzcs3zlph.com
 www.yocto-mirror.vip.facebook.com
 www.your.fb.com
 www.z-1-lookaside.fbsbx.com
@@ -26500,7 +26502,6 @@ xgapi1.snssdk.com
 xgapi2.snssdk.com
 xgfe.snssdk.com
 xgfe.snssdk.com.w.kunluncan.com
-xing.com
 xjgoow.dns.facebook.com
 xl.fb.me
 xlf.fbsbx.com
