@@ -16452,6 +16452,7 @@ oculusvrive.oculusvr.com
 oculusweb.fb.com
 oec16-normal-useast1a.tiktokv.com
 oedge-c2p-shv-01-sjc3.lite.facebook.com
+ogma.bereal.team
 ohio.facebook.com
 oildex.facebook.com
 ointern-managed-client-shv-02-frt3.lite.facebook.com
@@ -21233,6 +21234,7 @@ sphotos.ak.fbcdn.net
 sphotos.xx.fbcdn.net
 sphotosbord.xx.fbcdn.net
 spotify.com
+spotifycdn.com
 spotlight.tiktok.com
 spring-alinc2-api-1.bytedns.net
 sprint.messenger.com
@@ -22725,6 +22727,7 @@ us-east4-gcp.api.snapchat.com
 usafa.facebook.com
 usb-shortcut-virus-remover.fr-fr.prod.facebook.com
 usc.adserver.snapads.com
+usc1-gcp-v61.api.snapchat.com
 usc1-gcp-v62.api.snapchat.com
 use.adserver.snapads.com
 ustglobal.facebook.com
@@ -26152,6 +26155,7 @@ www.soydigitalcr.fb.com
 www.soydigitalmx.fb.com
 www.spain.fb.com
 www.spotify.com
+www.spotifycdn.com
 www.sq-al.is-is.fbjs.facebook.com
 www.sq-al.it-it.developers.prod.facebook.com
 www.sq-al.register.lite.facebook.com
