@@ -210,6 +210,7 @@ hprofits.com
 hs-data.com
 hsrvv.com
 hushpub.com
+hypestat.com
 iadsdk.apple.com
 id5-sync.com
 igodigital.com
@@ -299,7 +300,6 @@ opecloud.com
 opencmp.net
 openx.net
 openxcdn.net
-opinary.com
 optnx.com
 outbrain.com
 outbrainimg.com

@@ -2430,6 +2430,7 @@ attachments.facebook.com
 au.newsroom.fb.com
 au.yearinreview.fb.com
 audience.fb.com
+audio-akp-spotify-com.akamaized.net
 aura-11-01-snc7.facebook.com
 australia.fb.com
 auth-www.fbjs.facebook.com
@@ -3167,6 +3168,7 @@ cdg2.fbcdn.com
 cdg2.fbcdn.net
 cdn-2.bereal.com
 cdn-ams.fbsbx.com
+cdn-cf.bereal.network
 cdn-eb.syndication.twitter.com
 cdn-feature.byted.org
 cdn-sin.fbsbx.com
@@ -14959,6 +14961,7 @@ log22-normal.tiktokv.com
 log3-ipv6.snssdk.com
 log3-normal-c-alisg.tiktokv.com
 log3-normal-c-useast1a.tiktokv.com
+log31-normal-useast1a.tiktokv.com
 log31-normal-useast2a.tiktokv.com
 log53-normal-c-alisg.tiktokv.com
 log53-normal-c-useast1a.tiktokv.com
@@ -15378,6 +15381,7 @@ mcommuni.autodiscover.oculusvr.com
 mcphs.facebook.com
 mcraffets.messenger.com
 mcs-i18n.tiktok.com
+mcs-ie.tiktokw.eu
 mcs-sg.tiktok.com
 mcs-sg.tiktokv.com
 mcs-va-useast2a.tiktokv.com
@@ -18003,7 +18007,6 @@ publicstaticvoid.dev.messenger.com
 publicstaticvoid.internmcr.facebook.com
 publicvoidlife.beta.facebook.com
 publish.twitter.com
-publyc.com
 puig.facebook.com
 pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
@@ -18047,6 +18050,7 @@ pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 pull-cmaf-f58-sg01.tiktokcdn.com
 pull-cmaf-f77-gcp01.tiktokcdn.com
 pull-cmaf-f77-sg01.tiktokcdn.com
+pull-cmaf-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f77-tt03.tiktokcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com
 pull-cmaf-l10-gcp01.tiktokcdn.com
@@ -18129,6 +18133,7 @@ pull-flv-f10-va01.tiktokcdn.com
 pull-flv-f11-ab.tiktokcdn.com
 pull-flv-f11-gcp01.tiktokcdn.com
 pull-flv-f11-sg01.tiktokcdn.com
+pull-flv-f11-tt01.tiktokcdn.com
 pull-flv-f11-va01.tiktokcdn.com
 pull-flv-f11.tiktokcdn.com
 pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
@@ -18136,6 +18141,8 @@ pull-flv-f6-xg.bytecdn.cn
 pull-flv-f61-va01.tiktokcdn.com
 pull-flv-f62-sg01.tiktokcdn.com
 pull-flv-f62-va01.tiktokcdn.com
+pull-flv-f64-sg01.tiktokcdn.com
+pull-flv-f64-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
@@ -22047,6 +22054,7 @@ tiktokv.com.cdn.cloudflare.net
 tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
 tiktokv.eu
+tiktokw.eu
 timbrasil.m.facebook.com
 time.facebook.com
 time1.byteoversea.com
@@ -23839,7 +23847,6 @@ videoarch-inaws-edge-lb.byteoversea.net
 videoarch-lb-alisg.byteoversea.net
 videoarch-lb-maliva.byteoversea.net
 videoarch-useast-lb-useast2a.byteoversea.net
-videoplayer.publyc.com
 view.dev.oculusvr.com
 view.email.oculusvr.com
 view.facebook-research.facebookmail.com
@@ -26005,7 +26012,6 @@ www.pt-pt.zh-hk.lite.facebook.com
 www.pt-pt.zh-hk.pt-br.lite.facebook.com
 www.pt-pt.zh-tw.fbjs.facebook.com
 www.pt-pt.zh-tw.prod.facebook.com
-www.publyc.com
 www.register.lite.facebook.com
 www.research.fb.com
 www.review.cstools.facebook.com
@@ -26253,6 +26259,7 @@ www.tiktokcdn.com
 www.tiktokv.com
 www.tiktokv.com.edgesuite.net
 www.tiktokv.eu
+www.tiktokw.eu
 www.tl-ph.en-gb.de-de.prod.facebook.com
 www.tl-ph.en-gb.prod.facebook.com
 www.tl-ph.es-la.de-de.prod.facebook.com
