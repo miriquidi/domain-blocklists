@@ -691,6 +691,7 @@ akamaiprobe-bgp-01-mia1.facebook.com
 akcqacex.qfyf1toi.com
 akcxnpq7.dns.facebook.com
 akuariummaskoki.web.messenger.com
+al.sndcdn.com
 alabama.m.beta.facebook.com
 albany.facebook.com
 algar.m.facebook.com
@@ -830,6 +831,7 @@ api-lq.amemv.com
 api-lq.amemv.com.w.cdngslb.com
 api-m.tiktok.com
 api-mo.snssdk.com
+api-mobile.soundcloud.com
 api-pinterest-com-eip-akadns-net.pinterest.com
 api-prod2-pinterest-global-map-fastly-net.pinterest.com
 api-read.facebook.com
@@ -2434,6 +2436,7 @@ audio-akp-spotify-com.akamaized.net
 aura-11-01-snc7.facebook.com
 australia.fb.com
 auth-www.fbjs.facebook.com
+auth.bereal.com
 auth.bereal.team
 auth.gateway.kik-live.com
 auth.oculus.com
@@ -6935,6 +6938,7 @@ euw.adserver.snapads.com
 euwe-fb.m.beta.facebook.com
 eva.snssdk.com
 evangel.facebook.com
+events-api.soundcloud.com
 events.fb.com
 eventsfb.m.beta.facebook.com
 everis.facebook.com
@@ -11006,6 +11010,7 @@ i1.isnssdk.com
 i1.isnssdk.com.edgekey.net
 i1.pstatp.com
 i1.sgsnssdk.com
+i1.sndcdn.com
 i15-tb.sgsnssdk.com
 i16-core.sgsnssdk.com
 i16-tb.isnssdk.com
@@ -13246,6 +13251,7 @@ ippon.m.facebook.com
 ipstatp.com
 ipstatp.com.edgekey.net
 ipstatp.com.edgesuite.net
+ipv4.scdnco.spotify.map.fastly.net
 ipv6-v16.muscdn.com
 ipv6-v16.muscdn.com.akamaized.net
 ipv6-v19.muscdn.com
@@ -14884,6 +14890,7 @@ location-traceroute-sg.bytedance.com
 location-va.tiktokv.com
 lockdown.facebookbrand-preprod.fb.com
 lockdownteam.en-gb.prod.facebook.com
+locketcamera.com
 log-16.toutiao50.com
 log-boot.tiktokv.com
 log-c.snssdk.com
@@ -15640,6 +15647,7 @@ mon16-platform-ycru.tiktokv.com
 mon16-tmp-normal-useast1a.tiktokv.com
 mon19-normal-useast1a.tiktokv.com
 mon22-normal-useast1a.tiktokv.com
+mon31-normal-useast1a.tiktokv.com
 monbk.tiktokv.com
 mongoosev.byted.org
 monitor.isnssdk.com
@@ -18144,6 +18152,7 @@ pull-flv-f62-va01.tiktokcdn.com
 pull-flv-f64-sg01.tiktokcdn.com
 pull-flv-f64-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
+pull-flv-f77-sg01.fcdn.eu.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
@@ -18156,6 +18165,7 @@ pull-flv-f77-tt02.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
 pull-flv-f77-tt03.tiktokcdn.com
+pull-flv-f77-va01.fcdn.eu.tiktokcdn.com
 pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com.wsdvs.com
@@ -19041,9 +19051,11 @@ sc-it.zh-tw.ro-ro.fbjs.facebook.com
 sc-jpl.com
 sc-prod.net
 sc-static.net
+scannables.scdn.co
 scarolina.facebook.com
 scdn.co
 scdn.fbsbx.com
+scdnco.spotify.map.fastly.net
 scgraph.facebook.com
 scm.sc-jpl.com
 scontent-1.2914.fna.fbcdn.net
@@ -20938,6 +20950,7 @@ snaptu-z.facebook.com
 snaptu-z.t.facebook.com
 snaptu-za-shv-07-lla1.facebook.com
 snaptu-za-shv-08-ash2.facebook.com
+sndcdn.com
 sng.link
 sniper-boe.byted.org
 snssdk.com
@@ -21183,6 +21196,7 @@ sonar6-iev1-1.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
 sonar6.ffco2-1.fna.fbcdn.net
 soton.facebook.com
+soundcloud.com
 soydigital.fb.com
 soydigitalcr.fb.com
 soydigitalmx.fb.com
@@ -25621,6 +25635,7 @@ www.lite.on.lite.facebook.com
 www.live.fb.com
 www.live.msn.messenger.com
 www.lm.prod.facebook.com
+www.locketcamera.com
 www.login.facebook.com
 www.login.messenger.com
 www.lookaside.fbsbx.com
@@ -26152,10 +26167,12 @@ www.snafu.tfbnw.net
 www.snapads.com
 www.snapchat.com
 www.snapkit.com
+www.sndcdn.com
 www.sng.link
 www.snssdk.com
 www.so-so.developers.prod.facebook.com
 www.socialgood.fb.com
+www.soundcloud.com
 www.soydigital.fb.com
 www.soydigitalcr.fb.com
 www.soydigitalmx.fb.com
