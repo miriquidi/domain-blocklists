@@ -11345,6 +11345,7 @@ insidefeed.fb.com
 insights.fb.com
 inspired.fb.com
 instafeed.nfcube.com
+instagram-alternate.app.link
 instagram-p15-shv-01-any2.fbcdn.net
 instagram-p15-shv-01-atl3.fbcdn.net
 instagram-p15-shv-01-cdg2.fbcdn.net
@@ -11553,6 +11554,7 @@ instagram-shv-12-prn1.fbcdn.net
 instagram-shv-13-frc1.fbcdn.net
 instagram-shv-17-prn1.fbcdn.net
 instagram-shv-18-prn1.fbcdn.net
+instagram.app.link
 instagram.c10r.facebook.com
 instagram.c10r.instagram.com
 instagram.com

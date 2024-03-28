@@ -54,6 +54,7 @@ affirm.com
 affyrolo.info
 agkn.com
 ahacdn.me
+aimatch.com
 aimtell.com
 air2s.com
 alexametrics.com
@@ -270,6 +271,7 @@ moengage.com
 monetate.net
 mookie1.com
 mouseflow.com
+mrf.io
 mxpnl.com
 myspace.com
 mywot.com
@@ -284,7 +286,6 @@ nsimg.net
 nt.vc
 ntvpwpush.com
 oadts.com
-oath.com
 ocmhood.com
 odb.outbrain.com
 ogads.com
@@ -397,7 +398,6 @@ startpage.com
 statserv.net
 stumbleupon.com
 supersonicads.com
-svonm.com
 swrve.com
 symplr.de
 syndigo.com
