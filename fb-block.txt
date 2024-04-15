@@ -53,7 +53,6 @@ advertserve.com
 affirm.com
 affyrolo.info
 agkn.com
-ahacdn.me
 aimatch.com
 aimtell.com
 air2s.com
@@ -245,6 +244,7 @@ leadinfo.com
 leadinfo.net
 leadrebel.io
 lgsmartad.com
+liftoff-creatives.io
 liftoff.io
 linkarena.com
 localytics.com
@@ -332,6 +332,7 @@ pubnative.net
 pushclk.com
 pushengage.com
 pushwoosh.com
+qualifytring.com
 qualitymedianetwork.de
 quantcount.com
 quantserve.com
@@ -355,7 +356,6 @@ rqmob.com
 rtclx.com
 rtmark.net
 rubiconproject.com
-saawsedge.com
 salesviewer.com
 salesviewer.org
 samsungads.com
