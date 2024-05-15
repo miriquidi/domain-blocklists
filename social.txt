@@ -693,7 +693,6 @@ akamaiprobe-bgp-01-mia1.facebook.com
 akcqacex.qfyf1toi.com
 akcxnpq7.dns.facebook.com
 akuariummaskoki.web.messenger.com
-al.sndcdn.com
 alabama.m.beta.facebook.com
 albany.facebook.com
 algar.m.facebook.com
@@ -769,10 +768,8 @@ analytics-exp-sg.tiktok.com
 analytics-m.fbjs.facebook.com
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
-analytics.eng.nianticlabs.com
 analytics.facebook.com
 analytics.intern.facebook.com
-analytics.nianticlabs.com
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.snapchat.com
@@ -814,9 +811,7 @@ api-h2.tiktokv.com.edgekey.net
 api-live-hl.amemv.com
 api-m.tiktok.com
 api-mo.snssdk.com
-api-mobile.soundcloud.com
 api-pinterest-com-eip-akadns-net.pinterest.com
-api-prod2-pinterest-global-map-fastly-net.pinterest.com
 api-read.facebook.com
 api-s1-h2.musical.ly
 api-s1-h2.tiktokv.com
@@ -6872,7 +6867,6 @@ euw.adserver.snapads.com
 euwe-fb.m.beta.facebook.com
 eva.snssdk.com
 evangel.facebook.com
-events-api.soundcloud.com
 events.fb.com
 eventsfb.m.beta.facebook.com
 everis.facebook.com
@@ -10933,7 +10927,6 @@ i1.isnssdk.com
 i1.isnssdk.com.edgekey.net
 i1.pstatp.com
 i1.sgsnssdk.com
-i1.sndcdn.com
 i15-tb.sgsnssdk.com
 i16-core.sgsnssdk.com
 i16-tb.isnssdk.com
@@ -13173,7 +13166,6 @@ ippon.m.facebook.com
 ipstatp.com
 ipstatp.com.edgekey.net
 ipstatp.com.edgesuite.net
-ipv4.scdnco.spotify.map.fastly.net
 ipv6-v16.muscdn.com
 ipv6-v16.muscdn.com.akamaized.net
 ipv6-v19.muscdn.com
@@ -14485,6 +14477,7 @@ kumaskagitmakas.m.fb.me
 kunstimuuseum.internmc.facebook.com
 kunstimuuseum.messenger.com
 kut2.facebook.com
+kw3qbu-cdn-settings.appsflyersdk.com
 kwons134521.live.oculusvr.com
 ky-kg.facebook.com
 kyivstar.m.facebook.com
@@ -16022,9 +16015,6 @@ ng.tiktok.com
 ngcsu.facebook.com
 nghub.fb.com
 ngogarf1.fbjs.facebook.com
-niantic.helpshift.com
-nianticlabs.com
-nianticstatic.com
 nic.facebook.com
 nigeria.fb.com
 nightmask3.facebookbrand-preprod.fb.com
@@ -16996,8 +16986,6 @@ pf.messenger.com
 pg.cdn.viber.com
 pgc.isnssdk.com
 pgf7dbv5x8cwj1lomeyh0q3srt264zukna9i.fbsbx.com
-pgorelease-assets.nianticstatic.com
-pgorelease.nianticlabs.com
 ph.fbjs.facebook.com
 ph.messenger.com
 phabricator.cstools.fb.com
@@ -17035,6 +17023,7 @@ pin.it
 pinimg.com
 pinterest.at
 pinterest.com
+pinterest.com.mx
 pinterest.de
 pitaya-boot.tiktokv.com
 pitaya-clientai.com
@@ -17925,6 +17914,7 @@ pull-a5-sg01.tiktokcdn.com
 pull-a5-tt01.fcdn.us.tiktokv.com
 pull-a5-tt02-infra.fcdn.us.tiktokv.com
 pull-a5-va01.tiktokcdn.com
+pull-c5-gcp01.fcdn.eu.tiktokcdn.com
 pull-c5-gcp01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
@@ -17955,6 +17945,8 @@ pull-cmaf-f16-va01.ttlivecdn.com.akamaized.net
 pull-cmaf-f16.tiktokcdn.com
 pull-cmaf-f16.tiktokcdn.com.akamaized.net
 pull-cmaf-f5-mus.pstatp.com
+pull-cmaf-f5-sg01.tiktokcdn.com
+pull-cmaf-f5-va01.tiktokcdn.com
 pull-cmaf-f5.tiktokcdn.com
 pull-cmaf-f5.tiktokcdn.com.akamaized.net
 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
@@ -18056,6 +18048,8 @@ pull-flv-f62-sg01.tiktokcdn.com
 pull-flv-f62-va01.tiktokcdn.com
 pull-flv-f64-sg01.tiktokcdn.com
 pull-flv-f64-va01.tiktokcdn.com
+pull-flv-f65-sg01.tiktokcdn.com
+pull-flv-f65-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.fcdn.eu.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
@@ -18112,7 +18106,9 @@ pull-flv-l77-tt02.eu.tiktokcdn.com
 pull-flv-l77-tt02.tiktokcdn.com
 pull-flv-l77-va01.eu.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn.com
+pull-flv-q77-sg01.eu.tiktokcdn.com
 pull-flv-q77-sg01.tiktokcdn.com
+pull-flv-q77-va01.eu.tiktokcdn.com
 pull-flv-q77-va01.tiktokcdn.com
 pull-flv-w77-sg01.tiktokcdn.com
 pull-flv-w77-va01.tiktokcdn.com
@@ -18275,7 +18271,6 @@ push-rtmp-l6-xg.bytecdn.cn
 push-rtmp-l77-gcp01.tiktokcdn.com
 push-rtmp-l77-va01.tiktokcdn.com
 push.delivery.facebook.com
-pushgateway-release.nianticlabs.com
 puskesmaskota.messenger.com
 put15-tb.isnssdk.com
 pv3oi8206cejo0.is-is.ro-ro.fbjs.facebook.com
@@ -18972,7 +18967,6 @@ scannables.scdn.co
 scarolina.facebook.com
 scdn.co
 scdn.fbsbx.com
-scdnco.spotify.map.fastly.net
 scgraph.facebook.com
 scm.sc-jpl.com
 scontent-1.2914.fna.fbcdn.net
@@ -20378,6 +20372,7 @@ search19-normal-c-useast1a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
 search31-normal-useast1a.tiktokv.com
 search31-normal-useast2a.tiktokv.com
+search32-normal-useast2a.tiktokv.com
 searchcombinationdistance.internmc.facebook.com
 searchportal.fbjs.facebook.com
 secure-edge-latest-shv-01-icn1.facebook.com
@@ -20849,7 +20844,6 @@ snaptu-z.facebook.com
 snaptu-z.t.facebook.com
 snaptu-za-shv-07-lla1.facebook.com
 snaptu-za-shv-08-ash2.facebook.com
-sndcdn.com
 sng.link
 sniper-boe.byted.org
 snssdk.com
@@ -21093,7 +21087,6 @@ sonar6-iev1-1.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
 sonar6.ffco2-1.fna.fbcdn.net
 soton.facebook.com
-soundcloud.com
 soydigital.fb.com
 soydigitalcr.fb.com
 soydigitalmx.fb.com
@@ -21760,7 +21753,6 @@ telefonica.facebook.com
 telefonica.m.facebook.com
 telegram.messenger.com
 telegraph-ash.instagram.com
-telemetry.soundcloud.com
 telenor.facebook.com
 telenor.m.facebook.com
 telkomsel.0.fb.me
@@ -22680,7 +22672,6 @@ v-akamai-audit-p.muscdn.com
 v-all-sg.tiktokcdn.com
 v-edgecast.tiktokcdn.com
 v-edgecast.tiktokcdn.com.bytewlb.akadns.net
-v-fastly.tiktokcdn.com
 v-ies.tiktokcdn.com
 v-pinimg-com-edgesuite-net.pinimg.com
 v.bsgslb.com
@@ -23870,7 +23861,6 @@ wap.telkomsel.com.0.facebook.com
 wapinger-bgp-01-sea1.facebook.com
 washington.facebook.com
 watchdog.energized.pro
-wave.sndcdn.com
 wc.facebook.com
 wcast.xzcs3zlph.com
 wcast.xzcs3zlph.com.edgesuite.net
@@ -24109,7 +24099,6 @@ www-client.fbjs.facebook.com
 www-distance.cinyourrc.facebook.com
 www-distance.messenger.com
 www-pinterest-com-edgekey-net.pinterest.com
-www-prod-pinterest-global-map-fastly-net.pinterest.com
 www-prod-shv-13-lla1.facebook.com
 www-test.beta.messenger.com
 www.0.facebook.com
@@ -25620,8 +25609,6 @@ www.ne-np.ro-ro.fbjs.facebook.com
 www.new.facebook.com
 www.newsfeed.fb.com
 www.nghub.fb.com
-www.nianticlabs.com
-www.nianticstatic.com
 www.nigeria.fb.com
 www.nl-be.fr-fr.prod.facebook.com
 www.nl-be.id-id.prod.facebook.com
@@ -25681,6 +25668,7 @@ www.pin.it
 www.pinimg.com
 www.pinterest.at
 www.pinterest.com
+www.pinterest.com.mx
 www.pinterest.de
 www.pitaya-clientai.com
 www.pixel.messenger.com
@@ -26005,12 +25993,10 @@ www.snafu.tfbnw.net
 www.snapads.com
 www.snapchat.com
 www.snapkit.com
-www.sndcdn.com
 www.sng.link
 www.snssdk.com
 www.so-so.developers.prod.facebook.com
 www.socialgood.fb.com
-www.soundcloud.com
 www.soydigital.fb.com
 www.soydigitalcr.fb.com
 www.soydigitalmx.fb.com
