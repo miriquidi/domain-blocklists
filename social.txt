@@ -1109,6 +1109,8 @@ api31-normal-useast1a.tiktokv.com
 api31-normal-useast2a.tiktokv.com
 api31.bytegeo.akadns.net
 api31.tiktokv.com
+api32-core-useast2a.tiktokv.com
+api32-normal-useast2a.tiktokv.com
 api32.tiktokv.com
 api39-i18n.gts.byteoversea.net
 api39.zong.byteoversea.net
@@ -17021,6 +17023,7 @@ pilipinas.fb.com
 pimg.fb.com
 pin.it
 pinimg.com
+pinoculars.com
 pinterest.at
 pinterest.com
 pinterest.com.mx
@@ -20614,6 +20617,7 @@ shop.musical.ly
 shop.oculus.com
 shop.snssdk.com
 shop.tiktok.com
+shopify.pinoculars.com
 shopping.m.beta.facebook.com
 shortcut-virus-remover.prod.facebook.com
 shortcut-virus-remover.scgraph.facebook.com
@@ -23980,6 +23984,7 @@ webcast26.amemv.com
 webcast3-c-hl.amemv.com
 webcast3-c-ipv6.amemv.com
 webcast3.amemv.com
+webcast32-normal-useast2a.tiktokv.com
 webdav.facebook.com
 webdisk.lms.live.oculusvr.com
 webex.messenger.com
@@ -25672,6 +25677,7 @@ www.php.mirror.facebook.net
 www.pilipinas.fb.com
 www.pin.it
 www.pinimg.com
+www.pinoculars.com
 www.pinterest.at
 www.pinterest.com
 www.pinterest.com.mx

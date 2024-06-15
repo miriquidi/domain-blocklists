@@ -7,6 +7,7 @@
 a-ads.com
 a8723.com
 aatkit.com
+ablyft.com
 abtasty.com
 acsbapp.com
 adcell.com
@@ -123,7 +124,6 @@ connatix.com
 contalyze.com
 contentabc.com
 contentsquare.net
-conversionbear.com
 convertexperiments.com
 crazyegg.com
 criteo.com
@@ -245,6 +245,7 @@ leadinfo.com
 leadinfo.net
 leadrebel.io
 lgsmartad.com
+liadm.com
 liftoff-creatives.io
 liftoff.io
 linkarena.com
@@ -490,7 +491,6 @@ yieldlab.net
 yieldlove-ad-serving.net
 yieldlove.com
 yieldscale.com
-yo-digital.com
 youradexchange.com
 yvmads.com
 zemanta.com
