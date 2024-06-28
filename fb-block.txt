@@ -10,6 +10,7 @@ aatkit.com
 ablyft.com
 abtasty.com
 acsbapp.com
+ad-srv.net
 adcell.com
 adcell.de
 adcolony.com
@@ -150,8 +151,6 @@ dynamicyield.com
 ebayadservices.com
 econda-monitor.de
 effectivedisplayformats.com
-ekomi.de
-ekomiapps.de
 emb-api.com
 emetriq.de
 emltrk.com
@@ -188,7 +187,6 @@ geoedge.be
 getclicky.com
 getflowbox.com
 getjad.io
-getresponse360.pl
 gismart.xyz
 go-mpulse.net
 goasrv.com
@@ -199,6 +197,7 @@ googletagmanager.com
 googletagservices.com
 gotprofits.com
 gravito.net
+gumgum.com
 hatchasked.com
 highcharts.com
 histats.com
@@ -350,6 +349,7 @@ reppa-analytics.de
 res-x.com
 research.de.com
 responsys.net
+retailads.net
 revive-adserver.net
 revy.io
 rlcdn.com

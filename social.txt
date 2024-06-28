@@ -793,6 +793,7 @@ anti-virus-rants.messenger.com
 any-graph.facebook.com
 anywhere.truevisions.tv.fb.me
 ap-gae2.spotify.com
+ap-gew4.spotify.com
 ap-guc3.spotify.com
 ap-gue1.spotify.com
 apache.mirror.facebook.net
@@ -8715,10 +8716,13 @@ fee0d3ec480-uvwyriga1605693132-sonar.xz.fbcdn.net
 fee6421a180-ejgiumnu1603014996-sonar.xz.fbcdn.net
 fee7720b880-yqpbqzks1600776068-sonar.xz.fbcdn.net
 feec7730180-zrdobyoc1611695043-sonar.xz.fbcdn.net
+feed-api-mya.capcutapi.com
 feed-api-sg.capcutapi.com
 feed-api-va.capcut.com
 feed-api-va.capcutapi.com
+feed16-normal-sg.capcutapi.com
 feed1c4fa80-zxmcmjjg1587385565-sonar.xz.fbcdn.net
+feed32-normal-sg.capcutapi.com
 feedback-va.byteoversea.com
 feedback.facebook.com
 feedback.fb.com
@@ -18177,7 +18181,10 @@ pull-l3-hs.pstatp.com
 pull-l3-hs.pstatp.com.w.alikunlun.net
 pull-l3-xg.ixigua.com.xi.zwtianshangm.com
 pull-l3.hypstarcdn.com
+pull-lls-l1-sg01.tiktokcdn.com
+pull-lls-l1-va01.tiktokcdn.com
 pull-lls-l11-sg01.tiktokcdn.com
+pull-lls-l11-va01.tiktokcdn.com
 pull-lls-l11.tiktokcdn.com
 pull-o5-gcp01.tiktokcdn.com
 pull-o5-sg01.fcdn.eu.tiktokcdn.com
@@ -18309,6 +18316,7 @@ quarantine51.facebookbrand-preprod.fb.com
 quarantined.messenger.com
 quarentena.messenger.com
 quarter-virus.internmc.facebook.com
+queuev4.vk.com
 quic-amemv-all-hl.snssdk.com
 quic-amemv-all-lf.snssdk.com
 quic-amemv-all-lq.snssdk.com
@@ -22924,6 +22932,7 @@ v4.pstatp.com
 v4.pstatp.com.wscdns.com
 v45-p.tiktokcdn-eu.com
 v45-p.tiktokcdn.com
+v45.tiktokcdn-eu.com
 v45.tiktokcdn.com
 v4help.facebook.com
 v5-dy-x.ixigua.com
