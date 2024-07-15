@@ -3732,6 +3732,7 @@ dawnfoods.facebook.com
 db.fb.me
 db.web2.fb.me
 db4prdstr08b.stream.rec-vi-vn-keys.fb.me
+dc.ads.linkedin.com
 dc.albtls.t.co
 dc7d.fb.me
 dcd.snssdk.com
@@ -13167,7 +13168,6 @@ ip.messenger.com
 ip222-autodiscover.oculusvr.com
 ip4.tracker-api.my.com
 iphone.facebook.com
-ipolyfill-origin-us.byteintlapi.com
 ippon.m.facebook.com
 ipstatp.com
 ipstatp.com.edgekey.net
@@ -18820,6 +18820,8 @@ ru.facebookbrand-release.fb.com
 ru.facebookbrand.com
 ru.messenger.com
 ru.tiktok.com
+rum14.perf.linkedin.com
+rum8.perf.linkedin.com
 rupload-bom.up.facebook.com
 rupload-cgk1-1.up.facebook.com
 rupload-del1-1.up.facebook.com
