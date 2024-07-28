@@ -297,6 +297,7 @@ accesadistance.cinyour.facebook.com
 access.fb.com
 account.oculus.com
 accounts-graph.facebook.com
+accounts.snapchat.com
 accountsecuritylockdown.internmc.facebook.com
 accountsecuritylockdown.messenger.com
 accountsecuritylockdown.staging.scgraph.facebook.com
@@ -798,6 +799,8 @@ ap-guc3.spotify.com
 ap-gue1.spotify.com
 apache.mirror.facebook.net
 apacpolicy.fb.com
+api-0-4-3.twitter.com
+api-0-4-5.twitter.com
 api-bee-hl.amemv.com
 api-bee.amemv.com
 api-c.amemv.com
@@ -1110,7 +1113,9 @@ api31-normal-useast1a.tiktokv.com
 api31-normal-useast2a.tiktokv.com
 api31.bytegeo.akadns.net
 api31.tiktokv.com
+api32-core-useast1a.tiktokv.com
 api32-core-useast2a.tiktokv.com
+api32-normal-useast1a.tiktokv.com
 api32-normal-useast2a.tiktokv.com
 api32.tiktokv.com
 api39-i18n.gts.byteoversea.net
@@ -2919,6 +2924,7 @@ bstream.sgmbocast.com
 bsync-i18n.tiktokv.com
 bsync-va.tiktokv.com
 bsync16-normal-useast1a.tiktokv.com
+bsync22-normal-useast1a.tiktokv.com
 bsync31-normal-useast1a.tiktokv.com
 bsync31-normal-useast2a.tiktokv.com
 bt.intern.fbsbx.com
@@ -5585,6 +5591,7 @@ edgetee-upload-staging-xsp.xx.fbcdn.net
 editor-api-sg.capcut.com
 editor-api-va.capcutapi.com
 editor-api.capcutapi.com
+editor32-normal-va.capcutapi.com
 edn.fbsbx.com
 edpbr.facebook.com
 edppt.facebook.com
@@ -6064,6 +6071,7 @@ eo-eo.m.prod.facebook.com
 eo-eo.nb-no.ro-ro.fbjs.facebook.com
 eo-eo.www.fbjs.facebook.com
 ep-s3.bytecdn.cn
+ep7.facebook.com
 epixel.fbjs.facebook.com
 epsilontel.facebook.com
 eqcoivd.fb.me
@@ -14694,6 +14702,7 @@ lianmengapi.snssdk.com
 libra-va.tiktokv.com
 libra16-normal-useast1a.tiktokv.com
 libra16-normal-useast2a.tiktokv.com
+libra31-normal-useast1a.tiktokv.com
 library.musical.ly
 lifeedu-016.oculusvr.com
 lindenwood.facebook.com
@@ -15502,6 +15511,7 @@ moelven.m.facebook.com
 mofxg.snssdk.com
 momgroup.facebook.com
 mon-alias1.snssdk.com
+mon-boot.capcutapi.com
 mon-boot.tiktokv.com
 mon-cold.snssdk.com
 mon-csj-maliva-ios.byteoversea.com
@@ -16608,6 +16618,7 @@ p16-captcha-us.ibyteimg.com
 p16-catalog-sg.ibyteimg.com
 p16-cg-gaudit.ibyteimg.com
 p16-d3-sign-va.ibyteimg.com
+p16-g1-sign-va.ibyteimg.com
 p16-h1-sign-va.ibyteimg.com
 p16-magic-va.ibyteimg.com
 p16-mt-sg-a.ibyteimg.com
@@ -18113,14 +18124,26 @@ pull-flv-l77-tt02.eu.tiktokcdn.com
 pull-flv-l77-tt02.tiktokcdn.com
 pull-flv-l77-va01.eu.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn.com
+pull-flv-o1-sg01.tiktokcdn.com
+pull-flv-o1-va01.tiktokcdn.com
+pull-flv-o11-sg01.tiktokcdn.com
+pull-flv-o11-va01.tiktokcdn.com
 pull-flv-o77-sg01.eu.tiktokcdn.com
 pull-flv-o77-sg01.tiktokcdn.com
 pull-flv-o77-va01.eu.tiktokcdn.com
 pull-flv-o77-va01.tiktokcdn.com
+pull-flv-q1-sg01.tiktokcdn.com
+pull-flv-q1-va01.tiktokcdn.com
+pull-flv-q10-sg01.tiktokcdn.com
+pull-flv-q10-va01.tiktokcdn.com
 pull-flv-q77-sg01.eu.tiktokcdn.com
 pull-flv-q77-sg01.tiktokcdn.com
 pull-flv-q77-va01.eu.tiktokcdn.com
 pull-flv-q77-va01.tiktokcdn.com
+pull-flv-w10-sg01.tiktokcdn.com
+pull-flv-w10-va01.tiktokcdn.com
+pull-flv-w11-sg01.tiktokcdn.com
+pull-flv-w11-va01.tiktokcdn.com
 pull-flv-w77-sg01.eu.tiktokcdn.com
 pull-flv-w77-sg01.tiktokcdn.com
 pull-flv-w77-va01.eu.tiktokcdn.com
@@ -20391,6 +20414,7 @@ search19-normal-c-useast1a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
 search31-normal-useast1a.tiktokv.com
 search31-normal-useast2a.tiktokv.com
+search32-normal-useast1a.tiktokv.com
 search32-normal-useast2a.tiktokv.com
 searchcombinationdistance.internmc.facebook.com
 searchportal.fbjs.facebook.com
@@ -20419,6 +20443,7 @@ secure.latest.instagram.com
 secure.oculus.com
 secure.prod.facebook.com
 secure.trunkstable.facebook.com
+secure.viber.com
 securecdn.oculus.com
 securitas.facebook.com
 security-api.snssdk.com
@@ -22059,6 +22084,7 @@ tmaportal.snssdk.com
 tms3.bytecdn.cn
 tms3.pstatp.com
 tms3.pstatp.com.w.kunlunle.com
+tnc0-normal-useast1a.tiktokv.com
 tnc16-alisg.byteoversea.com
 tnc16-alisg.isnssdk.com
 tnc16-alisg.tiktokv.com
@@ -22082,7 +22108,6 @@ toblog.byteoversea.com
 toblog.ctobsnssdk.com
 toblog.snssdk.com
 tog.facebook.com
-tokopedia.com
 tolakviruss.beta.facebook.com
 tolakviruss.internmc.facebook.com
 toledo.m.beta.facebook.com
@@ -23084,6 +23109,7 @@ vas-maliva16.byteoversea.com
 vas-maliva16.byteoversea.com.edgekey.net
 vas-maliva19.byteoversea.com
 vas-maliva21.byteoversea.com
+vas-va.tiktokv.com
 vas.isnssdk.com
 vas.sgsnssdk.com
 vas.snssdk.com
@@ -23854,7 +23880,6 @@ vsptest.fb.com
 vt.facebook.com
 vt.tiktok.com
 vt.tiktok.com.edgesuite.net
-vt.tokopedia.com
 vthumb.xx.fbcdn.net
 vupload-edge-business.facebook.com
 vupload-edge.facebook.com
@@ -23995,6 +24020,7 @@ webcast26.amemv.com
 webcast3-c-hl.amemv.com
 webcast3-c-ipv6.amemv.com
 webcast3.amemv.com
+webcast32-normal-useast1a.tiktokv.com
 webcast32-normal-useast2a.tiktokv.com
 webdav.facebook.com
 webdisk.lms.live.oculusvr.com
@@ -26138,7 +26164,6 @@ www.tl-ph.pl-pl.fbjs.facebook.com
 www.tl-ph.sv-se.fbjs.facebook.com
 www.tl-ph.zh-tw.fbjs.facebook.com
 www.tl-ph.zh-tw.m.lite.facebook.com
-www.tokopedia.com
 www.toutiao.com
 www.toutiao.com.bytedns.net
 www.tr-tr.beta.facebook.com
