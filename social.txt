@@ -794,13 +794,16 @@ anti-virus-rants.messenger.com
 any-graph.facebook.com
 anywhere.truevisions.tv.fb.me
 ap-gae2.spotify.com
+ap-gew1.spotify.com
 ap-gew4.spotify.com
 ap-guc3.spotify.com
 ap-gue1.spotify.com
 apache.mirror.facebook.net
 apacpolicy.fb.com
 api-0-4-3.twitter.com
+api-0-4-4.twitter.com
 api-0-4-5.twitter.com
+api-44-0-0.twitter.com
 api-bee-hl.amemv.com
 api-bee.amemv.com
 api-c.amemv.com
@@ -6071,6 +6074,7 @@ eo-eo.m.prod.facebook.com
 eo-eo.nb-no.ro-ro.fbjs.facebook.com
 eo-eo.www.fbjs.facebook.com
 ep-s3.bytecdn.cn
+ep2.facebook.com
 ep7.facebook.com
 epixel.fbjs.facebook.com
 epsilontel.facebook.com
@@ -8731,6 +8735,7 @@ feed-api-va.capcut.com
 feed-api-va.capcutapi.com
 feed16-normal-sg.capcutapi.com
 feed1c4fa80-zxmcmjjg1587385565-sonar.xz.fbcdn.net
+feed32-normal-mya.capcutapi.com
 feed32-normal-sg.capcutapi.com
 feedback-va.byteoversea.com
 feedback.facebook.com
@@ -9941,6 +9946,7 @@ getavirus-com.register.lite.facebook.com
 getstarted.tiktok.com
 getstarted.tiktok.com.edgekey.net
 gew4-dealer.spotify.com
+gew4-dealer2.spotify.com
 gew4-spclient.spotify.com
 gf-sg.snssdk.com
 gf.snssdk.com
@@ -16016,6 +16022,7 @@ netprobe-bgp-01-mrs1.facebook.com
 netprobe-bgp-01-sea1.facebook.com
 netprobe-bgp-01-syd2.facebook.com
 netprobe-bgp-01-vie1.facebook.com
+netseer-ipaddr-assoc.xy.fbcdn.net
 netseer-ipaddr-assoc.xz.fbcdn.net
 new.facebook.com
 new1-maliva-normal-lb.byteoversea.net
@@ -17367,6 +17374,7 @@ probe-b1518333.v39-perf.tiktokcdn.com
 probe-d6d04f81.v39-perf.tiktokcdn.com
 probe-e6a9e4f2.v39-perf.tiktokcdn.com
 probe-f4b19398.v39-perf.tiktokcdn.com
+probe.twitter.com
 prod.facebook.com
 prod.facebookvirtualassistant.com
 prod.messenger.com
@@ -18282,6 +18290,7 @@ push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
 push-rtmp-f5-vr-gcp01.tiktokcdn.com
+push-rtmp-f5-vr-sg01.tiktokcdn.com
 push-rtmp-f5-vr-va01.tiktokcdn.com
 push-rtmp-f5-xg.bytecdn.cn
 push-rtmp-f5.hypstarcdn.com
@@ -18289,6 +18298,7 @@ push-rtmp-f5.tiktokcdn.com
 push-rtmp-f5.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5.tiktokcdn.com.c.worldfcdn.com
 push-rtmp-l1-hs.pstatp.com
+push-rtmp-l1-sg01.tiktokcdn.com
 push-rtmp-l1-va01.tiktokcdn.com
 push-rtmp-l1-xg.bytecdn.cn
 push-rtmp-l1.hypstarcdn.com
@@ -18298,9 +18308,11 @@ push-rtmp-l10-gcp01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com.rocket-cdn.com
 push-rtmp-l10-va01.tiktokcdn.com
+push-rtmp-l11-sg01.tiktokcdn.com
 push-rtmp-l11-va01.tiktokcdn.com
 push-rtmp-l11.tiktokcdn.com
 push-rtmp-l16-gcp01.tiktokcdn.com
+push-rtmp-l16-sg01.tiktokcdn.com
 push-rtmp-l16-tt01.tiktokcdn-us.com
 push-rtmp-l16-va01.tiktokcdn.com
 push-rtmp-l16-va01.tiktokcdn.com.atomile.com
@@ -18308,6 +18320,7 @@ push-rtmp-l6-act.pstatp.com
 push-rtmp-l6-hs.pstatp.com
 push-rtmp-l6-xg.bytecdn.cn
 push-rtmp-l77-gcp01.tiktokcdn.com
+push-rtmp-l77-sg01.tiktokcdn.com
 push-rtmp-l77-va01.tiktokcdn.com
 push.delivery.facebook.com
 puskesmaskota.messenger.com
@@ -23283,6 +23296,7 @@ video-a-hkg4-2.xx.fbcdn.net
 video-a-hkt1-2.xx.fbcdn.net
 video-a-lax.xx.fbcdn.net
 video-a-mia.xx.fbcdn.net
+video-akpcw-cdn-spotify-com.akamaized.net
 video-ams4-1.cdninstagram.com
 video-ams4-1.xx.fbcdn.net
 video-amt2-1.cdninstagram.com
@@ -23326,6 +23340,7 @@ video-dus1-1.xx.fbcdn.net
 video-fml1-1.xx.fbcdn.net
 video-fml2-1.xx.fbcdn.net
 video-for1-1.xx.fbcdn.net
+video-fra3-2.xx.fbcdn.net
 video-frt3-1.cdninstagram.com
 video-frt3-1.xx.fbcdn.net
 video-frt3-2.cdninstagram.com
@@ -27010,6 +27025,7 @@ z-p4.graph.instagram.com
 z-p4.i.instagram.com
 z-p4.upload.instagram.com
 z-p4.www.instagram.com
+z-p42-chat-e2ee-ig-fallback.facebook.com
 z-p42-chat-e2ee-ig.facebook.com
 z-p42-instagram.c10r.facebook.com
 z-p42-instagram.fada1-1.fna.fbcdn.net

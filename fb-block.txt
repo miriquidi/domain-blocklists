@@ -399,7 +399,6 @@ snigelweb.com
 speedcurve.com
 spotxchange.com
 squarelovin.com
-srafcloud.com
 ssacdn.com
 ssiloc.com
 startpage.com
@@ -462,6 +461,7 @@ userreplay.com
 userreplay.net
 userreport.com
 userzoom.com
+utiq.com
 vgwort.de
 videoplayerhub.com
 vidoomy.com
