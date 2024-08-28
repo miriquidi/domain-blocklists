@@ -128,6 +128,8 @@
 288283691604268.apps.fbsbx.com
 29ht-bxwj4zk60.id-id.prod.facebook.com
 2a.new.facebook.com
+2c16f4c4-9cd7-4cce-be4c-22cdb70b2b49-netseer-ipaddr-assoc.xy.fbcdn.net
+2c16f4c4-9cd7-4cce-be4c-22cdb70b2b49-netseer-ipaddr-assoc.xz.fbcdn.net
 2fcdn.fbsbx.com
 2fforums.oculusvr.com
 2fh9l6gj.dns.facebook.com
@@ -164,6 +166,8 @@
 444625725899824.apps.fbsbx.com
 455676461606571.apps.fbsbx.com
 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
+49b043ff-5e7f-48fb-854a-5a04d6ddfb52-netseer-ipaddr-assoc.xy.fbcdn.net
+49b043ff-5e7f-48fb-854a-5a04d6ddfb52-netseer-ipaddr-assoc.xz.fbcdn.net
 4g.fb.me
 4urwgge7.dns.facebook.com
 5-channel-proxy-07-ash2.facebook.com
@@ -195,6 +199,8 @@
 800772590062226.apps.fbsbx.com
 818-v-ironmask.messenger.com
 81pis6tkf9yco54bhazrdg20enljvm3wuq7x.fb.me
+83c9b158-4b1b-498b-a09a-1737def6c349-netseer-ipaddr-assoc.xy.fbcdn.net
+83c9b158-4b1b-498b-a09a-1737def6c349-netseer-ipaddr-assoc.xz.fbcdn.net
 87.224.141.php.zero.0.facebook.com
 8yrgn49301tuzie6mlk63.sk-sk.fbjs.facebook.com
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
@@ -2830,6 +2836,7 @@ booking.facebook.com
 boostcom.m.facebook.com
 bos.bytegeo.akadns.net
 bqdlot1ghj5uzk8wp4920sfvnr3iameycx76.fb.me
+bqt4su.engagently.com
 br-fr.af-za.ro-ro.fbjs.facebook.com
 br-fr.facebook.com
 br-fr.is-is.ro-ro.fbjs.facebook.com
@@ -3002,6 +3009,8 @@ c.worldfcdn.com
 c01.i07.arnic.lv3.cloudglb.com
 c1.l.bytedns.net
 c10r.facebook.com
+c298059c-f81c-4fcf-bd5e-9caed28df556-netseer-ipaddr-assoc.xy.fbcdn.net
+c298059c-f81c-4fcf-bd5e-9caed28df556-netseer-ipaddr-assoc.xz.fbcdn.net
 c2p.facebook.net
 c9s87p.dns.facebook.com
 ca-es.af-za.ro-ro.fbjs.facebook.com
@@ -3721,6 +3730,8 @@ da-dk.zh-tw.ro-ro.fbjs.facebook.com
 da-dk.zh-tw.upps.lite.facebook.com
 da-dk.zh.lite.facebook.com
 da-dk.zh.tw.lite.facebook.com
+da95d0d3-a687-4fdd-830e-6d999cc7accd-netseer-ipaddr-assoc.xy.fbcdn.net
+da95d0d3-a687-4fdd-830e-6d999cc7accd-netseer-ipaddr-assoc.xz.fbcdn.net
 damaskevents.facebookbrand-dev.fb.com
 damaskevents.fb.me
 danone.m.facebook.com
@@ -6043,6 +6054,7 @@ en.facebookbrand.com
 en.fb.me
 en.gb.messenger.com
 en.lite.facebook.com
+engagently.com
 engineerfortheweek.fb.com
 engineering.fb.com
 engineering.instagram.com
@@ -9245,6 +9257,7 @@ fp2eeb.wpc.mucdn.net
 fplm3-1.fna.fbcdn.net
 fpt.facebook.com
 fpt.m.facebook.com
+fqt4su.engagently.com
 fr-ca.aap.lite.facebook.com
 fr-ca.ad-dk.lite.facebook.com
 fr-ca.af-za.ro-ro.fbjs.facebook.com
@@ -24685,6 +24698,7 @@ www.en-ud.www.lite.facebook.com
 www.en-us.developers.prod.facebook.com
 www.en.gb.lite.facebook.com
 www.en.lite.facebook.com
+www.engagently.com
 www.engineerfortheweek.fb.com
 www.engineering.fb.com
 www.es-es.af-za.lite.facebook.com
