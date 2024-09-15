@@ -311,6 +311,7 @@ optimizely.com
 optnx.com
 outbrain.com
 outbrainimg.com
+paa-reporting-advertising.amazon
 pangle.io
 pardot.com
 pbpms.de
@@ -381,7 +382,6 @@ sentry.io
 servedbyadbutler.com
 sexad.net
 sfmc-einstein.com
-sharedid.org
 sharethis.com
 showheroes.com
 siftscience.com

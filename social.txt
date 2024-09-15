@@ -14,6 +14,8 @@
 0.messenger.com
 0apps.fbsbx.com
 0bmvipuk9etado5gl3wrqhs167nxyc2fz4j8.fbsbx.com
+0c5db6e9-a286-4dd6-ac52-03c0ff0439b1-netseer-ipaddr-assoc.xy.fbcdn.net
+0c5db6e9-a286-4dd6-ac52-03c0ff0439b1-netseer-ipaddr-assoc.xz.fbcdn.net
 0ieyqj2t57f4lbrvgzxdnph3caswmu9k816o.fb.me
 1-channel-proxy-07-ash2.facebook.com
 1-edege-chat.messenger.com
@@ -52,6 +54,8 @@
 157.240.18.15240.2.201513w27uc.dns.facebook.com
 157.240.2.201513w27uc.dns.facebook.com
 157.240.2.2018.1513w27uc.dns.facebook.com
+15c4a6d8-c888-40f4-a902-450254705147-netseer-ipaddr-assoc.xy.fbcdn.net
+15c4a6d8-c888-40f4-a902-450254705147-netseer-ipaddr-assoc.xz.fbcdn.net
 15qrgdx.dns.facebook.com
 163.facebook.com
 1651322078504444.apps.fbsbx.com
@@ -179,7 +183,11 @@
 5412ac7a44c679ea291e43368cac45de.byteoversea.com
 547.fbsbx.com
 55qnll.dns.facebook.com
+58609e2b-2ddd-4e8f-b32e-1b8fb684e914-netseer-ipaddr-assoc.xy.fbcdn.net
+58609e2b-2ddd-4e8f-b32e-1b8fb684e914-netseer-ipaddr-assoc.xz.fbcdn.net
 593355860868552.apps.fbsbx.com
+5a5d911e-2329-4e8d-8ea3-bd52469b1205-netseer-ipaddr-assoc.xy.fbcdn.net
+5a5d911e-2329-4e8d-8ea3-bd52469b1205-netseer-ipaddr-assoc.xz.fbcdn.net
 5bl0t1.dns.facebook.com
 5o78-6d3wl.pl-pl.tr-tr.prod.facebook.com
 5uk2lse7.dns.facebook.com
@@ -188,6 +196,8 @@
 6-edge-chat.facebook.com
 6-edge-chat.messenger.com
 623284634532176.apps.fbsbx.com
+6342286e-af94-4c18-ae31-cadacaf8f766-netseer-ipaddr-assoc.xy.fbcdn.net
+6342286e-af94-4c18-ae31-cadacaf8f766-netseer-ipaddr-assoc.xz.fbcdn.net
 6461796c6967687477696e64796a616e6540686f746d616message.fb.me
 66-220-144-173-en-gb.fbjs.facebook.com
 69-171-232-146.mail-mail.facebook.com
@@ -196,7 +206,13 @@
 6di6rbwf.dns.facebook.com
 7.fbjs.facebook.com
 72dbv4e7-latin.dns.facebook.com
+76e39126-3ddd-43c6-a457-ab62c8d8b4ca-netseer-ipaddr-assoc.xy.fbcdn.net
+76e39126-3ddd-43c6-a457-ab62c8d8b4ca-netseer-ipaddr-assoc.xz.fbcdn.net
+7bf7679e-a3c4-4492-92aa-7f9a66cfed18-netseer-ipaddr-assoc.xy.fbcdn.net
+7bf7679e-a3c4-4492-92aa-7f9a66cfed18-netseer-ipaddr-assoc.xz.fbcdn.net
 800772590062226.apps.fbsbx.com
+811d7bd4-d30b-4d3e-beff-14a75e62a986-netseer-ipaddr-assoc.xy.fbcdn.net
+811d7bd4-d30b-4d3e-beff-14a75e62a986-netseer-ipaddr-assoc.xz.fbcdn.net
 818-v-ironmask.messenger.com
 81pis6tkf9yco54bhazrdg20enljvm3wuq7x.fb.me
 83c9b158-4b1b-498b-a09a-1737def6c349-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -205,7 +221,11 @@
 8yrgn49301tuzie6mlk63.sk-sk.fbjs.facebook.com
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 91.0.facebook.com
+9b2593ff-e268-414f-86e8-45e5f5dab181-netseer-ipaddr-assoc.xy.fbcdn.net
+9b2593ff-e268-414f-86e8-45e5f5dab181-netseer-ipaddr-assoc.xz.fbcdn.net
 9de-de.fbjs.facebook.com
+9f23787c-ab28-4979-be0f-f7195f7ef88f-netseer-ipaddr-assoc.xy.fbcdn.net
+9f23787c-ab28-4979-be0f-f7195f7ef88f-netseer-ipaddr-assoc.xz.fbcdn.net
 9fdmqbgdmp.apps.fbsbx.com
 9pruw2rj.dns.facebook.com
 9pwigjmwo.xzcs3zlph.com
@@ -900,6 +920,7 @@ api.new.facebook.com
 api.pinterest.com
 api.snapkit.com
 api.snssdk.com
+api.tenten.app
 api.tiktok.com
 api.tiktokv.com
 api.tiktokv.com.edgekey.net
@@ -2956,6 +2977,7 @@ businesspartners.fb.com
 buy.fb.com
 bvc-tos.pstatp.com
 by.m.beta.facebook.com
+byspotify.com
 bytecamp.toutiao.com
 bytecast.tiktokv.com
 bytecdn.cn
@@ -3118,6 +3140,8 @@ cb-iq.s.ar.ar.lite.facebook.com
 cbn.fbsbx.com
 cc.tiktok.com
 cc.toutiao.com
+cc429851-3677-47f2-ac03-bbc8b7ff791a-netseer-ipaddr-assoc.xy.fbcdn.net
+cc429851-3677-47f2-ac03-bbc8b7ff791a-netseer-ipaddr-assoc.xz.fbcdn.net
 ccamatil.facebook.com
 ccamatil.m.facebook.com
 ccbvl.facebook.com
@@ -3194,6 +3218,7 @@ channelproxy-shv-06-ash2.facebook.com
 channelproxy-shv-07-ash2.facebook.com
 chaos-boe.byted.org
 chat-e2ee-ig-p42.c10r.facebook.com
+chat-e2ee-mini-fallback.facebook.com
 chat-e2ee-mini.c10r.facebook.com
 chat-e2ee-mini.facebook.com
 chat-e2ee.facebook.com
@@ -3227,6 +3252,7 @@ classof2020.fb.com
 clayton.facebook.com
 cld74u.dns.facebook.com
 click.dev.oculusvr.com
+click.digital.metamail.com
 click.email.oculusvr.com
 click.facebook-research.facebookmail.com
 click.frl-research.facebookmail.com
@@ -3298,6 +3324,7 @@ comfytrade.m.facebook.com
 comic.snssdk.com
 comjia.oculusvr.com
 commerce-api-sg.capcutapi.com
+commerce32-normal-mya.capcutapi.com
 commobile.fb.me
 communities.fb.com
 community.instagram.com
@@ -4220,6 +4247,7 @@ developers.hu-hu.ru-ru.m.fbjs.facebook.com
 developers.instagram.com
 developers.intern.facebook.com
 developers.lm.prod.facebook.com
+developers.meta.com
 developers.ms-my.id-id.prod.facebook.com
 developers.new.facebook.com
 developers.oculus.com
@@ -4241,6 +4269,7 @@ diamond.snssdk.com
 dig.bdurl.net
 dig.bdurl.net.bytedns.net
 dig.byteoversea.com
+digital.metamail.com
 digitaleslernen.fb.com
 digitaleslernzentrum.fb.com
 digitalskill.fb.com
@@ -4418,6 +4447,8 @@ e.oculusvr.com
 e.snssdk.com
 e.toutiao.com
 e28622.a.akamaiedge.net
+e3a8ad2a-7c00-402e-b469-ea5d5606a97c-netseer-ipaddr-assoc.xy.fbcdn.net
+e3a8ad2a-7c00-402e-b469-ea5d5606a97c-netseer-ipaddr-assoc.xz.fbcdn.net
 eager.oculusvr.com
 eagleye.snssdk.com
 ebuddy.com.web.messenger.com
@@ -14721,6 +14752,7 @@ lianmengapi.snssdk.com
 libra-va.tiktokv.com
 libra16-normal-useast1a.tiktokv.com
 libra16-normal-useast2a.tiktokv.com
+libra19-normal-useast2a.tiktokv.com
 libra31-normal-useast1a.tiktokv.com
 library.musical.ly
 lifeedu-016.oculusvr.com
@@ -15344,6 +15376,8 @@ messenger.fb.com
 messengernews.fb.com
 messengerplatform.fb.com
 mesv-transit05.oculusvr.com
+meta.com
+metamail.com
 meteor.tiktok.com
 metformin.messenger.com
 metrics.snssdk.com
@@ -16655,6 +16689,7 @@ p16-musical-va.ibyteimg.com
 p16-musical-va.ibyteimg.com.edgesuite.net
 p16-pu-ie.tiktokcdn-eu.com
 p16-pu-sign-ie.tiktokcdn-eu.com
+p16-pu-useast8.tiktokcdn-us.com
 p16-push-sign-useast2a.tiktokcdn-eu.com
 p16-security-sg.ibyteimg.com
 p16-security-sg.ibyteimg.com.edgesuite.net
@@ -16729,6 +16764,7 @@ p16.muscdn.com
 p16.pstatp.com
 p16.pstatp.com.edgekey.net
 p16.pstatp.com.w.alikunlun.com
+p16.tiktokcdn-us.com
 p16.tiktokcdn.com
 p16.tiktokcdn.com.edgesuite.net
 p16.toutiao50.com
@@ -17087,6 +17123,7 @@ pixel-redirector.fbjs.facebook.com
 pixel-w3.fbjs.facebook.com
 pixel.alpha.facebook.com
 pixel.business.cinyour.facebook.com
+pixel.byspotify.com
 pixel.cinyour.facebook.com
 pixel.cstools.facebook.com
 pixel.facebook.com
@@ -21833,6 +21870,7 @@ temai.snssdk.com
 temai.snssdk.com.bytedns.net
 temai.toutiao.com
 temp.p23.tc.cdntip.com
+tenten.app
 teradici-trusted-license-test.supernova.fb.com
 test-ads.tiktok.com
 test-aweme.snssdk.com
@@ -24480,6 +24518,7 @@ www.bs-ba.zh-tw.fbjs.facebook.com
 www.bsgslb.com
 www.business.cinyour.facebook.com
 www.businesspartners.fb.com
+www.byspotify.com
 www.bytecdn.cn
 www.bytedance.com
 www.bytedanceapi.com
@@ -25573,6 +25612,8 @@ www.messenger.com
 www.messenger.fb.com
 www.messengernews.fb.com
 www.messengerplatform.fb.com
+www.meta.com
+www.metamail.com
 www.mexico.fb.com
 www.mirror.facebook.net
 www.mk-mk.af-za.ro-ro.fbjs.facebook.com
@@ -26144,6 +26185,7 @@ www.tech.fb.com
 www.techprep.fb.com
 www.techstart.fb.com
 www.telkomsel.com.0.facebook.com
+www.tenten.app
 www.tfbnw.net
 www.th-th.ar-ar.fbjs.facebook.com
 www.th-th.cs-cz.fbjs.facebook.com
