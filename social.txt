@@ -1141,7 +1141,6 @@ api31-normal-probe-useast1a.tiktokv.com
 api31-normal-q-useast1a.tiktokv.com
 api31-normal-useast1a.tiktokv.com
 api31-normal-useast2a.tiktokv.com
-api31.bytegeo.akadns.net
 api31.tiktokv.com
 api32-core-useast1a.tiktokv.com
 api32-core-useast2a.tiktokv.com
@@ -2855,7 +2854,6 @@ boobs.alpha.facebook.com
 book.snssdk.com
 booking.facebook.com
 boostcom.m.facebook.com
-bos.bytegeo.akadns.net
 bqdlot1ghj5uzk8wp4920sfvnr3iameycx76.fb.me
 bqt4su.engagently.com
 br-fr.af-za.ro-ro.fbjs.facebook.com
@@ -2984,7 +2982,6 @@ bytecdn.cn
 bytecdn.cn.bsgslb.com
 byted.org
 bytedance-tmcdn.tm.com.my
-bytedance.akadns.net
 bytedance.com
 bytedanceapi.com
 bytedapm.com
@@ -2992,7 +2989,6 @@ bytedns.net
 byteeffecttos-g.com
 bytefcdn-oversea.com
 bytegecko-i18n.com
-bytegeo.akadns.net
 byteglb.com
 bytegoofy.com
 byteicdn.com
@@ -3002,13 +2998,11 @@ byteintl.com
 byteintlapi.com
 bytemock-http-boe.byted.org
 byteoversea.com
-byteoversea.com.bytegeo.akadns.net
 byteoversea.com.edgekey.net
 byteoversea.com.edgesuite.net
 byteoversea.com.srip.net
 byteoversea.net
 bytetcdn.com
-bytewlb.akadns.net
 bytps.snssdk.com
 c-test.sc-cdn.net
 c.bytetcdn.com
@@ -4417,7 +4411,6 @@ ds1-uspreprod.fb.com
 ds1-usuat.fb.com
 ds2-dev.fb.com
 ds2-preprod.fb.com
-dsa-video.traffic.bytedance.akadns.net
 dsa01.snssdk.com
 dsa02.snssdk.com
 dsa06.snssdk.com
@@ -4743,6 +4736,7 @@ edge-livestream-upload-shv-06-lla1.facebook.com
 edge-livestream-upload-shv-13-atn1.facebook.com
 edge-livestream-upload-shv-18-prn1.facebook.com
 edge-mask.scgraph.facebook.com
+edge-mqtt-fallback.facebook.com
 edge-mqtt-latest-shv-01-cgk1.facebook.com
 edge-mqtt-latest-shv-01-gru1.lite.facebook.com
 edge-mqtt-latest-shv-01-icn1.facebook.com
@@ -15858,14 +15852,12 @@ muscdn.com.akamaized.net
 muscdn.com.cdn.cloudflare.net
 muscdn.com.edgesuite.net
 muscdn.com.srip.net
-muscdn.musical.ly.akadns.net
 musemuse.cn
 musereview.byteoversea.com
 music.m.beta.facebook.com
 music.muscdn.com
 music.musical.ly
 musical.ly
-musical.ly.akadns.net
 musical.ly.edgekey.net
 musical.ly.edgesuite.net
 musically-alternate.app.link
@@ -18563,7 +18555,6 @@ reports.fb.com
 repository-es-la.fbjs.facebook.com
 repository-pixel.fbjs.facebook.com
 res01.musical.ly
-res01.musical.ly.akadns.net
 research.facebook.com
 research.facebookmail.com
 research.fb.com
@@ -22056,7 +22047,6 @@ tiktokcdn-us.com
 tiktokcdn.com
 tiktokcdn.com.akamaized.net
 tiktokcdn.com.baishan-cloud.net
-tiktokcdn.com.bytewlb.akadns.net
 tiktokcdn.com.c.worldfcdn.com
 tiktokcdn.com.edgesuite.net
 tiktokcdn.com.w.kunlunsl.com
@@ -22392,7 +22382,6 @@ tp-pay-mva.byteoversea.com
 tp-pay-sg.byteoversea.com
 tp-pay-test.snssdk.com
 tp-pay.byteoversea.com
-tp-pay.byteoversea.com.bytegeo.akadns.net
 tp-pay.snssdk.com
 tp-paymva.snssdk.com
 tp-paysg.snssdk.com
@@ -22535,6 +22524,7 @@ troy.facebook.com
 true.facebook.com
 truevisions.tv.fb.me
 trunkstable.facebook.com
+truthsocial.com
 ts.tracker-api.my.com
 tsearch-hl.snssdk.com
 tsearch-lf.snssdk.com
@@ -22571,6 +22561,7 @@ tw.messenger.com
 tw.msn.messenger.com
 tw.tiktok.com
 twimg.com
+twitbtn.com
 twitter.co
 twitter.co.uk
 twitter.com
@@ -22780,7 +22771,6 @@ uz95.v.bsgslb.com
 v-akamai-audit-p.muscdn.com
 v-all-sg.tiktokcdn.com
 v-edgecast.tiktokcdn.com
-v-edgecast.tiktokcdn.com.bytewlb.akadns.net
 v-ies.tiktokcdn.com
 v-pinimg-com-edgesuite-net.pinimg.com
 v.bsgslb.com
@@ -26256,6 +26246,7 @@ www.tr-tr.sv-se.fbjs.facebook.com
 www.tr-tr.sv-se.fr-fr.prod.facebook.com
 www.tr-tr.vi-vn.lite.facebook.com
 www.tr.msn.messenger.com
+www.truthsocial.com
 www.tt.fun
 www.tt.inc
 www.tt.site
@@ -26266,6 +26257,7 @@ www.ttwstatic.com
 www.turkcell-imbenim.0.facebook.com
 www.turkcelluygulamalar.com.0.facebook.com
 www.twimg.com
+www.twitbtn.com
 www.twitter.co
 www.twitter.co.uk
 www.twitter.com

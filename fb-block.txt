@@ -22,6 +22,7 @@ adform.net
 adfyre.co
 adition.com
 adjust.com
+adjust.io
 adjust.net.in
 adjust.world
 adlane.info
@@ -238,7 +239,6 @@ jsctool.com
 juicyads.com
 justuno.com
 k5a.io
-kameleoon.eu
 kampyle.com
 kochava.com
 krishetrk.com
@@ -252,6 +252,7 @@ liadm.com
 liftoff-creatives.io
 liftoff.io
 linkarena.com
+litix.io
 localytics.com
 loox.io
 lp4.io
@@ -282,6 +283,7 @@ mrf.io
 mxpnl.com
 myspace.com
 mywot.com
+narrative.io
 nativendo.de
 netpoint-media.de
 newrelic.com
@@ -359,6 +361,7 @@ responsys.net
 retailads.net
 revive-adserver.net
 revy.io
+rezync.com
 rlcdn.com
 rollbar.com
 rqmob.com
@@ -416,7 +419,6 @@ tapjoy.com
 tapjoyads.com
 tappx.com
 teads.tv
-tealiumiq.com
 techlab-cdn.com
 technical-service.net
 techtarget.com
@@ -427,7 +429,6 @@ themoneytizer.com
 threadloom.com
 thunderhead.com
 tinypass.com
-tiqcdn.com
 tohapp.com
 tr.iadsdk.apple.com
 tracify.ai
@@ -437,7 +438,6 @@ traffichaus.com
 trafficjunky.com
 trafficjunky.net
 trafficstars.com
-transmatico.com
 trbo.com
 tremorhub.com
 trmads.eu
