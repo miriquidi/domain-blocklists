@@ -161,6 +161,7 @@ effectivedisplayformats.com
 emb-api.com
 emetriq.de
 emltrk.com
+emsmobile.de
 emsservice.de
 en25.com
 engageya.com
@@ -464,7 +465,6 @@ userzoom.com
 utiq.com
 vgwort.de
 videoplayerhub.com
-vidoomy.com
 visx.net
 voodoo-ads.io
 voodoo-tech.io

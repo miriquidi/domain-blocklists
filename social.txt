@@ -808,6 +808,7 @@ analytics.twitter.com
 analytics.us.tiktok.com
 anchor.facebook.com
 andrea.messenger.com
+android.rqd.qq.com
 angelfire.fb.me
 animaeducacao.facebook.com
 announcements.m.beta.facebook.com
@@ -4312,6 +4313,7 @@ dl.fb.me
 dm-maliva-quic.byteoversea.com
 dm-maliva16.byteoversea.com
 dm-maliva16.byteoversea.com.edgekey.net
+dm-me.tiktok.com
 dm-sg-quic.byteoversea.com
 dm.bytedance.net
 dm.byteoversea.com
@@ -16666,6 +16668,7 @@ p16-cg-gaudit.ibyteimg.com
 p16-d3-sign-va.ibyteimg.com
 p16-g1-sign-va.ibyteimg.com
 p16-h1-sign-va.ibyteimg.com
+p16-m-sign-useast2a.ibyteimg.com
 p16-magic-va.ibyteimg.com
 p16-mt-sg-a.ibyteimg.com
 p16-mt-sg-b.ibyteimg.com
@@ -17022,6 +17025,7 @@ pay.business.cinyour.facebook.com
 pay.facebook.com
 pay.fb.com
 paygit.fbjs.facebook.com
+payments-graph.facebook.com
 pb1.pstatp.com
 pb1.pstatp.com.wsglb0.com
 pb2.pstatp.com
@@ -17990,6 +17994,7 @@ pull-cmaf-f16-gcp01.tiktokcdn.com
 pull-cmaf-f16-gcp01.tiktokcdn.com.akamaized.net
 pull-cmaf-f16-gcp01.ttlivecdn.com
 pull-cmaf-f16-gcp01.ttlivecdn.com.akamaized.net
+pull-cmaf-f16-sg01.tiktokcdn-eu.com
 pull-cmaf-f16-sg01.tiktokcdn.com
 pull-cmaf-f16-sg01.tiktokcdn.com.akamaized.net
 pull-cmaf-f16-sg01.ttlivecdn.com
@@ -18006,6 +18011,9 @@ pull-cmaf-f16-tt02.tiktokcdn.com
 pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f16-tt03.fcdn.us.tiktokcdn.com
 pull-cmaf-f16-tt03.tiktokcdn.com
+pull-cmaf-f16-tt04.tiktokcdn-eu.com
+pull-cmaf-f16-tt04.tiktokcdn.com
+pull-cmaf-f16-va01.tiktokcdn-eu.com
 pull-cmaf-f16-va01.tiktokcdn.com
 pull-cmaf-f16-va01.tiktokcdn.com.akamaized.net
 pull-cmaf-f16-va01.ttlivecdn.com
@@ -18051,6 +18059,7 @@ pull-f5-gcp01.ttlivecdn.com.c.worldfcdn.com
 pull-f5-mus.pstatp.com
 pull-f5-sg01.fcdn.eu.tiktokcdn.com
 pull-f5-sg01.fcdn.us.tiktokv.com
+pull-f5-sg01.tiktokcdn-eu.com
 pull-f5-sg01.tiktokcdn-us.com
 pull-f5-sg01.tiktokcdn.com
 pull-f5-sg01.ttlivecdn.com
@@ -18058,18 +18067,23 @@ pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.eu.tiktokcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.co
 pull-f5-tt01.fcdn.us.tiktokv.com
+pull-f5-tt01.tiktokcdn-eu.com
 pull-f5-tt01.tiktokcdn-us.com
 pull-f5-tt01.tiktokcdn.com
 pull-f5-tt02-infra.fcdn.us.tiktokv.com
 pull-f5-tt02.fcdn.eu.tiktokcdn.com
 pull-f5-tt02.fcdn.us.tiktokv.com
+pull-f5-tt02.tiktokcdn-eu.com
 pull-f5-tt02.tiktokcdn-us.com
 pull-f5-tt02.tiktokcdn.com
 pull-f5-tt03.fcdn.eu.tiktokcdn.com
 pull-f5-tt03.tiktokcdn-us.com
 pull-f5-tt03.tiktokcdn.com
+pull-f5-tt04.tiktokcdn-eu.com
+pull-f5-tt04.tiktokcdn.com
 pull-f5-va01.fcdn.eu.tiktokcdn.com
 pull-f5-va01.fcdn.us.tiktokv.com
+pull-f5-va01.tiktokcdn-eu.com
 pull-f5-va01.tiktokcdn.com
 pull-f5-va01.ttlivecdn.com
 pull-f5-va01.ttlivecdn.com.c.worldfcdn.com
@@ -18120,20 +18134,26 @@ pull-flv-f65-sg01.tiktokcdn.com
 pull-flv-f65-va01.tiktokcdn.com
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.fcdn.eu.tiktokcdn.com
+pull-flv-f77-sg01.tiktokcdn-eu.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
+pull-flv-f77-tt01.tiktokcdn-eu.com
 pull-flv-f77-tt01.tiktokcdn-us.com
 pull-flv-f77-tt01.tiktokcdn.com
 pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
+pull-flv-f77-tt02.tiktokcdn-eu.com
 pull-flv-f77-tt02.tiktokcdn-us.com
 pull-flv-f77-tt02.tiktokcdn.com
 pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
 pull-flv-f77-tt03.tiktokcdn.com
+pull-flv-f77-tt04.tiktokcdn-eu.com
+pull-flv-f77-tt04.tiktokcdn.com
 pull-flv-f77-va01.fcdn.eu.tiktokcdn.com
+pull-flv-f77-va01.tiktokcdn-eu.com
 pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com.wsdvs.com
@@ -18256,6 +18276,8 @@ pull-l3-xg.ixigua.com.xi.zwtianshangm.com
 pull-l3.hypstarcdn.com
 pull-lls-l1-sg01.tiktokcdn.com
 pull-lls-l1-va01.tiktokcdn.com
+pull-lls-l10-sg01.tiktokcdn.com
+pull-lls-l10-va01.tiktokcdn.com
 pull-lls-l11-sg01.tiktokcdn.com
 pull-lls-l11-va01.tiktokcdn.com
 pull-lls-l11.tiktokcdn.com
@@ -18328,6 +18350,7 @@ push-rtmp-f5-sg01.ttlivecdn.com
 push-rtmp-f5-tt01.fcdn.us.tiktokv.com
 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
 push-rtmp-f5-tt03.fcdn.eu.tiktokcdn.com
+push-rtmp-f5-tt04.tiktokcdn-eu.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
@@ -18382,6 +18405,7 @@ qfyf1toi.com
 qmf11.fava.fb.com
 qmn.fava.fb.com
 qmn14.fava.fb.com
+qq.com
 qsf.autodiscover.oculusvr.com
 quarantaine.facebookbrand-release.fb.com
 quarantine-cloudstation-eu-west-1.beta.messenger.com
@@ -18586,6 +18610,7 @@ riccardocoronati.cinyour.facebook.com
 riccardocoronati.facebookbrand-release.fb.com
 riccardocoronati.fb.me
 rightsmanager.fb.com
+rmonitor.qq.com
 ro-ro.ad-dk.lite.facebook.com
 ro-ro.af-za.lite.facebook.com
 ro-ro.af-za.nl-nl.prod.facebook.com
@@ -20551,6 +20576,7 @@ sf16-cgfe-sg.ibytedtos.com
 sf16-cgfe-va.ibytedtos.com
 sf16-eacdn-tos.pstatp.com
 sf16-fe-tos-sg.i18n-pglstatp.com
+sf16-gecko.tiktokcdn-eu.com
 sf16-geckocdn.tiktokcdn.com
 sf16-ies-music-sg.tiktokcdn.com
 sf16-ies-music-va.tiktokcdn.com
@@ -22040,6 +22066,7 @@ tiktok.com.edgekey.net
 tiktok.com.edgesuite.net
 tiktok.email-messaging.com
 tiktok.in
+tiktok.me
 tiktok.org
 tiktokcdn-com.akamaized.net
 tiktokcdn-eu.com
@@ -22511,6 +22538,8 @@ traceroute-fbonly-bgp-01-maa2.facebook.com
 traceroute-fna-bgp-01-fmem1.facebook.com
 track.toutiao.com
 trade.messenger.com
+traffic-nts-ip-assoc.xy.fbcdn.net
+traffic-nts-ip-assoc.xz.fbcdn.net
 translators.facebook.com
 transparency.facebook.com
 traph.fb.me
@@ -22819,6 +22848,7 @@ v11.tiktokcdn.com
 v15-edge.tiktokcdn.com
 v15-fr.tiktokcdn.com
 v15.tiktokcdn.com
+v15m.tiktokcdn-eu.com
 v16-ad.byteoversea.com
 v16-byteoversea.muscdn.com
 v16-cla.tiktokcdn.com
@@ -25962,6 +25992,7 @@ www.pt-pt.zh-hk.lite.facebook.com
 www.pt-pt.zh-hk.pt-br.lite.facebook.com
 www.pt-pt.zh-tw.fbjs.facebook.com
 www.pt-pt.zh-tw.prod.facebook.com
+www.qq.com
 www.register.lite.facebook.com
 www.research.fb.com
 www.review.cstools.facebook.com
@@ -26206,6 +26237,7 @@ www.thrive.fb.com
 www.tiktok.com
 www.tiktok.com.edgesuite.net
 www.tiktok.in
+www.tiktok.me
 www.tiktokcdn-eu.com
 www.tiktokcdn-us.com
 www.tiktokcdn.com
