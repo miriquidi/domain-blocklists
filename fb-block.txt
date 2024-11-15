@@ -45,7 +45,7 @@ adservice.google.de
 adsessionserv.com
 adsmoloco.com
 adsrvr.org
-adsxyz.com
+alphonso.tv
 adtechus.com
 adtelligent.com
 adtilt.com
@@ -156,7 +156,6 @@ durationmedia.net
 dwin1.com
 dynamicyield.com
 ebayadservices.com
-econda-monitor.de
 effectivedisplayformats.com
 emb-api.com
 emetriq.de
@@ -240,6 +239,7 @@ jsctool.com
 juicyads.com
 justuno.com
 k5a.io
+kameleoon.eu
 kampyle.com
 kochava.com
 krishetrk.com
@@ -286,6 +286,7 @@ myspace.com
 mywot.com
 narrative.io
 nativendo.de
+navdmp.com
 netpoint-media.de
 newrelic.com
 nexx360.io
@@ -303,6 +304,7 @@ ogads.com
 oghub.io
 olark.com
 omnatuor.com
+omnitagjs.com
 omtrdc.net
 onesignal.com
 online-metrix.net
@@ -333,6 +335,7 @@ playamedia.com
 plista.com
 popcash.net
 popin.cc
+postrelease.com
 premiumvertising.com
 primis.tech
 proftrafficcounter.com
@@ -377,8 +380,6 @@ schneevonmorgen.com
 scorecardresearch.com
 scroll.com
 seedtag.com
-segment.com
-segment.io
 selfcampaign.com
 semasio.net
 sensic.net
@@ -411,7 +412,6 @@ stumbleupon.com
 supersonicads.com
 swrve.com
 symplr.de
-syndigo.com
 taboola-cpa.com
 taboola.com
 tagdeliver.com

@@ -132,6 +132,8 @@
 288283691604268.apps.fbsbx.com
 29ht-bxwj4zk60.id-id.prod.facebook.com
 2a.new.facebook.com
+2a911e4c-761d-404f-8fb6-ece833bfc9eb-netseer-ipaddr-assoc.xy.fbcdn.net
+2a911e4c-761d-404f-8fb6-ece833bfc9eb-netseer-ipaddr-assoc.xz.fbcdn.net
 2c16f4c4-9cd7-4cce-be4c-22cdb70b2b49-netseer-ipaddr-assoc.xy.fbcdn.net
 2c16f4c4-9cd7-4cce-be4c-22cdb70b2b49-netseer-ipaddr-assoc.xz.fbcdn.net
 2fcdn.fbsbx.com
@@ -914,6 +916,7 @@ api.fbsbx.com
 api.gateway.kik-live.com
 api.google.fb.messenger.com
 api.huoshan.com.bytedns.net
+api.instabug.com
 api.instagram.com
 api.locketcamera.com
 api.musical.ly
@@ -3334,6 +3337,7 @@ connect.facebook.com
 connect.facebook.net
 connect.facebook.net.edgekey.net
 connect.lite.facebook.com
+connect.ok.ru
 connectivity.fb.com
 connectlogin.beta.facebook.com
 connnect.facebook.net
@@ -8772,6 +8776,7 @@ feed-api-mya.capcutapi.com
 feed-api-sg.capcutapi.com
 feed-api-va.capcut.com
 feed-api-va.capcutapi.com
+feed16-normal-myb.capcutapi.com
 feed16-normal-sg.capcutapi.com
 feed1c4fa80-zxmcmjjg1587385565-sonar.xz.fbcdn.net
 feed32-normal-mya.capcutapi.com
@@ -11295,6 +11300,8 @@ inside.lite.facebook.com
 insidefeed.fb.com
 insights.fb.com
 inspired.fb.com
+instabug.com
+instacloud.io
 instafeed.nfcube.com
 instagram-alternate.app.link
 instagram-p15-shv-01-any2.fbcdn.net
@@ -16424,6 +16431,7 @@ oec-api.tiktokv.com
 oec16-normal-useast1a.tiktokv.com
 oec16-normal-useast2a.tiktokv.com
 oedge-c2p-shv-01-sjc3.lite.facebook.com
+oem.twimg.com
 ogma.bereal.com
 ogma.bereal.team
 ohio.facebook.com
@@ -17979,6 +17987,7 @@ publicstaticvoid.dev.messenger.com
 publicstaticvoid.internmcr.facebook.com
 publicvoidlife.beta.facebook.com
 publish.twitter.com
+pubsub-edge.twitch.tv
 puig.facebook.com
 pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
@@ -21211,6 +21220,7 @@ sonar.xz.fbcdn.net
 sonar6-iev1-1.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
 sonar6.ffco2-1.fna.fbcdn.net
+sonar6.xy.fbcdn.net
 soton.facebook.com
 soydigital.fb.com
 soydigitalcr.fb.com
@@ -21460,6 +21470,8 @@ ssl.new.facebook.com
 ssl.tiktok.com.c.secure.footprint.net
 sso.stage.autodiscover.oculusvr.com
 ssvc-gb.facebook.com
+st001015pinterest-apm.instabug.com
+st001015pinterest.instabug.com
 st1-ttcdn-tos.pstatp.com
 stage.autodiscover.oculusvr.com
 stage.messenger.com
@@ -21568,6 +21580,7 @@ sun.beta.facebook.com
 sundance.fb.com
 sunderland.facebook.com
 sunyedu.facebook.com
+superbird.spotifycdn.com
 support.musical.ly
 support.oculus.com
 support.oculusvr.com
@@ -22165,6 +22178,9 @@ tmaportal.snssdk.com
 tms3.bytecdn.cn
 tms3.pstatp.com
 tms3.pstatp.com.w.kunlunle.com
+tnc-boot.capcutapi.com
+tnc-sg.capcutapi.com
+tnc-va.capcutapi.com
 tnc0-normal-useast1a.tiktokv.com
 tnc16-alisg.byteoversea.com
 tnc16-alisg.isnssdk.com
@@ -22579,6 +22595,8 @@ ttopencdn.jomodns.com
 ttpush-alisg.byteoversea.com
 ttpush-maliva.byteoversea.com
 ttv5opencdn.jomodns.com
+ttvgames.com
+ttvnw.net
 ttwstatic.com
 turk-fb.m.beta.facebook.com
 turkes-la.fbjs.facebook.com
@@ -22591,6 +22609,7 @@ tw.msn.messenger.com
 tw.tiktok.com
 twimg.com
 twitbtn.com
+twitch.tv
 twitter.co
 twitter.co.uk
 twitter.com
@@ -23408,6 +23427,8 @@ video-dfw5-1.xx.fbcdn.net
 video-dfw5-2.cdninstagram.com
 video-dfw5-2.xx.fbcdn.net
 video-dus1-1.xx.fbcdn.net
+video-edge-2cadec.pdx01.abs.hls.ttvnw.net
+video-fa.scdn.co
 video-fml1-1.xx.fbcdn.net
 video-fml2-1.xx.fbcdn.net
 video-for1-1.xx.fbcdn.net
@@ -23507,6 +23528,7 @@ video-sjc3-1.xx.fbcdn.net
 video-sof1-1.xx.fbcdn.net
 video-syd2-1.cdninstagram.com
 video-syd2-1.xx.fbcdn.net
+video-t-2.twimg.com
 video-tpe1-1.cdninstagram.com
 video-tpe1-1.xx.fbcdn.net
 video-va.musical.ly
@@ -25294,6 +25316,8 @@ www.indonesia.fb.com
 www.insidefeed.fb.com
 www.insights.fb.com
 www.inspired.fb.com
+www.instabug.com
+www.instacloud.io
 www.instagram.com
 www.instagram.fath3-4.fna.fbcdn.net
 www.instagram.fbkk14-1.fna.fbcdn.net
@@ -26285,11 +26309,14 @@ www.tt.site
 www.ttlive.com
 www.ttlivecdn.com
 www.ttlstatic.com
+www.ttvgames.com
+www.ttvnw.net
 www.ttwstatic.com
 www.turkcell-imbenim.0.facebook.com
 www.turkcelluygulamalar.com.0.facebook.com
 www.twimg.com
 www.twitbtn.com
+www.twitch.tv
 www.twitter.co
 www.twitter.co.uk
 www.twitter.com
@@ -27031,6 +27058,7 @@ z-p4-api.facebook.com
 z-p4-cdn.fbsbx.com
 z-p4-dcn.fbsbx.com
 z-p4-external.xx.fbcdn.net
+z-p4-gateway.facebook.com
 z-p4-graph.facebook.com
 z-p4-instagram.c10r.facebook.com
 z-p4-instagram.faep7-1.fna.fbcdn.net
