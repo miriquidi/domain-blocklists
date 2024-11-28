@@ -45,7 +45,6 @@ adservice.google.de
 adsessionserv.com
 adsmoloco.com
 adsrvr.org
-alphonso.tv
 adtechus.com
 adtelligent.com
 adtilt.com
@@ -59,6 +58,7 @@ aimatch.com
 aimtell.com
 air2s.com
 alexametrics.com
+alphonso.tv
 amazon-adsystem.com
 amplitude.com
 analytics-data.io

@@ -16427,6 +16427,7 @@ oculusforbusiness.fb.com
 oculusvr.com
 oculusvrive.oculusvr.com
 oculusweb.fb.com
+odnoklassniki.ru
 oec-api.tiktokv.com
 oec16-normal-useast1a.tiktokv.com
 oec16-normal-useast2a.tiktokv.com
@@ -16440,6 +16441,7 @@ ointern-managed-client-shv-02-frt3.lite.facebook.com
 oit.facebook.com
 ok.ru
 okaside.fbsbx.com
+okcdn.ru
 okcu.facebook.com
 okwu.facebook.com
 omicrosite-edge-shv-02-maa2.lite.facebook.com
@@ -23957,6 +23959,7 @@ vistra.facebook.com
 vivirusdi.beta.facebook.com
 vk.com
 vk.ru
+vkvd290.okcdn.ru
 vm.tiktok.com
 vm.tiktok.com.edgesuite.net
 vm.xzcs3zlph.com
@@ -23989,6 +23992,7 @@ vt.facebook.com
 vt.tiktok.com
 vt.tiktok.com.edgesuite.net
 vthumb.xx.fbcdn.net
+vu.okcdn.ru
 vupload-edge-business.facebook.com
 vupload-edge.facebook.com
 vupload.beta.facebook.com
@@ -25807,7 +25811,9 @@ www.o.beta.facebook.com
 www.o.facebook.com
 www.oculus.com
 www.oculusvr.com
+www.odnoklassniki.ru
 www.ok.ru
+www.okcdn.ru
 www.on.lite.facebook.com
 www.oo.lite.facebook.com
 www.opensource.fb.com
