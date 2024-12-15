@@ -962,6 +962,7 @@ api16-core-i-alisg.sgsnssdk.com
 api16-core-ipv6.sgsnssdk.com
 api16-core-n-alisg.tiktokv.com
 api16-core-n-alisg.tiktokv.com.edgekey.net
+api16-core-no1a.tiktokv.eu
 api16-core-useast1a.tiktokv.com
 api16-core-useast1a.tiktokv.com.edgesuite.net
 api16-core-useast2a.tiktokv.com
@@ -987,6 +988,7 @@ api16-normal-i-alisg.sgsnssdk.com
 api16-normal-i-sg.sgsnssdk.com
 api16-normal-ipv4.sgsnssdk.com
 api16-normal-ipv6.sgsnssdk.com
+api16-normal-no1a.tiktokv.eu
 api16-normal-probe-useast1a.tiktokv.com
 api16-normal-useast1a.tiktokv.com
 api16-normal-useast2a.tiktokv.com
@@ -1146,8 +1148,10 @@ api31-normal-q-useast1a.tiktokv.com
 api31-normal-useast1a.tiktokv.com
 api31-normal-useast2a.tiktokv.com
 api31.tiktokv.com
+api32-core-no1a.tiktokv.eu
 api32-core-useast1a.tiktokv.com
 api32-core-useast2a.tiktokv.com
+api32-normal-no1a.tiktokv.eu
 api32-normal-useast1a.tiktokv.com
 api32-normal-useast2a.tiktokv.com
 api32.tiktokv.com
@@ -2956,6 +2960,7 @@ bstjoeun-016.autodiscover.oculusvr.com
 bstream.sgmbocast.com
 bsync-i18n.tiktokv.com
 bsync-va.tiktokv.com
+bsync16-normal-no1a.tiktokv.eu
 bsync16-normal-useast1a.tiktokv.com
 bsync22-normal-useast1a.tiktokv.com
 bsync31-normal-useast1a.tiktokv.com
@@ -3172,6 +3177,7 @@ cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 cdn.tiktok.com.c.footprint.net
 cdn.tiktok.com.c.secure.footprint.net
+cdn.vuukle.com
 cdn1-effect.snssdk.com
 cdn3-effect.snssdk.com
 cdn9-effect.snssdk.com
@@ -9838,6 +9844,7 @@ frontier.us.tiktokv.com
 frontier15-normal.tiktokv.com
 frontier16-alisg.tiktokv.com
 frontier16-normal-alisg.tiktokv.com
+frontier16-normal-no1a.tiktokv.eu
 frontier16-normal-useast1a.tiktokv.com
 frontier16-normal.tiktokv.com
 frontier16-useast1a.tiktokv.com
@@ -10655,6 +10662,7 @@ hotapi-va.isnssdk.com.edgekey.net
 hotapi-va.tiktokv.com
 hotapi-va.tiktokv.com.edgekey.net
 hotapi.sgsnssdk.com
+hotapi16-normal-no1a.tiktokv.eu
 hotapi16-normal-useast1a.tiktokv.com
 hotapi16-normal-useast2a.tiktokv.com
 hotapi19-normal-useast1a.tiktokv.com
@@ -14901,6 +14909,7 @@ log16-normal-c-useast2a.tiktokv.com
 log16-normal-c-useast2a.tiktokv.com.edgekey.net
 log16-normal-delay-alisg.tiktokv.com
 log16-normal-ind.tiktokv.com
+log16-normal-no1a.tiktokv.eu
 log16-normal-useast1a.tiktokv.com
 log16-normal-useast2a.tiktokv.com
 log16-normal.tiktokv.com
@@ -15602,6 +15611,7 @@ mon15-normal.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
+mon16-normal-no1a.tiktokv.eu
 mon16-normal-useast1a.tiktokv.com
 mon16-normal.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
@@ -15816,6 +15826,7 @@ mssdk.snssdk.com
 mssdk.us.tiktok.com
 mssdk.us.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
+mssdk16-normal-no1a.tiktokv.eu
 mssdk16-normal-useast1a.tiktokv.com
 mssdk16-normal-useast2a.tiktokv.com
 mssdk16-normal.tiktokv.com
@@ -16693,7 +16704,9 @@ p16-musical-va-ab.ibyteimg.com.edgesuite.net
 p16-musical-va.ibyteimg.com
 p16-musical-va.ibyteimg.com.edgesuite.net
 p16-pu-ie.tiktokcdn-eu.com
+p16-pu-no.tiktokcdn-eu.com
 p16-pu-sign-ie.tiktokcdn-eu.com
+p16-pu-sign-no.tiktokcdn-eu.com
 p16-pu-useast8.tiktokcdn-us.com
 p16-push-sign-useast2a.tiktokcdn-eu.com
 p16-security-sg.ibyteimg.com
@@ -18135,6 +18148,7 @@ pull-flv-f11-va01.tiktokcdn.com
 pull-flv-f11.tiktokcdn.com
 pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
 pull-flv-f58-tt03.fcdn.eu.tiktokcdn.com
+pull-flv-f58-tt04.tiktokcdn-eu.com
 pull-flv-f6-xg.bytecdn.cn
 pull-flv-f61-va01.tiktokcdn.com
 pull-flv-f62-sg01.tiktokcdn.com
@@ -18797,6 +18811,7 @@ rtlog16-applog-useast2a.tiktokv.com
 rtlog16-applog-useast5.us.tiktokv.com
 rtlog16-normal-alisg.tiktokv.com
 rtlog16-normal-ind.tiktokv.com
+rtlog16-normal-no1a.tiktokv.eu
 rtlog16-normal-useast1a.tiktokv.com
 rtlog16-normal-useast2a.tiktokv.com
 rtlog16-normal.tiktokv.com
@@ -24000,6 +24015,8 @@ vupload.facebook.com
 vupload2-shv-08-atn1.facebook.com
 vupload2-shv-08-prn2.facebook.com
 vupload2.facebook.com
+vuukle-com.webpkgcache.com
+vuukle.com
 vuwac.facebook.com
 vv-t1.ipstatp.com
 vv.ipstatp.com
@@ -24064,6 +24081,7 @@ webcast-useast2a.musical.ly.edgekey.net
 webcast-useast2a.tiktokv.com
 webcast-va.tiktokv.com
 webcast-va.tiktokv.com.edgekey.net
+webcast-ws16-normal-no1a.tiktokv.eu
 webcast.amemv.com
 webcast.amemv.com.xi.zwtianshangm.com
 webcast.musical.ly
@@ -24090,6 +24108,7 @@ webcast16-normal-c-useast1a.tiktokv.com.edgekey.net
 webcast16-normal-c-useast2a.tiktokv.com
 webcast16-normal-c-useast2a.tiktokv.com.edgekey.net
 webcast16-normal-gquic-useast1a.tiktokv.com
+webcast16-normal-no1a.tiktokv.eu
 webcast16-useast1a.musical.ly
 webcast16-useast2a.musical.ly
 webcast16-useast2a.musical.ly.edgekey.net
@@ -24132,6 +24151,7 @@ webcast26.amemv.com
 webcast3-c-hl.amemv.com
 webcast3-c-ipv6.amemv.com
 webcast3.amemv.com
+webcast32-normal-no1a.tiktokv.eu
 webcast32-normal-useast1a.tiktokv.com
 webcast32-normal-useast2a.tiktokv.com
 webdav.facebook.com
@@ -26374,6 +26394,7 @@ www.vk.com
 www.vk.ru
 www.vodafone.com.0.facebook.com
 www.vrforinclusion.fb.com
+www.vuukle.com
 www.w.beta.facebook.com
 www.web.messenger.com
 www.web.msn.messenger.com

@@ -10,6 +10,7 @@ aaxads.com
 ablyft.com
 abtasty.com
 acsbapp.com
+activehosted.com
 ad-delivery.net
 ad-srv.net
 adalliance.io
@@ -399,7 +400,6 @@ smart-tv-data.de
 smartadserver.com
 smartclip.net
 snapads.com
-snapengage.com
 snigelweb.com
 speedcurve.com
 spotxchange.com
