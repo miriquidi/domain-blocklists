@@ -3,6 +3,7 @@
 33across.com
 360yield.com
 3lift.com
+4dex.io
 6sc.co
 a-ads.com
 aatkit.com
@@ -21,6 +22,7 @@ addthis.com
 addtoany.com
 adform.net
 adfyre.co
+adgrx.com
 adition.com
 adjust.com
 adjust.io
@@ -37,10 +39,12 @@ adobetarget.com
 adpushup.com
 adrecover.com
 adrtx.net
+ads-twitter.com
 adsafeprotected.com
 adsbynimbus.com
 adscale.de
 adsco.re
+adsdk.microsoft.com
 adservice.google.com
 adservice.google.de
 adsessionserv.com
@@ -53,7 +57,6 @@ adtng.com
 adtriba.com
 advertserve.com
 affirm.com
-affyrolo.info
 agkn.com
 aimatch.com
 aimtell.com
@@ -86,6 +89,7 @@ awin1.com
 ayads.co
 batch.com
 bazaarvoice.com
+benelph.de
 bf-ad.net
 bf-tools.net
 bfops.io
@@ -95,7 +99,6 @@ bitblokes.de
 bizible.com
 bluekai.com
 bngpt.com
-bongacash.com
 bounceexchange.com
 branch.io
 brandmetrics.com
@@ -103,10 +106,10 @@ braze.com
 braze.eu
 brightline.tv
 browser-intake-datadoghq.com
+browser-intake-datadoghq.eu
+brwsrfrm.com
 btloader.com
-bullionyield.com
 bunchbox.co
-c4t.cc
 casalemedia.com
 castoola.tv
 cdn4ads.com
@@ -124,6 +127,7 @@ clickadu.com
 clickfire.com
 clickfunnels.com
 clicktale.net
+cloudflareinsights.com
 company-target.com
 condles-temark.com
 connatix.com
@@ -141,7 +145,6 @@ curloc.com
 cwi.re
 cxense.com
 datadoghq-browser-agent.com
-datadome.co
 demandbase.com
 demdex.net
 digg.com
@@ -174,7 +177,6 @@ eum-appdynamics.com
 everesttech.net
 evidon.com
 exactag.com
-exdynsrv.com
 exoclick.com
 fastcounter.de
 firstimpression.io
@@ -192,7 +194,6 @@ gbucket.at
 geistm.com
 geoedge.be
 getclicky.com
-getflowbox.com
 getjad.io
 gismart.xyz
 go-mpulse.net
@@ -210,6 +211,7 @@ histats.com
 hotjar.com
 hprofits.com
 hs-data.com
+hs-scripts.com
 hsrvv.com
 hushpub.com
 hypestat.com
@@ -258,6 +260,7 @@ litix.io
 localytics.com
 loox.io
 lp4.io
+luckyorange.com
 m-pathy.com
 mail-ads.google.com
 mannerstiring.com
@@ -271,8 +274,8 @@ metricool.com
 metricswpsh.com
 mgid.com
 minepi.com
+mintegral.com
 mintegral.net
-mister-wong.de
 ml314.com
 moatads.com
 mobileapptracking.com
@@ -300,7 +303,6 @@ nt.vc
 ntvpwpush.com
 oadts.com
 ocmhood.com
-odb.outbrain.com
 ogads.com
 oghub.io
 olark.com
@@ -308,12 +310,12 @@ omnatuor.com
 omnitagjs.com
 omtrdc.net
 onesignal.com
-online-metrix.net
 onthe.io
 opecloud.com
 openx.net
 openxcdn.net
 optimizely.com
+optimove.net
 optnx.com
 outbrain.com
 outbrainimg.com
@@ -344,7 +346,6 @@ ptgncdn.com
 pub.network
 pubmatic.com
 pubnative.net
-pushclk.com
 pushengage.com
 pushwoosh.com
 qualifytring.com
@@ -386,7 +387,6 @@ semasio.net
 sensic.net
 sentry.io
 servedbyadbutler.com
-sexad.net
 sfmc-einstein.com
 sharethis.com
 showheroes.com
@@ -430,9 +430,9 @@ themoneytizer.com
 threadloom.com
 thunderhead.com
 tinypass.com
+tiqcdn.com
 tohapp.com
 tr.iadsdk.apple.com
-tracify.ai
 trackonomics.net
 trafficfactory.biz
 traffichaus.com
@@ -456,13 +456,13 @@ upscore.com
 uptain.de
 urbanairship.com
 usabilla.com
+useinsider.com
 userlane.com
 userlike.com
 userreplay.com
 userreplay.net
 userreport.com
 userzoom.com
-utiq.com
 vgwort.de
 videoplayerhub.com
 visx.net

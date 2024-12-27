@@ -3266,6 +3266,7 @@ client-monitor.isnssdk.com
 client_monitor.isnssdk.com
 client_monitor.sgsnssdk.com
 clientmonitor.isnssdk.com
+clients-content.viber.com
 clientsidetesticici.facebook.com
 clienttoken.spotify.com
 clinent_monitor.isnssdk.com
@@ -3556,6 +3557,8 @@ csw10a.prn2.tfbnw.net
 csw30b.sgp1.tfbnw.net
 ct-m-fbx.fbsbx.com
 ct.pinterest.com
+ct82a9e4d2pr.engagently.com
+ctbf3e06f1pr.engagently.com
 ctscan.facebook.com
 cuarentena.beta.facebook.com
 cuarentena.scgraph.facebook.com
@@ -9997,6 +10000,7 @@ getavirus-com.fbjs.facebook.com
 getavirus-com.register.lite.facebook.com
 getstarted.tiktok.com
 getstarted.tiktok.com.edgekey.net
+gew4-dealer.g2.spotify.com
 gew4-dealer.spotify.com
 gew4-dealer2.spotify.com
 gew4-spclient.spotify.com
@@ -10206,7 +10210,6 @@ gwqz42wjyil0m7gsfofjvb.fbjs.facebook.com
 gwu.facebook.com
 gyron.facebook.com
 gyveepz.mzfvozqybf.com
-h-ct-m-fbx.fbsbx.com.online-metrix.net
 h.beta.facebook.com
 h.facebook.com
 h.fb.com
@@ -16707,6 +16710,7 @@ p16-pu-ie.tiktokcdn-eu.com
 p16-pu-no.tiktokcdn-eu.com
 p16-pu-sign-ie.tiktokcdn-eu.com
 p16-pu-sign-no.tiktokcdn-eu.com
+p16-pu-sign-useast8.tiktokcdn-us.com
 p16-pu-useast8.tiktokcdn-us.com
 p16-push-sign-useast2a.tiktokcdn-eu.com
 p16-security-sg.ibyteimg.com
@@ -19081,7 +19085,6 @@ s9.pstatp.com.bsgslb.com
 s9ea2g2ww151gl-wyxmal88.zh-tw.prod.facebook.com
 sa-archive.oculusvr.com
 sa.tiktok.com
-sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 safety.instagram.com
 santiagobalancovocos.cinyour.facebook.com
 santiagoblancovocos.cinyour.facebook.com
@@ -19092,6 +19095,7 @@ savethechildren.facebook.com
 savethechildren.m.facebook.com
 saveu.tiktokv.com
 sbx.fbsbx.com
+sbx01-frontend.engagently.com
 sc-cdn.net
 sc-gw.com
 sc-it.es-es.es-la.prod.facebook.com
@@ -23993,6 +23997,7 @@ vod.snssdk.com
 vod.us-east-1.bytedanceapi.com
 vodafone.facebook.com
 voffline.pstatp.com
+vp.cdn.viber.com
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 vpn.tfbnw.net
 vpn10.error.our.intern.facebook.com
