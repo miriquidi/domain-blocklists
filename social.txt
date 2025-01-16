@@ -8270,6 +8270,7 @@ fac9555f280-yynytexe1594218264-sonar.xz.fbcdn.net
 facc91c9a80-jbrcvsix1600792561-sonar.xz.fbcdn.net
 facd6e8ea80-ngzjeetl1608743774-sonar.xz.fbcdn.net
 face.messenger.com
+facebk.cc.global.prod.fastly.net
 facebook-amex-dev.facebook.com
 facebook-amex-encryption.facebook.com
 facebook-amex-sign-enc-dev.facebook.com
@@ -8795,6 +8796,8 @@ feedback.facebook.com
 feedback.fb.com
 feee1134a80-jhxcfdki1592405783-sonar.xz.fbcdn.net
 feelgood-api.tiktok.com
+feelinsonice-hrd.appspot.com
+feelinsonice.appspot.com
 fef0681e580-jlpamysf1598393673-sonar.xz.fbcdn.net
 fef93d5c680-vrprmihg1581606965-sonar.xz.fbcdn.net
 feishu-tos.pstatp.com
@@ -18090,6 +18093,7 @@ pull-f5-sg01.fcdn.us.tiktokv.com
 pull-f5-sg01.tiktokcdn-eu.com
 pull-f5-sg01.tiktokcdn-us.com
 pull-f5-sg01.tiktokcdn.com
+pull-f5-sg01.tiktokrow-cdn.com
 pull-f5-sg01.ttlivecdn.com
 pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.eu.tiktokcdn.com
@@ -18107,8 +18111,10 @@ pull-f5-tt02.tiktokcdn.com
 pull-f5-tt03.fcdn.eu.tiktokcdn.com
 pull-f5-tt03.tiktokcdn-us.com
 pull-f5-tt03.tiktokcdn.com
+pull-f5-tt03.tiktokeu-cdn.com
 pull-f5-tt04.tiktokcdn-eu.com
 pull-f5-tt04.tiktokcdn.com
+pull-f5-tt04.tiktokeu-cdn.com
 pull-f5-va01.fcdn.eu.tiktokcdn.com
 pull-f5-va01.fcdn.us.tiktokv.com
 pull-f5-va01.tiktokcdn-eu.com
@@ -18179,8 +18185,10 @@ pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
 pull-flv-f77-tt03.tiktokcdn.com
+pull-flv-f77-tt03.tiktokeu-cdn.com
 pull-flv-f77-tt04.tiktokcdn-eu.com
 pull-flv-f77-tt04.tiktokcdn.com
+pull-flv-f77-tt04.tiktokeu-cdn.com
 pull-flv-f77-va01.fcdn.eu.tiktokcdn.com
 pull-flv-f77-va01.tiktokcdn-eu.com
 pull-flv-f77-va01.tiktokcdn.com
@@ -18199,6 +18207,7 @@ pull-flv-l10-gcp01.tiktokcdn.com
 pull-flv-l10-sg01.tiktokcdn.com
 pull-flv-l10-sg01.tiktokcdn.com.rocket-cdn.com
 pull-flv-l10-va01.tiktokcdn.com
+pull-flv-l10-va01.tiktokrow-cdn.com
 pull-flv-l11-gcp01.tiktokcdn.com
 pull-flv-l11-sg01.tiktokcdn.com
 pull-flv-l11-va01.tiktokcdn.com
@@ -18314,6 +18323,7 @@ pull-o5-gcp01.tiktokcdn.com
 pull-o5-sg01.fcdn.eu.tiktokcdn.com
 pull-o5-sg01.tiktokcdn-us.com
 pull-o5-sg01.tiktokcdn.com
+pull-o5-sg01.tiktokrow-cdn.com
 pull-o5-va01.fcdn.eu.tiktokcdn.com
 pull-o5-va01.tiktokcdn-us.com
 pull-o5-va01.tiktokcdn.com
@@ -18321,10 +18331,13 @@ pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.fcdn.eu.tiktokcdn.com
 pull-q5-sg01.tiktokcdn-us.com
 pull-q5-sg01.tiktokcdn.com
+pull-q5-sg01.tiktokeu-cdn.com
+pull-q5-sg01.tiktokrow-cdn.com
 pull-q5-sg01.ttlivecdn.com
 pull-q5-va01.fcdn.eu.tiktokcdn.com
 pull-q5-va01.tiktokcdn-us.com
 pull-q5-va01.tiktokcdn.com
+pull-q5-va01.tiktokeu-cdn.com
 pull-q5-va01.ttlivecdn.com
 pull-q5.tiktokcdn.com
 pull-q5.tiktokcdn.com.c.worldfcdn.com
@@ -18359,10 +18372,13 @@ pull-w5-gcp01.tiktokcdn.com
 pull-w5-sg01.fcdn.eu.tiktokcdn.com
 pull-w5-sg01.tiktokcdn-us.com
 pull-w5-sg01.tiktokcdn.com
+pull-w5-sg01.tiktokeu-cdn.com
 pull-w5-sg01.ttlivecdn.com
 pull-w5-va01.fcdn.eu.tiktokcdn.com
 pull-w5-va01.tiktokcdn-us.com
 pull-w5-va01.tiktokcdn.com
+pull-w5-va01.tiktokeu-cdn.com
+pull-w5-va01.tiktokrow-cdn.com
 pull-w5-va01.ttlivecdn.com
 pull-w5-va01.ttlivecdn.com.c.bytefcdn-oversea.com
 pull-w5.tiktokcdn.com
@@ -18380,6 +18396,7 @@ push-rtmp-f5-tt01.fcdn.us.tiktokv.com
 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
 push-rtmp-f5-tt03.fcdn.eu.tiktokcdn.com
 push-rtmp-f5-tt04.tiktokcdn-eu.com
+push-rtmp-f5-tt04.tiktokeu-cdn.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
@@ -19096,6 +19113,7 @@ savethechildren.m.facebook.com
 saveu.tiktokv.com
 sbx.fbsbx.com
 sbx01-frontend.engagently.com
+sc-analytics.appspot.com
 sc-cdn.net
 sc-gw.com
 sc-it.es-es.es-la.prod.facebook.com
@@ -20984,6 +21002,7 @@ smtpin.vvv.facebook.com
 sn-zw.facebook.com
 sn-zw.lite.facebook.com
 snafu.tfbnw.net
+snap-dev.net
 snapads.com
 snapchat.com
 snapchat.onelink.me
@@ -22113,6 +22132,8 @@ tiktokcdn.com.edgesuite.net
 tiktokcdn.com.w.kunlunsl.com
 tiktokcdn.com.wsdvs.com
 tiktokcdn.liveplay.myqcloud.com
+tiktokeu-cdn.com
+tiktokrow-cdn.com
 tiktokv.com
 tiktokv.com.cdn.cloudflare.net
 tiktokv.com.edgekey.net
@@ -23249,6 +23270,7 @@ vc-tantan.snssdk.com
 vccs.facebook.com
 vcl-brain.snssdk.com
 vcs-i18n.tiktokv.com
+vcs-sg.byteintl.com
 vcs-sg.byteoversea.com
 vcs-sg.byteoversea.com.edgekey.net
 vcs-sg.tiktokv.com
@@ -26185,6 +26207,7 @@ www.sl-si.fr-fr.prod.facebook.com
 www.sl-si.prod.facebook.com
 www.sl-si.ro-ro.fbjs.facebook.com
 www.snafu.tfbnw.net
+www.snap-dev.net
 www.snapads.com
 www.snapchat.com
 www.snapkit.com
@@ -26296,6 +26319,8 @@ www.tiktok.me
 www.tiktokcdn-eu.com
 www.tiktokcdn-us.com
 www.tiktokcdn.com
+www.tiktokeu-cdn.com
+www.tiktokrow-cdn.com
 www.tiktokv.com
 www.tiktokv.com.edgesuite.net
 www.tiktokv.eu
