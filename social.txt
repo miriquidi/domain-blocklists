@@ -227,6 +227,8 @@
 91.0.facebook.com
 9b2593ff-e268-414f-86e8-45e5f5dab181-netseer-ipaddr-assoc.xy.fbcdn.net
 9b2593ff-e268-414f-86e8-45e5f5dab181-netseer-ipaddr-assoc.xz.fbcdn.net
+9c1a3ff0-cab1-42e3-947b-3daaac91f929-netseer-ipaddr-assoc.xy.fbcdn.net
+9c1a3ff0-cab1-42e3-947b-3daaac91f929-netseer-ipaddr-assoc.xz.fbcdn.net
 9de-de.fbjs.facebook.com
 9f23787c-ab28-4979-be0f-f7195f7ef88f-netseer-ipaddr-assoc.xy.fbcdn.net
 9f23787c-ab28-4979-be0f-f7195f7ef88f-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -2432,6 +2434,8 @@ au.tiktok.com
 au.yearinreview.fb.com
 audience.fb.com
 audio-akp-spotify-com.akamaized.net
+audio-akp.spotifycdn.com
+audio4-fa.scdn.co
 aura-11-01-snc7.facebook.com
 australia.fb.com
 auth-www.fbjs.facebook.com
@@ -3242,6 +3246,7 @@ chooseyourmask.ro-ro.fbjs.facebook.com
 choudhry.facebook.com
 chris.facebook.com
 chromebook.fbjs.facebook.com
+ci.line-apps.com
 ci.toutiao.com
 cinyour.facebook.com
 cinyour.messenger.com
@@ -3253,6 +3258,7 @@ cisco-imc.iad3.facebook.com
 cishao.cstools.facebook.com
 city.facebook.com
 cityguides.fb.com
+cix.line-apps.com
 cjwallet.snssdk.com
 claremont.facebook.com
 class.snssdk.com
@@ -3412,6 +3418,8 @@ covid-surveyvpn.it.facebookbrand-dev.fb.com
 covid.cinyourrc.facebook.com
 covid19.m.intern.facebook.com
 covid19updte.facebookbrand-preprod.fb.com
+cp-rp16-normal-no1a.tiktokv.eu
+cp-rp16-normal-useast1a.tiktokv.com
 cpan.mirror.facebook.net
 craneresorts.facebook.com
 crash.snssdk.com
@@ -14659,6 +14667,8 @@ learning.snssdk.com
 learntoprotect.fb.com
 leclerc.m.facebook.com
 legroup21.gslb.cdnle.com
+legy-de.aws.line-apps.com
+legy.line-apps.com
 lens.snapchat.com
 leonardcheshire.facebook.com
 lerequest-lookaside.fb.com
@@ -14780,6 +14790,7 @@ libra31-normal-useast1a.tiktokv.com
 library.musical.ly
 lifeedu-016.oculusvr.com
 lindenwood.facebook.com
+line-apps.com
 line-cdn.fb.me
 line.naver.jp.connect.facebook.net
 link-sg.byteoversea.com
@@ -14872,6 +14883,7 @@ loc.sc-jpl.com
 loc.snssdk.com
 location-i18n.tiktokv.com
 location-traceroute-sg.bytedance.com
+location-v6-ttp2.tiktokv.eu
 location-v6-va.tiktokv.com
 location-va.tiktokv.com
 lockdown.facebookbrand-preprod.fb.com
@@ -16439,6 +16451,7 @@ o66-220-144-227.lite.facebook.com
 obatkankermulutrahim.cinyour.facebook.com
 objectlockdown.6461796c6967687477696e64796a616e6540686f746d616message.fb.me
 obos.facebook.com
+observability-l7.bereal.com
 observability.bereal.com
 ocbc.m.facebook.com
 oculus-pp-shv-01-sin6.fbcdn.net
@@ -16780,6 +16793,7 @@ p16-va.tiktokcdn.com
 p16-vod-sign-useast2a.ibyteimg.com
 p16-vod-sign-useast2a.tiktokcdn-eu.com
 p16-webcast-hypstarcdn.byteimg.com
+p16-webcast-no.tiktokcdn-eu.com
 p16-webcast-useast1a.muscdn.com
 p16-webcast-useast1a.muscdn.com.edgesuite.net
 p16-webcast-useast2a.muscdn.com
@@ -20617,6 +20631,7 @@ serverm.fbjs.facebook.com
 servicenow.facebook.com
 sf-hs-sg.ibytedtos.com
 sf-hs-sg.ibytedtos.com.edgekey.net
+sf-ssp.tiktokcdn.com
 sf-tb-sg.ibytedtos.com
 sf-tb-sg.ibytedtos.com.edgesuite.net
 sf-third-landing-page.tiktokcdn.com
@@ -20679,6 +20694,7 @@ sf16-short-va.bytedapm.com
 sf16-short-va.bytegoofy.com
 sf16-static.i18n-pglstatp.com
 sf16-teko.tiktokcdn-eu.com
+sf16-tiktok-im-scp-sign.tiktokcdn-eu.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
 sf16-tk.tiktokcdn.com
@@ -22937,6 +22953,7 @@ v11.tiktokcdn.com
 v15-edge.tiktokcdn.com
 v15-fr.tiktokcdn.com
 v15.tiktokcdn.com
+v15m-perf.tiktokcdn-eu.com
 v15m.tiktokcdn-eu.com
 v16-ad.byteoversea.com
 v16-byteoversea.muscdn.com
@@ -25697,6 +25714,7 @@ www.learn-us-uat.fb.com
 www.learn.fb.com
 www.learntoprotect.fb.com
 www.lernen.fb.com
+www.line-apps.com
 www.lite.beta.facebook.com
 www.lite.facebook.com
 www.lite.on.lite.facebook.com

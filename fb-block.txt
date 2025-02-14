@@ -82,7 +82,6 @@ appsflyer.com
 appsflyersdk.com
 apptimize.com
 asadcdn.com
-asnapieu.com
 assemblyexchange.com
 aticdn.net
 attn.tv
@@ -91,7 +90,6 @@ aumago.com
 awin1.com
 ayads.co
 batch.com
-bazaarvoice.com
 benelph.de
 bf-ad.net
 bf-tools.net
@@ -173,6 +171,7 @@ en25.com
 engageya.com
 ensighten.com
 etahub.com
+ethicalads.io
 ethinking.de
 etracker.com
 etracker.de
@@ -183,6 +182,7 @@ exoclick.com
 firstimpression.io
 fitanalytics.com
 flashtalking.com
+flurry.com
 fndsda.net
 footprintdns.com
 fouanalytics.com
@@ -399,6 +399,7 @@ smartadserver.com
 smartclip.net
 snapads.com
 snigelweb.com
+snplow.net
 speedcurve.com
 spotxchange.com
 squarelovin.com
@@ -451,7 +452,6 @@ unityads.unity3d.com
 unrulymedia.com
 upscore.com
 uptain.de
-urbanairship.com
 usabilla.com
 useinsider.com
 userlane.com
