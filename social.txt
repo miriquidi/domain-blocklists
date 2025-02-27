@@ -35,6 +35,8 @@
 13okqba.dns.facebook.com
 13w27uc.dns.facebook.com
 1408256562572854.apps.fbsbx.com
+146c8c57-747b-4262-8340-bc522b55448b-netseer-ipaddr-assoc.xy.fbcdn.net
+146c8c57-747b-4262-8340-bc522b55448b-netseer-ipaddr-assoc.xz.fbcdn.net
 1513w27uc.dns.facebook.com
 15157.240.2.201513w27uc.dns.facebook.com
 15157.240.2.2018.1513w27uc.dns.facebook.com
@@ -14727,6 +14729,7 @@ lf16-mt-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com.edgekey.net
 lf16-oversea.goofy-cdn.com
+lf16-pitaya-pkg-sign.tiktokcdn-eu.com
 lf16-pitayacdn.tiktokcdn.com
 lf16-pkgcdn.pitaya-clientai.com
 lf16-tcs.tiktokcdn.com
@@ -14742,6 +14745,7 @@ lf19-gecko-source.tiktokcdn.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
 lf19-geckocdn.bytegecko-i18n.com
+lf19-pitaya-pkg-sign.tiktokcdn-eu.com
 lf19-pitayacdn.tiktokcdn.com
 lf19-pkgcdn.pitaya-clientai.com
 lf19-tos-files.tiktokcdn.com
@@ -16832,6 +16836,7 @@ p19-webcast.hypstarcdn.com
 p19-webcast.muscdn.com
 p19-webcast.tiktokcdn.com
 p19.hypstarcdn.com
+p19.tiktokcdn-us.com
 p2-dy.bytecdn.cn
 p2-ml.gslb.ks-cdn1.com
 p2-ml.gslb.ksyuncdn.com
