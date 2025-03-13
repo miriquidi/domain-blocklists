@@ -2687,6 +2687,7 @@ betanet-shv-03-lla1.facebook.com
 betanet-shv-04-prn2.facebook.com
 betanet-shv-09-frc1.facebook.com
 bethel.facebook.com
+beyla.site
 bfc-test-dynamic.snssdk.com
 bfc-test-gather.snssdk.com
 bfc-test-hole.snssdk.com
@@ -3341,6 +3342,7 @@ comfytrade.m.facebook.com
 comic.snssdk.com
 comjia.oculusvr.com
 commerce-api-sg.capcutapi.com
+commerce16-normal.capcutapi.com
 commerce32-normal-mya.capcutapi.com
 commobile.fb.me
 communities.fb.com
@@ -5657,6 +5659,7 @@ edgetee-upload-staging-xsp.xx.fbcdn.net
 editor-api-sg.capcut.com
 editor-api-va.capcutapi.com
 editor-api.capcutapi.com
+editor16-normal-sg.capcutapi.com
 editor32-normal-va.capcutapi.com
 edn.fbsbx.com
 edpbr.facebook.com
@@ -14885,6 +14888,7 @@ lntinfotech.m.facebook.com
 lo-la.facebook.com
 loc.sc-jpl.com
 loc.snssdk.com
+loca.sc-jpl.com
 location-i18n.tiktokv.com
 location-traceroute-sg.bytedance.com
 location-v6-ttp2.tiktokv.eu
@@ -15404,6 +15408,7 @@ mediapartnerships.mc.facebookmail.com
 melbournewater.facebook.com
 meli.facebook.com
 meli.m.facebook.com
+mem-d.sc-cdn.net
 mengima.fbjs.facebook.com
 mensajes.messenger.com
 meralco.facebook.com
@@ -21053,6 +21058,7 @@ snapads.com
 snapchat.com
 snapchat.onelink.me
 snapkit.com
+snappublisher.sc-cdn.net
 snaptu-1.facebook.com
 snaptu-d-shv-05-frc3.facebook.com
 snaptu-d-shv-10-frc1.facebook.com
@@ -24632,6 +24638,7 @@ www.beta.facebook.com
 www.beta.facebook.net
 www.beta.messenger.com
 www.bete.beta.facebook.com
+www.beyla.site
 www.bg-bg.ar-ar.developers.prod.facebook.com
 www.bg-bg.developers.prod.facebook.com
 www.bg-bg.es-la.fr-fr.fbjs.facebook.com
