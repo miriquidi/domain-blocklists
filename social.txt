@@ -8797,6 +8797,7 @@ fee6421a180-ejgiumnu1603014996-sonar.xz.fbcdn.net
 fee7720b880-yqpbqzks1600776068-sonar.xz.fbcdn.net
 feec7730180-zrdobyoc1611695043-sonar.xz.fbcdn.net
 feed-api-mya.capcutapi.com
+feed-api-sg.capcut.com
 feed-api-sg.capcutapi.com
 feed-api-va.capcut.com
 feed-api-va.capcutapi.com
