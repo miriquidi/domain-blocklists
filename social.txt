@@ -3171,6 +3171,7 @@ cdn-2.bereal.com
 cdn-ams.fbsbx.com
 cdn-cf.bereal.network
 cdn-eb.syndication.twitter.com
+cdn-fallback.fbsbx.com
 cdn-feature.byted.org
 cdn-mc-eu1-fd5f74b2.bereal.network
 cdn-sin.fbsbx.com
@@ -18041,7 +18042,6 @@ publicstaticvoid.dev.messenger.com
 publicstaticvoid.internmcr.facebook.com
 publicvoidlife.beta.facebook.com
 publish.twitter.com
-pubsub-edge.twitch.tv
 puig.facebook.com
 pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
@@ -22707,7 +22707,6 @@ tw.msn.messenger.com
 tw.tiktok.com
 twimg.com
 twitbtn.com
-twitch.tv
 twitter.co
 twitter.co.uk
 twitter.com
@@ -26437,7 +26436,6 @@ www.turkcell-imbenim.0.facebook.com
 www.turkcelluygulamalar.com.0.facebook.com
 www.twimg.com
 www.twitbtn.com
-www.twitch.tv
 www.twitter.co
 www.twitter.co.uk
 www.twitter.com
