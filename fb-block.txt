@@ -406,7 +406,6 @@ spotxchange.com
 squarelovin.com
 ssacdn.com
 ssiloc.com
-startpage.com
 statserv.net
 stumbleupon.com
 supersonicads.com
@@ -419,6 +418,7 @@ tapad.com
 tapjoy.com
 tapjoyads.com
 tappx.com
+target-video.com
 teads.tv
 techlab-cdn.com
 technical-service.net
