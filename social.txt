@@ -23529,6 +23529,7 @@ video-dfw5-2.cdninstagram.com
 video-dfw5-2.xx.fbcdn.net
 video-dus1-1.xx.fbcdn.net
 video-edge-2cadec.pdx01.abs.hls.ttvnw.net
+video-edge-b9105e.pdx01.abs.hls.ttvnw.net
 video-fa.scdn.co
 video-fml1-1.xx.fbcdn.net
 video-fml2-1.xx.fbcdn.net

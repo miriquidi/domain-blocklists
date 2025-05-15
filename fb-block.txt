@@ -53,6 +53,7 @@ adservice.google.de
 adsessionserv.com
 adsmoloco.com
 adsninja.ca
+adspirit.de
 adsrvr.org
 adtechus.com
 adtelligent.com
@@ -388,7 +389,6 @@ servedbyadbutler.com
 sfmc-einstein.com
 sharethis.com
 showheroes.com
-siftscience.com
 simpleanalytics.com
 simplewebanalysis.com
 singular.net
