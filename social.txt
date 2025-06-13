@@ -2872,6 +2872,7 @@ boobs.alpha.facebook.com
 book.snssdk.com
 booking.facebook.com
 boostcom.m.facebook.com
+bplslb.com
 bqdlot1ghj5uzk8wp4920sfvnr3iameycx76.fb.me
 br-fr.af-za.ro-ro.fbjs.facebook.com
 br-fr.facebook.com
@@ -24660,6 +24661,7 @@ www.bn-in.it-it.prod.facebook.com
 www.bn-in.ja-jp.es-es.prod.facebook.com
 www.bn-in.on.lite.facebook.com
 www.bn-in.tr-tr.is-is.fbjs.facebook.com
+www.bplslb.com
 www.brasil.fb.com
 www.brazil.fb.com
 www.bs-ba.de-de.fr-fr.fbjs.facebook.com
