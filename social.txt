@@ -22690,10 +22690,8 @@ ttlive.com
 ttlivecdn.com
 ttlstatic.com
 ttopencdn.gshifen.com
-ttopencdn.jomodns.com
 ttpush-alisg.byteoversea.com
 ttpush-maliva.byteoversea.com
-ttv5opencdn.jomodns.com
 ttvgames.com
 ttvnw.net
 ttwstatic.com
