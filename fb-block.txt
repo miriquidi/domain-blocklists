@@ -95,6 +95,7 @@ benelph.de
 bf-ad.net
 bf-tools.net
 bfops.io
+bidmachine.io
 bidswitch.net
 bidtheatre.com
 bitblokes.de
@@ -139,7 +140,6 @@ connectad.io
 contalyze.com
 contentabc.com
 contentsquare.net
-convertexperiments.com
 crazyegg.com
 criteo.com
 criteo.net
@@ -377,7 +377,6 @@ rubiconproject.com
 samsungads.com
 sascdn.com
 scarabresearch.com
-schneevonmorgen.com
 scorecardresearch.com
 scroll.com
 seedtag.com
@@ -432,6 +431,7 @@ thunderhead.com
 tiqcdn.com
 tohapp.com
 trackonomics.net
+tradedoubler.com
 trafficfactory.biz
 traffichaus.com
 trafficjunky.com
